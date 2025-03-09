@@ -3,3 +3,6 @@ Crypto-Trading bot for final year module
 
 ## Library Used:
 - ccxt : library getting information on cryptocurrency stocks
+- Tweepy
+- Regex
+- NLTK Vader Lexicon Package
