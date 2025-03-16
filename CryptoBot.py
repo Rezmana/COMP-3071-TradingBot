@@ -9,11 +9,8 @@ import asyncio
 from configparser import ConfigParser
 from twikit import Client, TooManyRequests
 
-load_dotenv()
-
 MINIMUM_TWEETS = 10
-query = 'BTC'
-
+query = 'chatgpt'
 
 config = ConfigParser()
 config.read('config.ini')
@@ -21,15 +18,15 @@ username = config['x']['username']
 email = config['x']['email']
 password = config['x']['password']
 
-# Create an instance of the ccxt.binance class
-# exchange = ccxt.binance()
 
-# tickeer = exchange.fetch_ticker('BTC/USDT')
-# print(json.dumps(tickeer, indent=4))
-
-# Authenticate to Twitter
 client = Client(language='en-US')
-client.login(auth_info_1 = username, auth_info_2 = email, password=password) 
-client.save_cookies('cookies.json')
+async def main():
+    # Login and save cookies
+    await client.login(auth_info_1=username, auth_info_2=email, password=password)
+    # await client.save_cookies('cookies.json')
+    print("Logged in successfully!")
+
+asyncio.run(main())
+# Authenticate to Twitter
 
 
