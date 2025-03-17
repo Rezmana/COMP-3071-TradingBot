@@ -102,33 +102,72 @@ Follow a mod account below to be notified in your home feed when the latest r/CC
  
 * u/CryptoOptimists- — Posts the Monthly Optimists Discussion threads.
 
-* u/CryptoNewsUpdates — Posts the Monthly News Summary threads.",13,130,https://www.reddit.com/r/CryptoCurrency/comments/1jc8re6/daily_crypto_discussion_march_16_2025_gmt0/
-Post,1jc8c3g,Michael Saylor now owns more Bitcoin than the United States and China combined.,Odd-Radio-8500,1742082008.0,,812,181,https://i.redd.it/ve2i53r7wxoe1.jpeg
-Post,1jc4ybg,"But did you have a trustless global computer, dad?",InclineDumbbellPress,1742072136.0,,1166,56,https://i.redd.it/mnlp8o9sxvoe1.png
-Post,1jcghib,Donald Trump’s Crypto Firm WLFI is Down $88M on Ethereum,hiorea,1742111414.0,,93,16,https://coinstats.app/news/90fbe3cc059399619699620bb6b5a98ce486c64791ffc024ebec6b10126b9fdf_Donald-Trump%E2%80%99s-Crypto-Firm-WLFI-is-Down-%2488M-on-Ethereum/
+* u/CryptoNewsUpdates — Posts the Monthly News Summary threads.",15,200,https://www.reddit.com/r/CryptoCurrency/comments/1jc8re6/daily_crypto_discussion_march_16_2025_gmt0/
+Post,1jc8c3g,Michael Saylor now owns more Bitcoin than the United States and China combined.,Odd-Radio-8500,1742082008.0,,892,199,https://i.redd.it/ve2i53r7wxoe1.jpeg
+Post,1jc4ybg,"But did you have a trustless global computer, dad?",InclineDumbbellPress,1742072136.0,,1247,56,https://i.redd.it/mnlp8o9sxvoe1.png
+Post,1jcje45,Is the bullrun over? A historical risk analysis,AlexWasTakenWasTaken,1742124385.0,"Two months I created a post to take a pulse of the market when we were at all time highs. Since it was super well received, let's update our risk metrics [from the previous post](https://www.reddit.com/r/CryptoCurrency/comments/1i61phz/crypto_hasnt_even_begun_to_melt_faces_part_2/) and see where we stand after this correction. Clearly, we're not as euphoric as last time. **TL;DR** at the bottom.
+
+Always keep in mind:
+
+>All models are wrong, but some are useful. - George Box
+
+We'll capture the market by taking a weighted average of my favorite metrics:
+
+**Alphasquared (**[**link**](https://alphasquared.io/)**) - 40%**
+
+https://preview.redd.it/fq2kwiikd1pe1.png?width=1198&format=png&auto=webp&s=e24760e2e72477bf62fe521f7c0bf28431605e53
+
+* This one is my most trusted metric and what I've used for almost two years now to DCA. It was the only one to pinpoint the Bear Market perfectly. With the best track record of all, we weigh this at 40%.
+* The current Risk is: **43 out of 100** (down from 60.8)
+
+**Benjamin Cowen (**[**YouTube**](https://www.youtube.com/watch?v=h7QLSd6Bj-U&ab_channel=BenjaminCowen)**) - 30%**
+
+https://preview.redd.it/d1d13w3ld1pe1.png?width=2754&format=png&auto=webp&s=f1a535e60835e5218152d5f8990bb6bc4220e2f5
+
+* This one missed the 2022 bottom by a fair bit and it seems to have been quite high when we reached 73 risk. I like to diversify my indicators and there's a certain reputation around this so I'll include it, albeit at a lesser weight of 30%
+* The current Risk is: **49 out of 100** (down from 60.6)
+
+**RSI (**[link](https://www.tradingview.com)**) - 20%**
+
+https://preview.redd.it/hfrt7xamd1pe1.png?width=2069&format=png&auto=webp&s=ddbbd6a01bbbdd05d65baaea96c82583927f5d90
+
+* We all know the RSI. It's a trusty indicator, albeit a simple one. This is a weekly timeframe.
+* The current Risk is: **47.7 out of 100** (down from 68.8)
+
+**CBBI  (**[link](https://colintalkscrypto.com/cbbi/)**) - 10%**
+
+https://preview.redd.it/d1w0wybnd1pe1.png?width=1110&format=png&auto=webp&s=b4f82a821fcda6d571cfd003ae8851b064c913c5
+
+* This one missed both the top in 2021 and the bottom in 2022, but not by a huge margin. It has since been refitted without mention, but we'll still include it with 10% weight.
+* The current Risk is: **70 out of 100** (down from 81). Still elevated but no longer in strong selling territory!
+
+Now, let's combine all of these:
+
+|Indicator|Weight|Current Risk|Weighted Risk|
+|:-|:-|:-|:-|
+|Alphasquared|40%|43|17.2|
+|Benjamin Cowen|30%|49|14.7|
+|RSI|20%|47.7|9.54|
+|CBBI|10%|70|7.0|
+|Totals|100%||48.4 out of 100|
+
+# What This Means
+
+Our weighted risk score has dropped from 64.4 to 48.4 out of 100. This puts us in more neutral territory compared to the elevated risk we saw two months ago. It's worth noting that every previous bull run has featured multiple corrections of 30-40% before reaching the actual market top.
+
+# The Importance of Strategy
+
+Having a clear strategy remains crucial during these market fluctuations. If risk continues decreasing, this presents an opportunity to accumulate at better prices. Conversely, if risk begins climbing again in the coming months, a disciplined DCA-out approach becomes important.
+
+**The worst approach would be to get disinterested and leave the space after incurring losses**. Remember that lower risk environments are precisely when accumulation becomes most beneficial. Even if we enter a bear market, which can be painful and boring, this is historically when the groundwork for significant returns is established.
+
+The core principle remains: the lower risk goes, the more you should consider buying. The higher risk goes, the more you should consider taking profits in incremental steps.
+
+**TL;DR:** The recent 25% drop from ATH has significantly lowered our risk metrics from 64.4 to 48.4. Historical patterns suggest this is a correction rather than the end of the bull market (see charts).",77,37,https://www.reddit.com/r/CryptoCurrency/comments/1jcje45/is_the_bullrun_over_a_historical_risk_analysis/
+Post,1jcghib,Donald Trump’s Crypto Firm WLFI is Down $88M on Ethereum,hiorea,1742111414.0,,146,20,https://coinstats.app/news/90fbe3cc059399619699620bb6b5a98ce486c64791ffc024ebec6b10126b9fdf_Donald-Trump%E2%80%99s-Crypto-Firm-WLFI-is-Down-%2488M-on-Ethereum/
+Post,1jcjiwi,White House Confirms David Sacks Sold Crypto Holdings Worth $200 Million Prior to Appointment,lakantala,1742124926.0,,48,10,https://morrow.report/white-house-confirms-sacks-sold-crypto-holdings-worth-200-million-prior-to-appointment/
 Post,1jc4592,Houston crime: Four teens charged in Bitcoin robbery of online streamer,StraightStackin,1742069919.0,"This is why you don't tell anyone you own crypto.
 
-Update to the story, arrests have been made.  Not long ago Amouranth mentioned on a stream she had some Bitcoin ($20m worth.) Not long after that, masked men attempted a robbery at her house demanding the crypto.  She was on the phone with her husband who was in another wing of their property when they invaded, hearing all this through the phone he put on his vest and grabbed his gun.  He waited at the top of a dark stairway assuming she would bring them towards him, which she did, he told her to duck, fired some shots, hit one of the suspects and they feed.  Many did not believe her, they thought it was staged for promotional purposes, but arrests have now been made and surveillance footage released.  ",429,48,https://www.fox26houston.com/news/houston-crime-four-teens-charged-home-invasion-online-streamer
-Post,1jc5cue,Possible volatility incoming as Trump orders military action in Yemen,StraightStackin,1742073241.0,,356,122,https://www.newsweek.com/donald-trump-launches-decisive-military-action-yemen-houthis-2045462
-Post,1jchwdw,"Chainlink Unlocks 19,000,000 LINK Worth $262,000,000, Sends Majority to Binance: On-Chain Data - The Daily Hodl",Illperformance6969,1742117972.0,,18,3,https://dailyhodl.com/2025/03/16/chainlink-unlocks-19000000-link-worth-262000000-sends-majority-to-binance-on-chain-data/
-Post,1jcg4x2,Only 10% of Americans support increasing federal funding for crypto; majority oppose reserve: Poll,KIG45,1742109811.0,,24,7,https://www.theblock.co/post/346481/only-10-of-americans-support-increasing-federal-funding-for-crypto-majority-oppose-reserve-poll
-Post,1jc8d8n,What happened to the 4 year cycle?  The S&P500 is now tied on the 4 year chart at ~43%.,Vaginosis-Psychosis,1742082100.0,"What happened to the 4 year cycle? Bitcoin is now tied with the S&P500 on the 4 year chart. Both are up \~43% after 4 years. 
-
-Has this ever happened before? Not a good look for Bitocin.
-
-I saw a recent post on X by a Bitcoin OG, Pierre Rochard, saying ""Bitcoin is all about holding for 5 years. It's time arbitrage."" It used to be 4 years. It's always been 4 years. Why the change in narrative?
-
-So now that we're changing that narrative., what else?
-
-It's a 5 years cycle now. Bitcoin no longer money or currency, but digital gold and a Store of Value meant to be held only. Forget what the pesky whitepaper said about peer to peer cash.
-
-Also, another pattern broken, Bitcoin did not double after 4 years. This is also the first time this has happened. 
-
-I'm sick of all the Bitcoin influencers who change their narrative every time Bitoicn does its own thing and proves everybody wrong. Literally nothing can be predicted or even assumed. Pattern after pattern is broken. 
-
-Now you got people seriously claiming that $109,000 could have been the top for this cycle. Fuck all that. 
-
-I love Bitcoin and I'm still holding, but I have to admit I'm disappointed that my first cycle is breaking all these norms to the downside. What shit luck class of 21' has!
-
-  
-",81,107,https://www.reddit.com/r/CryptoCurrency/comments/1jc8d8n/what_happened_to_the_4_year_cycle_the_sp500_is/
+Update to the story, arrests have been made.  Not long ago Amouranth mentioned on a stream she had some Bitcoin ($20m worth.) Not long after that, masked men attempted a robbery at her house demanding the crypto.  She was on the phone with her husband who was in another wing of their property when they invaded, hearing all this through the phone he put on his vest and grabbed his gun.  He waited at the top of a dark stairway assuming she would bring them towards him, which she did, he told her to duck, fired some shots, hit one of the suspects and they feed.  Many did not believe her, they thought it was staged for promotional purposes, but arrests have now been made and surveillance footage released.  ",486,51,https://www.fox26houston.com/news/houston-crime-four-teens-charged-home-invasion-online-streamer
+Post,1jc5cue,Possible volatility incoming as Trump orders military action in Yemen,StraightStackin,1742073241.0,,362,122,https://www.newsweek.com/donald-trump-launches-decisive-military-action-yemen-houthis-2045462
+Post,1jchwdw,"Chainlink Unlocks 19,000,000 LINK Worth $262,000,000, Sends Majority to Binance: On-Chain Data - The Daily Hodl",Illperformance6969,1742117972.0,,28,5,https://dailyhodl.com/2025/03/16/chainlink-unlocks-19000000-link-worth-262000000-sends-majority-to-binance-on-chain-data/
