@@ -11,6 +11,16 @@ from nltk.corpus import stopwords
 # Load environment variables
 load_dotenv()
 
+
+
+# # Download NLTK resources
+# nltk.download("punkt_tab")
+# nltk.download("stopwords")
+# nltk.download("wordnet")
+# nltk.download('omw-1.4')
+
+# print(nltk.data.find('tokenizers/punkt_tab/english/'))
+
 # Load Reddit API credentials
 reddit_client_id = os.getenv('REDDIT_CLIENT_ID')
 reddit_client_secret = os.getenv('REDDIT_CLIENT_SECRET')
@@ -27,12 +37,6 @@ subreddit = reddit.subreddit('cryptocurrency')
 # Lists to store posts and comments
 data = []
 data_comments = []
-
-# Download NLTK resources
-nltk.download("punkt")
-nltk.download("stopwords")
-nltk.download("wordnet")
-
 
 # Initialize NLTK utilities
 stop_words = set(stopwords.words("english"))
@@ -100,6 +104,10 @@ fitness_data_comments.to_csv('reddit_comments_data.csv', index=False)
 
 # Apply text preprocessing
 fitness_data["clean_text"] = fitness_data["Text"].apply(preprocess_text)
+fitness_data_comments["clean_text"] = fitness_data_comments["Text"].apply(preprocess_text)
+
+fitness_data.to_csv('reddit_data_clean.csv', index=False)
+fitness_data_comments.to_csv('reddit_comments_data_clean.csv', index=False)
 
 # Display preprocessed data
-print(fitness_data[["Text", "clean_text"]].head())
+# print(fitness_data[["Text", "clean_text"]].head())
