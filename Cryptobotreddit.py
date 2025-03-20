@@ -65,7 +65,7 @@ def preprocess_text(text):
     return " ".join(words)
 
 # Scrape posts from subreddit
-for post in subreddit.hot(limit=10):
+for post in subreddit.hot(limit=10000):
     data.append({
         'Type': 'Post',
         'Post_id': post.id,
@@ -79,7 +79,7 @@ for post in subreddit.hot(limit=10):
     })
     
     # Extract comments
-    post.comments.replace_more(limit=0)  # Load all comments
+    post.comments.replace_more(limit=10)  # Load all comments
     comments = post.comments.list()  # Convert comment forest into a list
     
     for comment in comments:

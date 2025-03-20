@@ -1,5 +1,3 @@
-# Download NLTK resources
-# nltk.download("punkt_tab")
-# nltk.download("stopwords")
-# nltk.download("wordnet")
-# nltk.download('omw-1.4')
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    print(f"Using device: {device}")
+    model.to(device)
