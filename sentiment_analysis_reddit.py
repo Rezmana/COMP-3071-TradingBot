@@ -7,6 +7,11 @@ from dotenv import load_dotenv
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from transformers import pipeline
+import matplotlib.pyplot as plt
+import torch
+import torch.nn.functional as F
 
 # Load environment variables
 load_dotenv()
@@ -109,3 +114,61 @@ fitness_data_comments.to_csv('reddit_comments_data_clean.csv', index=False)
 
 # Display preprocessed data
 print(fitness_data[["Text", "clean_text"]].head())
+
+
+
+def get_sentiment(text):
+    if not isinstance(text, str) or text.strip() == "":
+        return "NEUTRAL"
+    
+    # Tokenize and truncate to max length
+    inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=512)
+    
+    with torch.no_grad():
+        outputs = model(**inputs)
+        scores = F.softmax(outputs.logits, dim=1)
+        predicted_label = torch.argmax(scores, dim=1).item()
+        return labels[predicted_label]
+
+# Load tokenizer & model
+tokenizer = AutoTokenizer.from_pretrained("cardiffnlp/twitter-roberta-base-sentiment-latest")
+model = AutoModelForSequenceClassification.from_pretrained("cardiffnlp/twitter-roberta-base-sentiment-latest")
+model.eval()
+
+# Sentiment labels for this model
+labels = ['NEGATIVE', 'NEUTRAL', 'POSITIVE']
+
+# Apply sentiment analysis
+fitness_data["sentiment"] = fitness_data["clean_text"].apply(get_sentiment)
+fitness_data_comments["sentiment"] = fitness_data_comments["clean_text"].apply(get_sentiment)
+
+# Save results
+fitness_data.to_csv('reddit_data_with_sentiment.csv', index=False)
+fitness_data_comments.to_csv('reddit_comments_with_sentiment.csv', index=False)
+
+# Load sentiment analysis pipeline
+sentiment_pipeline = pipeline("sentiment-analysis", model="cardiffnlp/twitter-roberta-base-sentiment-latest")
+
+# Optional: preview
+print(fitness_data[["clean_text", "sentiment"]].head())
+
+# Function to plot sentiment distribution
+def plot_sentiment_distribution(df, title="Sentiment Distribution"):
+    sentiment_counts = df["sentiment"].value_counts()
+    sentiment_counts = sentiment_counts.reindex(['NEGATIVE', 'NEUTRAL', 'POSITIVE'], fill_value=0)  # Consistent order
+    
+    plt.figure(figsize=(6, 4))
+    sentiment_counts.plot(kind="bar")
+    plt.title(title)
+    plt.xlabel("Sentiment")
+    plt.ylabel("Number of Entries")
+    plt.xticks(rotation=0)
+    plt.grid(axis='y', linestyle='--', alpha=0.7)
+    plt.tight_layout()
+    plt.show()
+
+# Plot for posts
+plot_sentiment_distribution(fitness_data, title="Post Sentiment Distribution")
+
+# Plot for comments
+plot_sentiment_distribution(fitness_data_comments, title="Comment Sentiment Distribution")
