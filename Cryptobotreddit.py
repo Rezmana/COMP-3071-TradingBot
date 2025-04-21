@@ -11,11 +11,11 @@ from nltk.corpus import stopwords
 # Load environment variables
 load_dotenv()
 
-# Download NLTK resources
-nltk.download("punkt_tab")
-nltk.download("stopwords")
-nltk.download("wordnet")
-nltk.download('omw-1.4')
+# # Download NLTK resources
+# nltk.download("punkt_tab")
+# nltk.download("stopwords")
+# nltk.download("wordnet")
+# nltk.download('omw-1.4')
 
 # print(nltk.data.find('tokenizers/punkt_tab/english/'))
 
