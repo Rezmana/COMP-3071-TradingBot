@@ -20,8 +20,8 @@ from tensorflow.keras.callbacks import EarlyStopping
 from coinmetrics.api_client import CoinMetricsClient
 
 # Set file paths and directories
-output_dir_pkl = os.path.join(os.getcwd(), "data_pkl")
-output_dir_onchain_output = os.path.join(os.getcwd(), "onchain_output")
+output_dir_pkl = r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\onchain data\data_pkl"
+output_dir_onchain_output = r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\onchain data\onchain_output"
 os.makedirs(output_dir_pkl, exist_ok=True)
 
 # Initialize CoinMetrics client

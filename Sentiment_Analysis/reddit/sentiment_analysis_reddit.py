@@ -17,8 +17,8 @@ import time
 
 # Set device and create graph directory if needed
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-graph_directory = r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\COMP-3071-TradingBot\Sentiment_Analysis\sentiment graphs"
-pkl_directory = r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\COMP-3071-TradingBot\Sentiment_Analysis\data_pkl"
+graph_directory = r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\sentiment_data\sentiment graphs"
+pkl_directory = r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\sentiment_data\data_pkl"
 os.makedirs(graph_directory, exist_ok=True) 
 os.makedirs(pkl_directory, exist_ok=True)
 
