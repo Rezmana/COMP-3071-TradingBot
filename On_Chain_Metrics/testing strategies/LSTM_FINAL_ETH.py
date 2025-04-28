@@ -6,10 +6,6 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_absolute_error
 from tensorflow.keras.models import load_model
 
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import LSTM, Dense, Dropout
-from tensorflow.keras.callbacks import EarlyStopping
-
 from coinmetrics.api_client import CoinMetricsClient
 client = CoinMetricsClient()
 
@@ -26,7 +22,7 @@ scaler_y = joblib.load(r'C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project
 # 'TxTfrCnt' - this is for the transaction count
 # 'IssContNtv' - this is for the native issuance count
 # 'IssContPctAnn' - this is for the annual percentage of the issuance count
-#
+
 metrics_eth = client.get_asset_metrics(assets='eth', metrics=['PriceUSD','HashRate','TxTfrCnt','AdrActCnt', 'SplyCur'], start_time="2017-01-01", end_time="2024-01-02", frequency='1d')
 
 # Convert the DataCollection to a pandas DataFrame
@@ -40,7 +36,7 @@ metrics_eth.dropna(inplace=True)
 
 # Select same features used in training
 # X = df[['HashRate','AdrActCnt', 'PriceUSD', 'TxTfrCnt_per_address', 'SplyCur_per_address']].values
-X_eth = metrics_eth[['PriceUSD']].values
+X_eth = metrics_eth[['PriceUSD','HashRate','TxTfrCnt','AdrActCnt', 'SplyCur']].values
 y_eth = metrics_eth['PriceUSD_target'].values
 
 # Scale with the SAME scaler (important!)
@@ -82,6 +78,37 @@ y_pred_eth_scaled = model.predict(X_eth_seq)
 y_pred_eth = scaler_y.inverse_transform(y_pred_eth_scaled)
 y_eth_actual = scaler_y.inverse_transform(y_eth_seq.reshape(-1, 1))
 
+# Create a DataFrame with dates, actual prices, and predicted prices
+results_df = pd.DataFrame({
+    'Date': metrics_eth['time'].iloc[time_steps:].values,  # Skip first time_steps days
+    'Actual_Price': y_eth_actual.flatten(),
+    'Predicted_Price': y_pred_eth.flatten()
+})
+
+# Calculate percentage error and absolute error
+results_df['Percentage_Error'] = ((results_df['Predicted_Price'] - results_df['Actual_Price']) / 
+                                 results_df['Actual_Price']) * 100
+results_df['Absolute_Error_USD'] = results_df['Predicted_Price'] - results_df['Actual_Price']
+
+# Print header
+print("\nDaily Ethereum Price Predictions:")
+print("=" * 80)
+print(f"{'Date':<12} | {'Actual Price ($)':>15} | {'Predicted Price ($)':>18} | {'Error ($)':>10} | {'Error (%)':>9}")
+print("-" * 80)
+
+# Print each row
+for _, row in results_df.iterrows():
+    print(f"{row['Date'].strftime('%Y-%m-%d')} | {row['Actual_Price']:15.2f} | {row['Predicted_Price']:18.2f} | "
+          f"{row['Absolute_Error_USD']:10.2f} | {row['Percentage_Error']:8.2f}%")
+
+# Print summary statistics
+print("\nSummary Statistics:")
+print(f"Average Absolute Error: ${results_df['Absolute_Error_USD'].abs().mean():.2f}")
+print(f"Average Percentage Error: {results_df['Percentage_Error'].abs().mean():.2f}%")
+print(f"Maximum Overestimation: {results_df['Percentage_Error'].max():.2f}%")
+print(f"Maximum Underestimation: {results_df['Percentage_Error'].min():.2f}%")
+
+# ... (rest of your existing code for metrics and plotting remains the same) ...
 # Calculate metrics
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 import numpy as np
@@ -163,3 +190,4 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig('eth_prediction_error.png', dpi=300)
 plt.show()
+
