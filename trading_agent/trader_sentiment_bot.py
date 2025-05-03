@@ -11,9 +11,9 @@ import joblib
 START_DATE       = '2023-12-01'
 END_DATE         = '2023-12-31'
 TIME_STEPS       = 60    # look-back window for LSTM
-SENTIMENT_FOLDER = r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\sentiment_data\google_search_data\sentiment_roberta\bitcoin"
+MODEL = "finbert"
+SENTIMENT_FOLDER = fr"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\sentiment_data\google_search_data\sentiment_{MODEL}\bitcoin"
 SENTIMENT_WEIGHT = 0.075
-
 # --- 1) LOAD RAW ON-CHAIN DATA (no sl---
 df_raw = pd.read_csv(
     r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code"
@@ -218,7 +218,7 @@ SentimentAwareMovingAverageTrader("MovingAverageTrader", model, scaler_X, scaler
 ]
 
 # --- 7) RUN BACKTEST ---
-print("Starting corrected sentiment-aware simulation...")
+print("Starting sentiment-aware simulation...")
 for t in range(TIME_STEPS, len(prices)):
     curr_date = dates.iloc[t].isoformat()
     if curr_date < START_DATE:
@@ -245,7 +245,7 @@ for agent in agents:
 plt.figure(figsize=(14, 7))
 for agent in agents:
     plt.plot(agent.history, label=agent.name)
-plt.title('Corrected Sentiment-Aware Agent Portfolios (Dec 1–31)')
+plt.title(f'{MODEL}: Sentiment-Aware Agent Portfolios (Dec 1–31)')
 plt.xlabel('Trading Steps')
 plt.ylabel('Portfolio Value (USD)')
 plt.legend()

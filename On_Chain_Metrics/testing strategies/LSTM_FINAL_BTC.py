@@ -198,11 +198,16 @@ class RandomTrader(LSTMTradingAgent):
 
 class MovingAverageTrader(LSTMTradingAgent):
     def __init__(self, name, model, scaler_X, scaler_y, initial_cash=100,
-                 short_window=7, long_window=30):
+                 short_window=7, long_window=30, historical_prices=None):
         super().__init__(name, model, scaler_X, scaler_y, initial_cash)
         self.short_window = short_window
         self.long_window = long_window
         self.prices_seen = []
+        
+        # Pre-load historical prices if provided
+        if historical_prices is not None:
+            self.prices_seen = historical_prices.copy()
+            print(f"Pre-loaded {len(self.prices_seen)} historical prices for {name}")
 
     def act(self, X_window, price_now, current_date):
         p_hat = self.predict_price(X_window)
@@ -224,7 +229,6 @@ class MovingAverageTrader(LSTMTradingAgent):
                 self.cash += amt * price_now
                 self.crypto -= amt
         
-        # Debug output
         print(
             f"{self.name} | {current_date.date()} | "
             f"price_now={price_now:.2f} | "
@@ -233,6 +237,7 @@ class MovingAverageTrader(LSTMTradingAgent):
         )
         
         self.history.append(self.get_final_balance(price_now))
+
 
 # --- 5) LOAD MODEL AND SCALERS ---
 model = load_model(
@@ -251,13 +256,22 @@ scaler_y = joblib.load(
     r"\btc_scaler_y_4ChainMetrics.pkl"
 )
 
+# Find historical price range
+simulation_start_idx = np.where(df['time'].dt.date >= pd.to_datetime(start_date).date())[0][0]
+historical_end_idx = simulation_start_idx - 1
+historical_start_idx = max(0, historical_end_idx - 30)
+
+historical_prices = []
+if historical_start_idx < historical_end_idx:
+    historical_prices = prices[historical_start_idx:historical_end_idx].tolist()
+
 # --- 6) INITIATE AGENTS ---
 agents = [
     GreedyBuyer("GreedyBuyer", model, scaler_X, scaler_y),
     CautiousHolder("CautiousHolder", model, scaler_X, scaler_y),
     PartialTrader("PartialTrader", model, scaler_X, scaler_y),
     RandomTrader("RandomTrader", model, scaler_X, scaler_y),
-    MovingAverageTrader("MovingAverageTrader", model, scaler_X, scaler_y)
+    MovingAverageTrader("MovingAverageTrader", model, scaler_X, scaler_y, historical_prices=historical_prices)
 ]
 
 # --- 7) RUN BACKTEST WITH DEBUGGING ---
