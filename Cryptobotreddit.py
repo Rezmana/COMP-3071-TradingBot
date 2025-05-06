@@ -11,8 +11,6 @@ from nltk.corpus import stopwords
 # Load environment variables
 load_dotenv()
 
-
-
 # # Download NLTK resources
 # nltk.download("punkt_tab")
 # nltk.download("stopwords")
@@ -110,4 +108,4 @@ fitness_data.to_csv('reddit_data_clean.csv', index=False)
 fitness_data_comments.to_csv('reddit_comments_data_clean.csv', index=False)
 
 # Display preprocessed data
-# print(fitness_data[["Text", "clean_text"]].head())
+print(fitness_data[["Text", "clean_text"]].head())
