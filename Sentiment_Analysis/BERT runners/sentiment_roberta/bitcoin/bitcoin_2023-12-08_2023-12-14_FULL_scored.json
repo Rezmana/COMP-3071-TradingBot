@@ -1,0 +1,1493 @@
+[
+    {
+        "title": "Cryptoverse: Bitcoin defies its doubters in 2023",
+        "snippet": "If 2022 was the year that \"broke bitcoin\", 2023 has been the year of trauma recovery.",
+        "highlighted_words": [
+            "2023 has been the year of trauma recovery"
+        ],
+        "position": 1,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.14918283186852932,
+            "neu": 0.6594661474227905,
+            "pos": 0.19135097786784172
+        }
+    },
+    {
+        "title": "David Sencil, Author at Bitcoin News",
+        "snippet": "LATEST NEWS \u00b7 Bitcoin Steady at $93K As Battle With Gold Ensues \u00b7 Bitdeer Soars, but Scandal Looms\u2014Is the Rally Built on Shaky Ground? \u00b7 Charting the TRUMP ...",
+        "highlighted_words": [
+            "Bitcoin Steady at $93K As Battle With Gold Ensues"
+        ],
+        "position": 2,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.04426067927852273,
+            "neu": 0.8763701021671295,
+            "pos": 0.07936923578381538
+        }
+    },
+    {
+        "title": "Bitcoin's Largest Decline in Four Months Frays Startling Rally",
+        "snippet": "Bitcoin posted its steepest drop in almost four months as traders moved to lock in profits following a more than 150% rally this year.",
+        "highlighted_words": [
+            "Bitcoin posted its steepest drop in almost four months"
+        ],
+        "position": 3,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.3812878578901291,
+            "neu": 0.5549456924200058,
+            "pos": 0.06376640126109123
+        }
+    },
+    {
+        "title": "Crypto market eyes interest rates and expected bitcoin ...",
+        "snippet": "After ending 2023 on a high, crypto investors will be watching central bank interest rates and a U.S. regulatory decision on new bitcoin products as they ...",
+        "highlighted_words": [
+            "crypto investors will be watching central bank interest rates"
+        ],
+        "position": 4,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.029688480775803328,
+            "neu": 0.8436711132526398,
+            "pos": 0.12664044462144375
+        }
+    },
+    {
+        "title": "BM&F Bitcoin Currency Futures (BITc1) News",
+        "snippet": "Bitcoin (BTC) Price Takes Hit, But Brace Yourself for Real Pressure in 48 Hours. U.Today - In a dramatic turn of events, the crypto market witnessed a ...",
+        "highlighted_words": [
+            "Bitcoin (BTC) Price Takes Hit"
+        ],
+        "position": 5,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0656098760664463,
+            "neu": 0.877021849155426,
+            "pos": 0.05736820586025715
+        }
+    },
+    {
+        "title": "$100K in 2024. $1m in 2030. Experts predict Bitcoin's future",
+        "snippet": "The next Bitcoin halving is predicted to occur in early 2024, and with it another buying opportunity. This event happens roughly every four years.",
+        "highlighted_words": [
+            "The next Bitcoin halving is predicted to occur in early 2024"
+        ],
+        "position": 6,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.029644490219652653,
+            "neu": 0.7327760457992554,
+            "pos": 0.23757946491241455
+        }
+    },
+    {
+        "title": "FASB Issues Standard to Improve the Accounting for and ...",
+        "snippet": "The amendments in the ASU improve the accounting for certain crypto assets by requiring an entity to measure those crypto assets at fair value each reporting ...",
+        "highlighted_words": [
+            "crypto",
+            "crypto"
+        ],
+        "position": 7,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.01778719574213028,
+            "neu": 0.7938843369483948,
+            "pos": 0.18832843005657196
+        }
+    },
+    {
+        "title": "While Jamie Dimon bashes Bitcoin, JPMorgan's crypto empire ...",
+        "snippet": "Jamie Dimon just bashed Bitcoin, again, saying that Congress should ban it. But JPMorgan's digital assets unit has quietly tripled its headcount in the last ...",
+        "highlighted_words": [
+            "Bitcoin"
+        ],
+        "position": 8,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.38384363055229187,
+            "neu": 0.5671668946743011,
+            "pos": 0.04898942820727825
+        }
+    },
+    {
+        "title": "Leaving the Wild West: Taming Crypto and Unleashing ...",
+        "snippet": "For one, crypto assets are not going away. Bitcoin is trading at its highest value since April 2022. The crypto market cap doubled over the last year. And still ...",
+        "highlighted_words": [
+            "Bitcoin is trading at its highest value since April 2022"
+        ],
+        "position": 9,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.021648491732776165,
+            "neu": 0.634779617190361,
+            "pos": 0.3435719180852175
+        }
+    },
+    {
+        "title": "Investors lose millions as crypto schemes operate ...",
+        "snippet": "Thousands of investors have lost millions of dollars in crypto investment schemes that have escaped regulator warnings in Australia, despite financial ...",
+        "highlighted_words": [
+            "Thousands of investors have lost millions of dollars in crypto investment schemes"
+        ],
+        "position": 10,
+        "date": "Dec 13, 2023",
+        "sentiment": "negative",
+        "probs": {
+            "neg": 0.7945954501628876,
+            "neu": 0.19570352882146835,
+            "pos": 0.009700979571789503
+        }
+    },
+    {
+        "title": "Over $300M in stolen crypto assets reached Bitcoin mixers ...",
+        "snippet": "Data analyzed by CertiK shows that more than $300 million in the stolen proceeds from 50 of the largest exploits of 2023 ended up in Bitcoin.",
+        "highlighted_words": [
+            "Bitcoin"
+        ],
+        "position": 11,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.26723286509513855,
+            "neu": 0.6467430293560028,
+            "pos": 0.08602416142821312
+        }
+    },
+    {
+        "title": "Crypto News Today: Liquidations Spike as BTC Tumbles to ...",
+        "snippet": "Bitcoin (BTC) tumbled to a Monday session low of $40,642 before steadying. US regulatory activity and BTC-spot ETF-related news remain focal points. Binance ...",
+        "highlighted_words": [
+            "Bitcoin (BTC) tumbled to a Monday session low of $40,642"
+        ],
+        "position": 12,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.41605980694293976,
+            "neu": 0.557114377617836,
+            "pos": 0.02682584710419178
+        }
+    },
+    {
+        "title": "Why Was Bitcoin Created? | Crypto. ...",
+        "snippet": "Innovations like Bitcoin mining have helped to incentivise the network's growth, while halving has controlled the currency's supply, ensuring scalability and ...",
+        "highlighted_words": [
+            "Bitcoin mining have helped to incentivise the network's growth"
+        ],
+        "position": 13,
+        "date": "Dec 9, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.051172950537875295,
+            "neu": 0.54292431473732,
+            "pos": 0.4059027675539255
+        }
+    },
+    {
+        "title": "Where Does Jamie Dimon Stand on Crypto?",
+        "snippet": "This week JPMorgan Chase (JPM) CEO Jamie Dimon expressed his opposition for cryptocurrencies and bitcoin at a Senate hearing, albeit not for the first time.",
+        "highlighted_words": [
+            "bitcoin"
+        ],
+        "position": 14,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.3045662194490433,
+            "neu": 0.6770606935024261,
+            "pos": 0.01837310753762722
+        }
+    },
+    {
+        "title": "Bitnomial Becomes First Crypto-Native Exchange to be ...",
+        "snippet": "Bitnomial, a US-regulated digital asset derivatives exchange, today was granted a US clearinghouse license to clear margined digital asset futures and options ...",
+        "highlighted_words": [
+            "Bitnomial, a US-regulated digital asset derivatives exchange"
+        ],
+        "position": 15,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.08643588749691844,
+            "neu": 0.7846204042434692,
+            "pos": 0.12894371151924133
+        }
+    },
+    {
+        "title": "Two Men Charged for Operating $25M Cryptocurrency ...",
+        "snippet": "A superseding indictment was unsealed yesterday charging an Australian national and a California man with operating a cryptocurrency Ponzi scheme that ...",
+        "highlighted_words": [
+            "Australian national and a California man"
+        ],
+        "position": 16,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.4614496976137161,
+            "neu": 0.523666575551033,
+            "pos": 0.014883707277476788
+        }
+    },
+    {
+        "title": "Crypto News: Bitcoin Price, SOL Rally, ETH, PYTH, HNT ...",
+        "snippet": "Crypto News: Bitcoin Price, SOL Rally, ETH, PYTH, HNT & MORE!! 90K views \u00b7 1 year ago #Cryptonews #Bitcoin #News ...more ...",
+        "highlighted_words": [],
+        "position": 17,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.013927404768764973,
+            "neu": 0.7879055440425873,
+            "pos": 0.19816705584526062
+        }
+    },
+    {
+        "title": "Bitcoin (BTC) Halving News",
+        "snippet": "Bitcoin Nears Halving: Market Braces for $5 Billion Sell-Off and $122,000 Bull Target. 2 mins 1 year ago Apr 15, 2024. This Bitcoin Mining Stock Leads the ...",
+        "highlighted_words": [
+            "Bitcoin Nears Halving"
+        ],
+        "position": 18,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.07258993061259389,
+            "neu": 0.8375894725322723,
+            "pos": 0.08982060104608536
+        }
+    },
+    {
+        "title": "Bitcoin News - X",
+        "snippet": "Two men, operating under the pseudonyms Bitcoin Yoda and Blue Wizard, have been accused by the US Department of Justice of stealing $25M in a series of scams.",
+        "highlighted_words": [
+            "Two men, operating under the pseudonyms Bitcoin Yoda and Blue Wizard"
+        ],
+        "position": 19,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.36137487553060055,
+            "neu": 0.5917577147483826,
+            "pos": 0.04686737456358969
+        }
+    },
+    {
+        "title": "Cryptocurrency mining News and Insights",
+        "snippet": "Read the latest news and insights about Cryptocurrency mining from Microsoft's team of experts at Microsoft Security Blog.",
+        "highlighted_words": [
+            "Read the latest news and insights about Cryptocurrency mining"
+        ],
+        "position": 20,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.033041276736184955,
+            "neu": 0.700267881155014,
+            "pos": 0.26669083535671234
+        }
+    },
+    {
+        "title": "Future of Financial Services | DTCC Digital Assets",
+        "snippet": "Dan Doney, Chief Technology Officer, explains how blockchain enables transactions for cash, equities, and physical assets \u2013 all on the same platform. DTCC ...",
+        "highlighted_words": [
+            "Dan Doney, Chief Technology Officer"
+        ],
+        "position": 21,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.013046401087194681,
+            "neu": 0.6346420794725418,
+            "pos": 0.35231150686740875
+        }
+    },
+    {
+        "title": "Why Brazilian bank's embrace of Bitcoin is a lot like ... - DL News",
+        "snippet": "Ita\u00fa Unibanco, the largest bank in Latin America, is rolling out Bitcoin and Ethereum trading for its customers.",
+        "highlighted_words": [
+            "Ita\u00fa Unibanco, the largest bank in Latin America"
+        ],
+        "position": 22,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.011390312400180846,
+            "neu": 0.5993117690086365,
+            "pos": 0.3892979621887207
+        }
+    },
+    {
+        "title": "10 Best Bitcoin Stocks To Invest In",
+        "snippet": "In this article, we discuss the best bitcoin stocks to invest in. If you want to skip our discussion on the bitcoin industry, head directly to 5 Best ...",
+        "highlighted_words": [
+            "best bitcoin stocks to invest in"
+        ],
+        "position": 23,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.021677567856386304,
+            "neu": 0.588233232498169,
+            "pos": 0.39008916914463043
+        }
+    },
+    {
+        "title": "Bitcoin Has Been In A Class Of Its Own For The Last 10 ...",
+        "snippet": "Bitcoin has encountered a critical resistance level going into the weekend and could move sideways following a massive rally. According to an expert, ...",
+        "highlighted_words": [
+            "Bitcoin has encountered a critical resistance level going into the weekend"
+        ],
+        "position": 24,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.2205892875790596,
+            "neu": 0.683116614818573,
+            "pos": 0.0962940901517868
+        }
+    },
+    {
+        "title": "FASB Publishes its First Direct Accounting Standard for ...",
+        "snippet": "Currently, the crypto sector is reinvigorated \u2014 stemming from a recent run up in crypto prices, particularly with Bitcoin up more than 130% this year. Many ...",
+        "highlighted_words": [
+            "Bitcoin up more than 130% this year"
+        ],
+        "position": 25,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.015839613508433104,
+            "neu": 0.5168676823377609,
+            "pos": 0.46729275211691856
+        }
+    },
+    {
+        "title": "Press Releases",
+        "snippet": "Blockstream has announced raising USD $125 million in convertible note and secured loan financing to expand its institutional bitcoin mining colocation ...",
+        "highlighted_words": [
+            "raising USD $125 million in convertible note and secured loan financing"
+        ],
+        "position": 26,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.08911636716220528,
+            "neu": 0.7145228981971741,
+            "pos": 0.19636068865656853
+        }
+    },
+    {
+        "title": "Crypto News Daily | Podcast on Spotify",
+        "snippet": "Solaxy Presale Reaches 30 Million, SEC Delays Ether Staking Decision, Google Enforces Strict Crypto Ads, Institutions Boost Bitcoin Holdings, and more...",
+        "highlighted_words": [
+            "Solaxy Presale Reaches 30 Million"
+        ],
+        "position": 27,
+        "date": "Dec 10, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.013780559180304408,
+            "neu": 0.6761128902435303,
+            "pos": 0.3101065829396248
+        }
+    },
+    {
+        "title": "Bitcoin's bounce 'still early innings'",
+        "snippet": "Bitcoin's crypto winter appears to be thawing, bouncing to the $43,000-$46,000 range, up 159% from last December as tracked by Dow Jones Market Data Group.",
+        "highlighted_words": [
+            "Bitcoin's crypto winter appears to be thawing"
+        ],
+        "position": 28,
+        "date": "Dec 10, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.005400318885222077,
+            "neu": 0.4582918733358383,
+            "pos": 0.5363078564405441
+        }
+    },
+    {
+        "title": "River launches global Bitcoin payments over text",
+        "snippet": "River (River.com), a leading Bitcoin technology and financial services company, launches River Link, enabling global Bitcoin payments via text message.",
+        "highlighted_words": [
+            "River (River.com), a leading Bitcoin technology and financial services company"
+        ],
+        "position": 29,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.002937536279205233,
+            "neu": 0.5975926518440247,
+            "pos": 0.39946984499692917
+        }
+    },
+    {
+        "title": "Bitcoin News",
+        "snippet": "NEW: As wealth is passed from Boomers to younger generations, an incremental $20-$28M of daily buying pressure will enter the crypto market over the next ...",
+        "highlighted_words": [
+            "crypto"
+        ],
+        "position": 30,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.044827139005064964,
+            "neu": 0.8285379409790039,
+            "pos": 0.1266349032521248
+        }
+    },
+    {
+        "title": "Cryptocurrencies: Bitcoin Slips to $41K",
+        "snippet": "This weekly update tracks some of the largest cryptocurrencies by market share: bitcoin and ether. We've also included XRP.",
+        "highlighted_words": [
+            "bitcoin"
+        ],
+        "position": 31,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.054091602039989084,
+            "neu": 0.5949514657258987,
+            "pos": 0.35095698200166225
+        }
+    },
+    {
+        "title": "Bitcoin Depot (BTM) News Flow - Futubull",
+        "snippet": "Top market news, company earnings, real-time market data and in-depth market analysis from Futubull.",
+        "highlighted_words": [
+            "Top market news"
+        ],
+        "position": 32,
+        "date": "Dec 10, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.029085643123835325,
+            "neu": 0.8447812795639038,
+            "pos": 0.12613311037421227
+        }
+    },
+    {
+        "title": "Bitcoin Trades Above $41K, Ether Stays Below $2200 ...",
+        "snippet": "3.0 TV is a news channel which gives you the latest news on blockchain and cryptocurrency on a daily basis which include Bitcoin (BTC), Ethereum, LUNA, UST, ...",
+        "highlighted_words": [],
+        "position": 33,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.00825536239426583,
+            "neu": 0.7586826980113983,
+            "pos": 0.23306190967559814
+        }
+    },
+    {
+        "title": "Accounting for and Disclosure of Crypto Assets",
+        "snippet": "On December 13, 2023, the Financial Accounting Standards Board (FASB) issued an Accounting Standards Update that addresses the accounting for and disclosure of ...",
+        "highlighted_words": [],
+        "position": 35,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.03993462445214391,
+            "neu": 0.9083661437034607,
+            "pos": 0.05169927701354027
+        }
+    },
+    {
+        "title": "Bitcoin Price Drops Below $41000 Amid Broader Market ...",
+        "snippet": "The price of Bitcoin has briefly dropped below $41000, while Ethereum and more altcoins face market correction with XRP and Cardano down 5%.",
+        "highlighted_words": [
+            "The price of Bitcoin has briefly dropped below $41000"
+        ],
+        "position": 36,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.46968217194080353,
+            "neu": 0.5021418333053589,
+            "pos": 0.028175992891192436
+        }
+    },
+    {
+        "title": "Can Bitcoin Save the American Dream? Vivek Ramaswamy ...",
+        "snippet": "Bitcoin can help rebuild the American dream in as a form of Digital hard money.",
+        "highlighted_words": [],
+        "position": 37,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.057613549404777586,
+            "neu": 0.4797740802168846,
+            "pos": 0.462612334638834
+        }
+    },
+    {
+        "title": "Latest News on Egypt",
+        "snippet": "Egyptian authorities have banned Bitcoin, as it is not covered by financial control laws. The technology of blockchain in Egypt is developing, with several ...",
+        "highlighted_words": [
+            "Egyptian authorities have banned Bitcoin"
+        ],
+        "position": 38,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.1603052206337452,
+            "neu": 0.7929217517375946,
+            "pos": 0.04677307698875666
+        }
+    },
+    {
+        "title": "The INSANE Crypto Bull Market is Coming! - BIG NEWS!",
+        "snippet": "The BIG crypto bull market 2024 is about to hit! Already the price of Bitcoin, Ethereum, Solana and many altcoins are starting to go ballistic!",
+        "highlighted_words": [],
+        "position": 39,
+        "date": "",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.015171972685493529,
+            "neu": 0.16861488670110703,
+            "pos": 0.8162131011486053
+        }
+    },
+    {
+        "title": "Brazil Leads in Crypto Adoption",
+        "snippet": "The Latin American country earlier this year enforced a law that ensures the Brazilian Central Bank has regulatory oversight over the crypto economy.",
+        "highlighted_words": [
+            "crypto"
+        ],
+        "position": 40,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.01634280662983656,
+            "neu": 0.8473617136478424,
+            "pos": 0.13629549369215965
+        }
+    },
+    {
+        "title": "Coq Inu (COQ) Price Today, News & Live Chart",
+        "snippet": "Coq Inu is a global digital currency exchange offering cryptocurrency trading, advanced tools, and staking options for beginners and experts alike.",
+        "highlighted_words": [
+            "cryptocurrency"
+        ],
+        "position": 41,
+        "date": "3 hours ago",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.02024843858089298,
+            "neu": 0.694721907377243,
+            "pos": 0.28502967208623886
+        }
+    },
+    {
+        "title": "Supreme Court Transfers Over 40 FIRs Linked To Bitcoin ...",
+        "snippet": "In a significant development, the Supreme Court Wednesday ordered transfer of over 40 FIRs related to the Bitcoin ... News \u00b7 Tech \u00b7 Weather \u00b7 Health \u00b7 TV Schedule ...",
+        "highlighted_words": [
+            "Bitcoin",
+            "News"
+        ],
+        "position": 42,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.03212252585217357,
+            "neu": 0.5943520367145538,
+            "pos": 0.37352546863257885
+        }
+    },
+    {
+        "title": "THIS ALTCOIN SEASON CAN MAKE YOU RICH!! Bitcoin ...",
+        "snippet": "THIS ALTCOIN SEASON CAN MAKE YOU RICH!! Bitcoin News Today, Solana & Ethereum Price Prediction! *Register on Bybit* https://bit.ly/BybitJosh *(Up to ...",
+        "highlighted_words": [],
+        "position": 43,
+        "date": "",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.008597238804213703,
+            "neu": 0.2802164554595947,
+            "pos": 0.7111862897872925
+        }
+    },
+    {
+        "title": "GLOBAL BITCOIN ATM LEADER COINFLIP BRINGS ...",
+        "snippet": "... OVER-THE-COUNTER CRYPTO PURCHASES. (PRNewsfoto/CoinFlip). News provided by. CoinFlip. Dec 13, 2023, 09:00 ET. Share this article. Share toX. Share this ...",
+        "highlighted_words": [
+            "CRYPTO",
+            "News"
+        ],
+        "position": 44,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.03676331788301468,
+            "neu": 0.8873984813690186,
+            "pos": 0.07583823800086975
+        }
+    },
+    {
+        "title": "Text from a stranger leads to cryptocurrency scam costing ...",
+        "snippet": "Cryptocurrency is more widely known, but still misunderstood costing consumers billions of dollars ... News \u00b7 Business \u00b7 Local Sports \u00b7 Entertainment \u00b7 Life.",
+        "highlighted_words": [
+            "Cryptocurrency",
+            "News"
+        ],
+        "position": 45,
+        "date": "Dec 8, 2023",
+        "sentiment": "negative",
+        "probs": {
+            "neg": 0.7082503736019135,
+            "neu": 0.2788049429655075,
+            "pos": 0.01294470252469182
+        }
+    },
+    {
+        "title": "Cryptocurrency Prices, Charts, Daily Trends, Market Cap, ...",
+        "snippet": "View crypto prices and charts, including Bitcoin, Ethereum, XRP, and more. Earn free crypto. Market highlights including top gainer, highest volume, ...",
+        "highlighted_words": [
+            "crypto",
+            "Bitcoin",
+            "crypto"
+        ],
+        "position": 46,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.05007651983760297,
+            "neu": 0.6382524967193604,
+            "pos": 0.31167103350162506
+        }
+    },
+    {
+        "title": "How Bitcoin Improves Water Abundance In Water Scarce ...",
+        "snippet": "In response to this news, a new attack vector has emerged: \u201cBitcoin uses too much water\u201d. Apparently if Bitcoin uses fossil fuel as its energy source it is bad, ...",
+        "highlighted_words": [
+            "news",
+            "Bitcoin",
+            "Bitcoin"
+        ],
+        "position": 47,
+        "date": "22 hours ago",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.38972995709627867,
+            "neu": 0.41003189980983734,
+            "pos": 0.20023819990456104
+        }
+    },
+    {
+        "title": "Market Dip Indicates Deleveraging Rather than ...",
+        "snippet": "Market Dip Indicates Deleveraging Rather than Fundamental News: Crypto Analyst. BitcoinCrypto Price Crash. Dec, 11, 2023. 2 min read. by Cryptonews.",
+        "highlighted_words": [
+            "News",
+            "Crypto",
+            "BitcoinCrypto"
+        ],
+        "position": 48,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.3560778796672821,
+            "neu": 0.6133925318717957,
+            "pos": 0.030529619194567204
+        }
+    },
+    {
+        "title": "GMT price today, GMT to USD live price, marketcap and chart",
+        "snippet": "Get the latest crypto news and latest trading insights with the CoinMarketCap blog. ... Bitcoin ETFs \u00b7 Crypto API \u00b7 DexScan \u00b7 Global Charts \u00b7 NFT \u00b7 Portfolio ...",
+        "highlighted_words": [
+            "crypto news"
+        ],
+        "position": 49,
+        "date": "1 hour ago",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.022806063061580062,
+            "neu": 0.8705228269100189,
+            "pos": 0.10667108371853828
+        }
+    },
+    {
+        "title": "Lithuanian authorities: requirements for crypto-asset ...",
+        "snippet": "Lithuanian authorities: requirements for crypto-asset companies must be tightened immediately. Media \u00b7 News. Print Newsletter RSS. 2023-12-12. Lithuanian ...",
+        "highlighted_words": [
+            "crypto",
+            "News"
+        ],
+        "position": 50,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.18190883100032806,
+            "neu": 0.7846174240112305,
+            "pos": 0.03347372077405453
+        }
+    },
+    {
+        "title": "How Regulators Tamed Crypto",
+        "snippet": "Latest news updates are posted from time to time about matters which affect the financial services industry in Gibraltar.",
+        "highlighted_words": [
+            "news"
+        ],
+        "position": 51,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.08782610949128866,
+            "neu": 0.8798564672470093,
+            "pos": 0.03231743723154068
+        }
+    },
+    {
+        "title": "1 Cryptocurrency to Avoid No Matter What",
+        "snippet": "... Bitcoin (CRYPTO: BTC). Bitcoin's capped supply of 21 million has ... Mortgages Credit Cards Sectors Crypto Heatmap Financial News. ABOUT. Data ...",
+        "highlighted_words": [
+            "Bitcoin",
+            "CRYPTO",
+            "Bitcoin's",
+            "Crypto",
+            "News"
+        ],
+        "position": 52,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.4735664129257202,
+            "neu": 0.5050500631332397,
+            "pos": 0.021383553743362427
+        }
+    },
+    {
+        "title": "Bitcoin Price (AUD) Chart - Trade with Confidence",
+        "snippet": "Bitcoin price \u00b7 Price$148,208.14AUD \u00b7 About Bitcoin (BTC) \u00b7 Using Bitcoin (BTC) price information \u00b7 Frequently asked questions \u00b7 Find out the latest Bitcoin news.",
+        "highlighted_words": [
+            "Bitcoin news"
+        ],
+        "position": 53,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.028458871878683567,
+            "neu": 0.8519574701786041,
+            "pos": 0.11958370730280876
+        }
+    },
+    {
+        "title": "What Is a Bitcoin Node? | Crypto.com",
+        "snippet": "Likewise, a node 'reports' on new blocks emerging from mining efforts. Think of Bitcoin nodes as a 'Bitcoin News Network' of sorts: They communicate information ...",
+        "highlighted_words": [
+            "Bitcoin News"
+        ],
+        "position": 54,
+        "date": "Dec 9, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.02147590252570808,
+            "neu": 0.8447181582450867,
+            "pos": 0.1338058952242136
+        }
+    },
+    {
+        "title": "The 2024 Bitcoin Halving: Analyzing Past Trends to Predict ...",
+        "snippet": "The second halving saw Bitcoin and crypto burst into the spotlight, with a ... Get Crypto Tips & News Straight to Your Inbox. First Name. Last Name. Email.",
+        "highlighted_words": [
+            "Bitcoin",
+            "crypto",
+            "Crypto",
+            "News"
+        ],
+        "position": 55,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.014851485844701529,
+            "neu": 0.7570453882217407,
+            "pos": 0.2281031310558319
+        }
+    },
+    {
+        "title": "Bitcoin Price Today: Strong Correction? BTC Price News ...",
+        "snippet": "... Bitcoin BTC Price News Today - Technical Analysis and Elliott Wave Analysis and Price Prediction! In this video I talk about the Bitcoin BTC Cryptocurrency ...",
+        "highlighted_words": [],
+        "position": 56,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.06353440880775452,
+            "neu": 0.8916813135147095,
+            "pos": 0.044784244149923325
+        }
+    },
+    {
+        "title": "Bears Take the Reins Clawing BTC's Price Back",
+        "snippet": "... Bitcoin ATMCrypto FaucetsCrypto Tax. Products & Services. NewsLearning CenterWalletVerse DEXList in Wallet & MarketsBitcoin Cash Register. Spend Crypto. V-Card ...",
+        "highlighted_words": [
+            "Bitcoin",
+            "Crypto",
+            "Crypto",
+            "News",
+            "Bitcoin",
+            "Crypto"
+        ],
+        "position": 57,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.020186299458146095,
+            "neu": 0.932273268699646,
+            "pos": 0.04754040017724037
+        }
+    },
+    {
+        "title": "16 Top Crypto News Websites (2025) - Web3 Wiki - Moralis",
+        "snippet": "List of Top 16 Crypto News Websites \u00b7 Real Vision \u00b7 HumanDAO Academy \u00b7 DeFi Pulse \u00b7 NFT Evening \u00b7 Metaschool \u00b7 Capture the Ether \u00b7 NonFungible \u00b7 Ayzd. NFT ...",
+        "highlighted_words": [
+            "Crypto News"
+        ],
+        "position": 58,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0151691734790802,
+            "neu": 0.8953487873077393,
+            "pos": 0.08948202058672905
+        }
+    },
+    {
+        "title": "JP Morgan Crypto Team Up By 200%, Amid CEO's Bitcoin ...",
+        "snippet": "Home / News / JP Morgan Grew Its Crypto Team By 200%, Amid CEO's Criticism Of Bitcoin. JP Morgan Grew Its Crypto Team By 200%, Amid CEO's Criticism Of Bitcoin.",
+        "highlighted_words": [
+            "News",
+            "Crypto",
+            "Bitcoin",
+            "Crypto",
+            "Bitcoin"
+        ],
+        "position": 59,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0073722247034311295,
+            "neu": 0.49731025099754333,
+            "pos": 0.4953174889087677
+        }
+    },
+    {
+        "title": "HTX theft: Crypto exchange suffers a $258 million net ...",
+        "snippet": "World News \u00b7 Subscribe \u00b7 Home / World News / HTX theft: Crypto exchange suffers a $258 million net outflow after hack. HTX theft: Crypto exchange suffers a $258 ...",
+        "highlighted_words": [
+            "News",
+            "News",
+            "Crypto",
+            "Crypto"
+        ],
+        "position": 61,
+        "date": "Dec 11, 2023",
+        "sentiment": "negative",
+        "probs": {
+            "neg": 0.6845608353614807,
+            "neu": 0.29742448031902313,
+            "pos": 0.018014716915786266
+        }
+    },
+    {
+        "title": "Coscoin: Former Nissan worker's life 'ruined' by app",
+        "snippet": "Mark quit his job to become a WhatsApp group administrator for cryptocurrency app Coscoin.",
+        "highlighted_words": [
+            "cryptocurrency"
+        ],
+        "position": 62,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.341732919216156,
+            "neu": 0.6269265711307526,
+            "pos": 0.03134047519415617
+        }
+    },
+    {
+        "title": "The Bitcoin Halving: What You Need to Know",
+        "snippet": "Explaining the halving, its significance, and its potential impact on the world of crypto - all about Bitcoin's four-year cycle. ... Hem / News and Analysis / ...",
+        "highlighted_words": [
+            "crypto",
+            "Bitcoin's",
+            "News"
+        ],
+        "position": 63,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.03054573154076934,
+            "neu": 0.8557218909263611,
+            "pos": 0.11373237334191799
+        }
+    },
+    {
+        "title": "Inscriptions: The Cure Is Worse Than The Disease",
+        "snippet": "Inscriptions work by embedding images or other data into the bitcoin blockchain by using a trick in bitcoin script. ... news, information and thought leadership ...",
+        "highlighted_words": [
+            "bitcoin",
+            "bitcoin",
+            "news"
+        ],
+        "position": 64,
+        "date": "Dec 12, 2023",
+        "sentiment": "negative",
+        "probs": {
+            "neg": 0.44800571515224874,
+            "neu": 0.4267777130007744,
+            "pos": 0.1252165895421058
+        }
+    },
+    {
+        "title": "JPMorgan says ether to outperform bitcoin next year",
+        "snippet": "Ether will likely outperform bitcoin and other cryptocurrencies in 2024, according to JPMorgan analysts. ... The Block is a news provider that strives to be the ...",
+        "highlighted_words": [
+            "bitcoin",
+            "news"
+        ],
+        "position": 65,
+        "date": "Dec 13, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0023936554207466543,
+            "neu": 0.28094396740198135,
+            "pos": 0.7166623771190643
+        }
+    },
+    {
+        "title": "El Salvador expects to sell out Bitcoin... - Belize Live News",
+        "snippet": "El Salvador expects to sell out Bitcoin 'Freedom Visa' by end of year.",
+        "highlighted_words": [
+            "Bitcoin"
+        ],
+        "position": 66,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.19859658926725388,
+            "neu": 0.7592823207378387,
+            "pos": 0.04212103225290775
+        }
+    },
+    {
+        "title": "Ontario's 'Crypto King' owes investors millions. How is he still ...",
+        "snippet": "... Canadians. Ontario's 'Crypto King' owes investors millions. How is he still living large? | About That. 1.3M views \u00b7 1 year ago ...more. CBC News. 4.17M.",
+        "highlighted_words": [],
+        "position": 67,
+        "date": "",
+        "sentiment": "negative",
+        "probs": {
+            "neg": 0.7776076197624207,
+            "neu": 0.2097906917333603,
+            "pos": 0.01260165311396122
+        }
+    },
+    {
+        "title": "Bitcoin ATM company Coin Cloud got hacked. Even its new ...",
+        "snippet": "Crypto has more recently also become short for cryptocurrency, such as Bitcoin ... TechCrunch Mobility is your destination for transportation news and insight.",
+        "highlighted_words": [
+            "Crypto",
+            "cryptocurrency",
+            "Bitcoin",
+            "news"
+        ],
+        "position": 68,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.3981291130185127,
+            "neu": 0.5612050592899323,
+            "pos": 0.04066583886742592
+        }
+    },
+    {
+        "title": "Crypto Instagram Accounts to Follow in 2024",
+        "snippet": "Crypto Instagram Accounts are a great way to learn about blockchain technology and stay current on the latest news in the crypto market.",
+        "highlighted_words": [
+            "Crypto",
+            "news",
+            "crypto"
+        ],
+        "position": 69,
+        "date": "Dec 13, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.013606314721982926,
+            "neu": 0.4567730128765106,
+            "pos": 0.529620636254549
+        }
+    },
+    {
+        "title": "Mantle Staked Ether METH Price",
+        "snippet": "Get the latest crypto news, updates, and reports by subscribing to our free newsletter. Subscribe.",
+        "highlighted_words": [
+            "crypto news"
+        ],
+        "position": 70,
+        "date": "Dec 9, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.026480371714569628,
+            "neu": 0.6933406442403793,
+            "pos": 0.28017893619835377
+        }
+    },
+    {
+        "title": "\ud83d\udca5 LIVESTREAM: Crypto Market News, BTC Price, Memecoins ...",
+        "snippet": "LIVESTREAM: Crypto Market News, BTC Price, Memecoins & MORE!! 18K views \u00b7 Streamed 1 year ago #livestream #cryptocurrency #live ...more ...",
+        "highlighted_words": [],
+        "position": 71,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.013965054415166378,
+            "neu": 0.7046324908733368,
+            "pos": 0.28140247985720634
+        }
+    },
+    {
+        "title": "Concerns about Binance's BNB",
+        "snippet": "Binance's BNB continues to face sell-offs due to worrying news. Regulatory pressure and CEO's resignation fuel the decline. Crypto analyst advises investors to ...",
+        "highlighted_words": [
+            "news",
+            "Crypto"
+        ],
+        "position": 72,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.3934282511472702,
+            "neu": 0.5892846286296844,
+            "pos": 0.017287096939980984
+        }
+    },
+    {
+        "title": "How \u201cpig butchering\u201d scams have emerged as a billion- ...",
+        "snippet": "Regulators are finding more evidence of widespread \"pig butchering\" scams in the crypto industry that are leaving a trail of victims behind ... News & media ...",
+        "highlighted_words": [
+            "crypto",
+            "News"
+        ],
+        "position": 73,
+        "date": "Dec 8, 2023",
+        "sentiment": "negative",
+        "probs": {
+            "neg": 0.8234862387180328,
+            "neu": 0.16955553367733955,
+            "pos": 0.00695827160961926
+        }
+    },
+    {
+        "title": "Noticias",
+        "snippet": "Voltar ao menu. Not\u00edcias. Mercados \u00b7 Finan\u00e7as \u00b7 Tecnologia \u00b7 Pol\u00edtica \u00b7 Foco \u00b7 Pre\u00e7os. Voltar ao menu. Pre\u00e7os. Dados. Voltar ao menu. Dados.",
+        "highlighted_words": [],
+        "position": 74,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.18777456879615784,
+            "neu": 0.7140094339847565,
+            "pos": 0.09821598790585995
+        }
+    },
+    {
+        "title": "Liquidation Heatmap: Bitcoin & Altcoins",
+        "snippet": "Market News. Tools. Crypto Emission Rate Free \u00b7 Bitcoin vs Gold Free \u00b7 ETF & Companies Free \u00b7 Liquidation Heatmap \u00b7 Liquidation Profile \u00b7 BTC Supplier Model.",
+        "highlighted_words": [
+            "News",
+            "Crypto",
+            "Bitcoin"
+        ],
+        "position": 75,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.021307415794581175,
+            "neu": 0.8646406531333923,
+            "pos": 0.11405187845230103
+        }
+    },
+    {
+        "title": "Bitcoin news - CoinSalary.my",
+        "snippet": "Bitcoin Repetition of Pre-Halving Years' Patterns, According to Analyst. Crypto analyst Benjamin Cowen claimed in a recent YouTube video that the\u2026",
+        "highlighted_words": [
+            "Bitcoin",
+            "Crypto"
+        ],
+        "position": 76,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.04178350139409304,
+            "neu": 0.8638927340507507,
+            "pos": 0.09432380646467209
+        }
+    },
+    {
+        "title": "Data of over a million crypto exchange users exposed",
+        "snippet": "GokuMarket, a cryptocurrency exchange, was recently acquired by Canada-based crypto ... \u00a9 2025 Cybernews \u2013 Latest Cybersecurity and Tech News, Research & Analysis ...",
+        "highlighted_words": [
+            "cryptocurrency",
+            "crypto",
+            "News"
+        ],
+        "position": 77,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.23143842350691557,
+            "neu": 0.7113118767738342,
+            "pos": 0.057249645702540874
+        }
+    },
+    {
+        "title": "Mining Now: The Front Page of Crypto Mining",
+        "snippet": "Subscribe to our newsletter and never miss any latest news! mining-now-logo \u00b7 twitter \u00b7 discord \u00b7 telegram \u00b7 Asic Miners \u00b7 Coins \u00b7 Glossary \u00b7 Asic Deals \u00b7 Media.",
+        "highlighted_words": [
+            "news"
+        ],
+        "position": 78,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.01717759552411735,
+            "neu": 0.5567020252346992,
+            "pos": 0.4261203706264496
+        }
+    },
+    {
+        "title": "Basics of Algorithmic Trading: Concepts and Examples",
+        "snippet": "News. News. Markets \u00b7 Companies \u00b7 Earnings \u00b7 CD Rates \u00b7 Mortgage Rates \u00b7 Economy \u00b7 Government \u00b7 Crypto \u00b7 Live Markets News \u00b7 Personal Finance \u00b7 View All.",
+        "highlighted_words": [
+            "News",
+            "News",
+            "Crypto",
+            "News"
+        ],
+        "position": 79,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.09468703716993332,
+            "neu": 0.8566699326038361,
+            "pos": 0.04864299297332764
+        }
+    },
+    {
+        "title": "Crypto Regulation News! The Battle Against Elizabeth Warren ...",
+        "snippet": "... Bitcoin Interviews - https://youtube.com/playlist?list=PL5rDfH3ofGEcjtw8URfr7 ... The Thinking Crypto Podcast is your home for the best Crypto News and ...",
+        "highlighted_words": [],
+        "position": 80,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.1766616553068161,
+            "neu": 0.7809016704559326,
+            "pos": 0.04243672639131546
+        }
+    },
+    {
+        "title": "Bitcoin (BTC) CME Gap At $39700, Is A Market Correction ...",
+        "snippet": "At CoinGape Media, Varinder leads the editorial decisions, spearheading the news team to cover latest updates, markets trends and developments within the crypto ...",
+        "highlighted_words": [
+            "news",
+            "crypto"
+        ],
+        "position": 81,
+        "date": "Dec 10, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.05416051996871829,
+            "neu": 0.8536803126335144,
+            "pos": 0.09215918555855751
+        }
+    },
+    {
+        "title": "Kumpulan Berita bitcoin - ANTARA ...",
+        "snippet": "Kumpulan Berita bitcoin dari ANTARA News, portal berita terkini dan terpercaya Indonesia.",
+        "highlighted_words": [
+            "bitcoin",
+            "News"
+        ],
+        "position": 82,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.07923817448318005,
+            "neu": 0.8815290629863739,
+            "pos": 0.039232732728123665
+        }
+    },
+    {
+        "title": "2DAI.io Token Price, Charts & Market Insights",
+        "snippet": "Stay updated with the latest 2DAI.io token price, charts, and market trends. Dive deep into comprehensive cryptocurrency news and insights on our platform.",
+        "highlighted_words": [
+            "cryptocurrency news"
+        ],
+        "position": 83,
+        "date": "Dec 10, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.021082698833197355,
+            "neu": 0.7822560667991638,
+            "pos": 0.19666121155023575
+        }
+    },
+    {
+        "title": "Fidelity's Spot Bitcoin ETF Lands on DTCC Under Ticker ...",
+        "snippet": "Coinpedia - Trusted Crypto Agency for News, Information, Exchange, PR, Blockchain Events, Crypto Wallet and Else related to Decentralized World.",
+        "highlighted_words": [
+            "Crypto",
+            "News",
+            "Crypto"
+        ],
+        "position": 84,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.08973806258291006,
+            "neu": 0.7932964563369751,
+            "pos": 0.11696542799472809
+        }
+    },
+    {
+        "title": "UK police return \u00a38 million in bitcoin stolen by chronically ...",
+        "snippet": "... bitcoin to a man whose cryptocurrency was stolen back in 2017 ... He was previously a technology reporter for Sky News and is also a fellow at the European Cyber ...",
+        "highlighted_words": [
+            "bitcoin",
+            "cryptocurrency",
+            "News"
+        ],
+        "position": 85,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.3651444613933563,
+            "neu": 0.6083315014839172,
+            "pos": 0.026524025946855545
+        }
+    },
+    {
+        "title": "Bitcoin Ethereum Liquidation Heatmap Cryptocurrency ...",
+        "snippet": "The Puell Multiple \u00b7 Bitcoin Profit(%) \u00b7 AltcoinSeason \u00b7 BTC Price History \u00b7 Pi Cycle Top Indicator \u00b7 MVRV Z-Score \u00b7 News. Pro Chart. Pro Chart \u00b7 Live Chart.",
+        "highlighted_words": [
+            "Bitcoin",
+            "News"
+        ],
+        "position": 86,
+        "date": "Dec 9, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.03698861040174961,
+            "neu": 0.9121429622173309,
+            "pos": 0.050868360325694084
+        }
+    },
+    {
+        "title": "Crypto Bulls and Cardano's Position With Rob From Digital ...",
+        "snippet": "Live stream with Rob from Digital Asset News to talk all about everything that is going on in Crypto right now with a lot of people becoming bullish with ...",
+        "highlighted_words": [],
+        "position": 87,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.011973275861237198,
+            "neu": 0.6020015329122543,
+            "pos": 0.38602515310049057
+        }
+    },
+    {
+        "title": "Vodafone Idea Ltd (IDEA) Stock Price & News",
+        "snippet": "iShares Bitcoin Trust ETF. 0.00% \u00b7 Palantir Technologies Inc. 0.00% \u00b7 settings ... India TV News. 7 hours ago. Jio, Airtel Soar, but BSNL and Vi bleed users ...",
+        "highlighted_words": [
+            "Bitcoin",
+            "News"
+        ],
+        "position": 88,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.027239255607128143,
+            "neu": 0.9003064036369324,
+            "pos": 0.07245433516800404
+        }
+    },
+    {
+        "title": "Round Rock Fraudster Sentenced for Stealing More Than ...",
+        "snippet": "title=\"News\" News \u00b7 Press Releases \u00b7 Speeches \u00b7 Videos \u00b7 Photo Galleries \u00b7 Blogs ... $600,000 in cryptocurrency from dozens of victims nationwide. In addition to ...",
+        "highlighted_words": [
+            "News",
+            "News",
+            "cryptocurrency"
+        ],
+        "position": 89,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.36113496497273445,
+            "neu": 0.6108918637037277,
+            "pos": 0.027973142452538013
+        }
+    },
+    {
+        "title": "Breaking News: \ud83c\uddf5\ud83c\udded Philippines SEC Chairman Kelvin Lee c",
+        "snippet": "Breaking News: Philippines SEC Chairman Kelvin Lee confirms Binance ban set to begin in March 2024, citing regulations against unlicensed crypto ...",
+        "highlighted_words": [
+            "News",
+            "crypto"
+        ],
+        "position": 90,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.15890980511903763,
+            "neu": 0.8184031546115875,
+            "pos": 0.022687005810439587
+        }
+    },
+    {
+        "title": "Powder Horn Investment Advisory: Wealth Management ...",
+        "snippet": "Crypto News \u00b7 Mutuum Finance (MUTM): Accelerating DeFi Innovation with a Rapid ... With our help, you can invest in a range of asset classes\u2014from stocks and bonds ...",
+        "highlighted_words": [
+            "Crypto News"
+        ],
+        "position": 91,
+        "date": "2 hours ago",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.027695073280483484,
+            "neu": 0.8397341966629028,
+            "pos": 0.13257070258259773
+        }
+    },
+    {
+        "title": "Crypto Regulation News! Patrick McHenry Retiring, Jamie ...",
+        "snippet": "Ron Hammond of the Blockchain Association joins me to discuss: - Patrick McHenry retiring and impact on House crypto bills - Jamie Dimon & Elizabeth Warren ...",
+        "highlighted_words": [],
+        "position": 92,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.09149639960378408,
+            "neu": 0.8713813126087189,
+            "pos": 0.03712235577404499
+        }
+    },
+    {
+        "title": "Harga AirSwap Hari Ini | AST to IDR = 1.192",
+        "snippet": "... Rollover Opsi Kripto Menandakan Kecenderungan Bullish Menuju Breakout Bitcoin US$100K | US Crypto News. BeinCrypto Indonesia ...",
+        "highlighted_words": [
+            "Crypto News"
+        ],
+        "position": 93,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.05577830597758293,
+            "neu": 0.9038708209991455,
+            "pos": 0.040350932627916336
+        }
+    },
+    {
+        "title": "I was the OTHER Bitcoin pizza guy - I got 10k coins now ...",
+        "snippet": "Bitcoin's richest trader loses $100m a day in crypto crash as $4bn wiped off ... \u00a9News Group Newspapers Limited in England No. 679215 Registered office: 1 ...",
+        "highlighted_words": [
+            "Bitcoin's",
+            "crypto",
+            "News"
+        ],
+        "position": 94,
+        "date": "Dec 12, 2023",
+        "sentiment": "negative",
+        "probs": {
+            "neg": 0.41460024286061525,
+            "neu": 0.3979329317808151,
+            "pos": 0.18746677320450544
+        }
+    },
+    {
+        "title": "Notizia",
+        "snippet": "Torna al menu. Notizia. Mercati \u00b7 Finanza \u00b7 Tecnologia \u00b7 Politiche \u00b7 Messa a fuoco \u00b7 Prezzi. Torna al menu. Prezzi. Dati. Torna al menu. Dati.",
+        "highlighted_words": [],
+        "position": 95,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.18108121678233147,
+            "neu": 0.7066562175750732,
+            "pos": 0.11226262897253036
+        }
+    },
+    {
+        "title": "Cryptocurrencies had a calm weekend. Bitcoin was priced ...",
+        "snippet": "News \u00b7 Bookmarked and Liked \u00b7 Creator Center \u00b7 Settings. Explore the latest crypto news. \u26a1\ufe0f Be a part of the latests discussions in crypto. Interact with your ...",
+        "highlighted_words": [
+            "crypto news"
+        ],
+        "position": 96,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.007792567135766149,
+            "neu": 0.5264448970556259,
+            "pos": 0.46576254069805145
+        }
+    },
+    {
+        "title": "Agenda | Money20/20 Asia",
+        "snippet": "Call For Breaking News \u00b7 Resources ... Digital Asset Workshop: From Bitcoin to Memecoin - the Evolution of Digital Asset and the next Emerging Asset Classes.",
+        "highlighted_words": [
+            "News",
+            "Bitcoin"
+        ],
+        "position": 97,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.06416760943830013,
+            "neu": 0.8910978734493256,
+            "pos": 0.04473447613418102
+        }
+    },
+    {
+        "title": "BITCOIN SPOT ETF APPOVAL DATE REVEALED! *THIS ...",
+        "snippet": "... IN A BANK ACCOUNT! BITCOIN SPOT ETF APPOVAL DATE REVEALED! *THIS NEWS IS MENTAL*. 20K views \u00b7 1 year ago #cardano #tesla #stocks ...more. My Financial Friend.",
+        "highlighted_words": [],
+        "position": 98,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.01675746962428093,
+            "neu": 0.7743497490882874,
+            "pos": 0.20889286696910858
+        }
+    },
+    {
+        "title": "Presidency of Javier Milei",
+        "snippet": "$Libra cryptocurrency scandal. edit. Main article: $Libra cryptocurrency ... BBC News. Archived from the original on 23 October 2023. Retrieved 11 ...",
+        "highlighted_words": [
+            "cryptocurrency",
+            "cryptocurrency",
+            "News"
+        ],
+        "position": 99,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.222700297832489,
+            "neu": 0.730054497718811,
+            "pos": 0.0472452025860548
+        }
+    }
+]

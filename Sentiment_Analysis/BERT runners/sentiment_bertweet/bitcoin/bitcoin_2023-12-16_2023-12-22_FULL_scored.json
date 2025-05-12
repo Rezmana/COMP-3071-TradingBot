@@ -1,0 +1,418 @@
+[
+    {
+        "title": "Crypto News Blog - Find out news from the cryptocurrency ...",
+        "snippet": "Read the latest crypto news and stories about trading, investment and insights on Bitcoin Store blog, the most professional and trusted crypto news blog.",
+        "highlighted_words": [
+            "Read the latest crypto news"
+        ],
+        "position": 1,
+        "date": "2023-12-17",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0032852714648470283,
+            "neu": 0.7071374207735062,
+            "pos": 0.2895773258060217
+        }
+    },
+    {
+        "title": "Crypto winter fades as news and fundamentals point toward ...",
+        "snippet": "Bitcoin is expected to reach its next \u201chalving\u201d event sometime between March and May 2024. This refers to a cut in the size of the reward paid to bitcoin miners ...",
+        "highlighted_words": [
+            "Bitcoin is expected to reach its next \u201chalving\u201d event sometime between March and May 2024"
+        ],
+        "position": 2,
+        "date": "2023-12-22",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.020360382739454508,
+            "neu": 0.9123218357563019,
+            "pos": 0.0673177782446146
+        }
+    },
+    {
+        "title": "What happened in crypto in 2023",
+        "snippet": "Crypto 2023: Bitcoin prices started recovering and India was a significant player this year in the crypto sector. Here are just five compelling sagas which ...",
+        "highlighted_words": [
+            "Bitcoin prices started recovering"
+        ],
+        "position": 3,
+        "date": "2023-12-22",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0042902966379188,
+            "neu": 0.54923465102911,
+            "pos": 0.4464750401675701
+        }
+    },
+    {
+        "title": "J.P. Morgan Sees Bitcoin Fizzling Next Year, but This Other ...",
+        "snippet": "Bitcoin and other cryptocurrencies have soared into the end of 2023, but investors are eyeing whether 2024 will usher in more gains for tokens should take ...",
+        "highlighted_words": [
+            "Bitcoin and other cryptocurrencies have soared into the end of 2023"
+        ],
+        "position": 4,
+        "date": "2023-12-18",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.00722852535545826,
+            "neu": 0.7198096662759781,
+            "pos": 0.2729618176817894
+        }
+    },
+    {
+        "title": "crypto",
+        "snippet": "Latest crypto News ... With crypto scams growing more sophisticated, Chainalysis helps government agencies, law enforcement, and companies recover lost funds.",
+        "highlighted_words": [
+            "crypto scams growing more sophisticated"
+        ],
+        "position": 5,
+        "date": "2023-12-20",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.01632069470360875,
+            "neu": 0.8543199002742767,
+            "pos": 0.1293593943119049
+        }
+    },
+    {
+        "title": "Why bitcoin is up by almost 150% this year",
+        "snippet": "Why bitcoin is up by almost 150% this year. Introducing the cockroach theory of crypto. Illustration: Satoshi Kambayashi.",
+        "highlighted_words": [
+            "Why bitcoin is up by almost 150% this year"
+        ],
+        "position": 6,
+        "date": "2023-12-18",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.005194484838284552,
+            "neu": 0.37026718258857727,
+            "pos": 0.6245383620262146
+        }
+    },
+    {
+        "title": "Latest Crypto Market News and Trends: Bitcoin, Ethereum ...",
+        "snippet": "Don't miss a beat in crypto! Discover the latest news & trends in Bitcoin, Ethereum & more. Stay informed with our comprehensive coverage.",
+        "highlighted_words": [
+            "latest news & trends in Bitcoin"
+        ],
+        "position": 7,
+        "date": "2023-12-18",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0023197276750579476,
+            "neu": 0.483477171510458,
+            "pos": 0.5142030492424965
+        }
+    },
+    {
+        "title": "Grayscale Report Sheds Light on Bitcoin's Broad ...",
+        "snippet": "A new report from Grayscale Investments reveals that bitcoin ownership is more widely distributed than commonly believed.",
+        "highlighted_words": [
+            "bitcoin ownership is more widely distributed than commonly believed"
+        ],
+        "position": 8,
+        "date": "2023-12-20",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0022824357729405165,
+            "neu": 0.5919409245252609,
+            "pos": 0.4057766944169998
+        }
+    },
+    {
+        "title": "Crypto ETNs: Key building blocks",
+        "snippet": "In our latest briefing, we explain the key structuring and legal issues that arise when establishing crypto exchange traded note programmes.",
+        "highlighted_words": [
+            "key structuring and legal issues that arise"
+        ],
+        "position": 9,
+        "date": "2023-12-19",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.007401128998026252,
+            "neu": 0.9031780958175659,
+            "pos": 0.08942075306549668
+        }
+    },
+    {
+        "title": "RSK (RBTC): What It Is and How It Works",
+        "snippet": "RSK is an open-source second-layer sidechain that includes Bitcoin smart contracts, faster transaction times, scalability, and more.",
+        "highlighted_words": [
+            "RSK is an open-source second-layer sidechain"
+        ],
+        "position": 10,
+        "date": "2023-12-16",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0052839386044070125,
+            "neu": 0.8619152009487152,
+            "pos": 0.1328008444979787
+        }
+    },
+    {
+        "title": "Tether Confirms Extensive Collaboration With DOJ, FBI ...",
+        "snippet": "Tether has confirmed it has collaborated extensively with U.S government agencies, including the DOJ, the FBI, and the Secret Service..",
+        "highlighted_words": [
+            "Tether has confirmed it has collaborated extensively with U.S government agencies"
+        ],
+        "position": 11,
+        "date": "2023-12-17",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.002020178479142487,
+            "neu": 0.49476590752601624,
+            "pos": 0.5032138675451279
+        }
+    },
+    {
+        "title": "An NYC bathhouse is mining Bitcoin to heat its pools\u2014and ...",
+        "snippet": "Bathhouse began mining Bitcoin on its premises in 2021, using miners as \u201cfancy pool heaters\u201d to generate cryptocurrency in addition to heat.",
+        "highlighted_words": [
+            "Bathhouse began mining Bitcoin on its premises in 2021"
+        ],
+        "position": 12,
+        "date": "2023-12-21",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.008373174350708723,
+            "neu": 0.8921108841896057,
+            "pos": 0.09951600432395935
+        }
+    },
+    {
+        "title": "Banking the unbanked: why emerging markets dominate ...",
+        "snippet": "In 2023, crypto is increasingly being adopted by emerging and frontier markets, according to analyst firm Chainalysis.",
+        "highlighted_words": [
+            "crypto is increasingly being adopted by emerging and frontier markets"
+        ],
+        "position": 13,
+        "date": "2023-12-19",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.010786526661831886,
+            "neu": 0.46653246134519577,
+            "pos": 0.5226810276508331
+        }
+    },
+    {
+        "title": "Crypto Rover indicates potential Bitcoin-driven altcoin ...",
+        "snippet": "Crypto Rover highlights parallels between current Bitcoin trends and the 2021 altcoin surge, sparking speculation.",
+        "highlighted_words": [
+            "current Bitcoin trends"
+        ],
+        "position": 14,
+        "date": "2023-12-22",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.05932341219158843,
+            "neu": 0.6410578191280365,
+            "pos": 0.29961880668997765
+        }
+    },
+    {
+        "title": "Qubic: Fastest. Blockchain. Ever - 15.5M TPS",
+        "snippet": "Qubic is the fastest blockchain ever certified by Certik - 15.5M TPS. A decentralized network where unmatched scalable technology and artificial general ...",
+        "highlighted_words": [
+            "Qubic is the fastest blockchain ever certified by Certik - 15.5M TPS"
+        ],
+        "position": 15,
+        "date": "2023-12-17",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0015881486469879746,
+            "neu": 0.05703356862068176,
+            "pos": 0.9413783252239227
+        }
+    },
+    {
+        "title": "Michael Saylor Says Bitcoin ETFs Aren't a Threat to ...",
+        "snippet": "Today in crypto: Michael Saylor argues MicroStrategy will remain an attractive option to BTC-exposure-seeking investors even if the US approves an ETF, ...",
+        "highlighted_words": [
+            "crypto",
+            "BTC"
+        ],
+        "position": 16,
+        "date": "2023-12-21",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.004077936464454979,
+            "neu": 0.33591437339782715,
+            "pos": 0.6600076705217361
+        }
+    },
+    {
+        "title": "Braidpool: A Second Competitor In Decentralizing Mining",
+        "snippet": "Braidpool is a protocol proposal for a completely decentralized mining pool, leaving no part of the pool's role the responsibility of a centralized actor.",
+        "highlighted_words": [
+            "Braidpool is a protocol proposal for a completely decentralized mining pool"
+        ],
+        "position": 17,
+        "date": "prie\u0161 22 valandas",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.005770605755969882,
+            "neu": 0.9405426681041718,
+            "pos": 0.05368672125041485
+        }
+    },
+    {
+        "title": "Sui | Deliver the Benefits of Web3 with the Ease of Web2",
+        "snippet": "Sui is a first-of-its-kind Layer 1 blockchain and smart contract platform designed to make digital asset ownership fast, private, secure, and accessible.",
+        "highlighted_words": [
+            "Sui"
+        ],
+        "position": 18,
+        "date": "2023-12-21",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0036588459042832255,
+            "neu": 0.3973281756043434,
+            "pos": 0.5990129709243774
+        }
+    },
+    {
+        "title": "Bitkub \u0e41\u0e1e\u0e25\u0e15\u0e1f\u0e2d\u0e23\u0e4c\u0e21\u0e40\u0e17\u0e23\u0e14\u0e40\u0e2b\u0e23\u0e35\u0e22\u0e0d\u0e14\u0e34\u0e08\u0e34\u0e17\u0e31\u0e25\u0e0a\u0e31\u0e49\u0e19\u0e19\u0e33\u0e43\u0e19\u0e44\u0e17\u0e22 | Bitkub.com",
+        "snippet": "Bitcoin \u0e43\u0e01\u0e25\u0e49\u0e40\u0e23\u0e34\u0e48\u0e21\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e02\u0e32\u0e02\u0e36\u0e49\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e43\u0e2b\u0e21\u0e48 \u0e41\u0e25\u0e30\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e17\u0e33\u0e2a\u0e16\u0e34\u0e15\u0e34\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14\u0e15\u0e25\u0e2d\u0e14\u0e01\u0e32\u0e25\u0e41\u0e25\u0e49\u0e27. Siam Blockchain. 24 \u0e40\u0e21.\u0e22. 68 \u00b7 news.",
+        "highlighted_words": [
+            "Bitcoin",
+            "news"
+        ],
+        "position": 19,
+        "date": "2023-12-20",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.013817573431879282,
+            "neu": 0.9672816693782806,
+            "pos": 0.018900771625339985
+        }
+    },
+    {
+        "title": "BarnBridge DAO settles with SEC for $1.7 million, agrees ...",
+        "snippet": "BarnBridge DAO, which runs a small DeFi protocol, and its founders will pay more than $1.7 million to settle charges with the SEC.",
+        "highlighted_words": [
+            "BarnBridge DAO, which runs a small DeFi protocol"
+        ],
+        "position": 20,
+        "date": "2023-12-22",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.039627545629628,
+            "neu": 0.922393262386322,
+            "pos": 0.03797915671020746
+        }
+    },
+    {
+        "title": "MacroMicro",
+        "snippet": "Combining tech and research expertise, MacroMicro empowers everyone to harness data and gain valuable insights into global market trends. MacroMicro.",
+        "highlighted_words": [
+            "MacroMicro"
+        ],
+        "position": 21,
+        "date": "2023-12-21",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.008140613150317222,
+            "neu": 0.4783797850832343,
+            "pos": 0.5134796034544706
+        }
+    },
+    {
+        "title": "Gareth Soloway: Gold, Silver, Bitcoin and More \u2014 Price ...",
+        "snippet": "... news.your.trusted.source Follow us on Twitter: @INN_Resource. The Investing News Network ...",
+        "highlighted_words": [],
+        "position": 22,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.004191010259091854,
+            "neu": 0.9474999904632568,
+            "pos": 0.048308901488780975
+        }
+    },
+    {
+        "title": "Crypto Rover: Ethereum deemed oversold sparking market ...",
+        "snippet": "Crypto Rover identifies Ethereum as oversold, drawing comparisons to 2020 market conditions that saw a bullish run.",
+        "highlighted_words": [
+            "Ethereum as oversold"
+        ],
+        "position": 23,
+        "date": "2023-12-21",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.352499027736485,
+            "neu": 0.5725732296705246,
+            "pos": 0.07492779032327235
+        }
+    },
+    {
+        "title": "Frequently Asked Questions | FAQ",
+        "snippet": "Find Frequently Asked Questions about Topstep, including: the Trading Combine, Express Funded Accounts, the Payout Policy, and more!",
+        "highlighted_words": [],
+        "position": 24,
+        "date": "2023-12-16",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.011655327631160617,
+            "neu": 0.9676021039485931,
+            "pos": 0.02074254397302866
+        }
+    },
+    {
+        "title": "A Cash App Debit Card with No Hidden Fees",
+        "snippet": "Cash App Card is the instant discounts, no-hidden-fee, secure debit card that you design. Use it everywhere VISA is accepted. Free to order.",
+        "highlighted_words": [
+            "instant discounts, no-hidden-fee, secure debit card"
+        ],
+        "position": 25,
+        "date": "2023-12-19",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.003614862449467182,
+            "neu": 0.39799995720386505,
+            "pos": 0.5983851701021194
+        }
+    },
+    {
+        "title": "No Deposit Bonus Forex Account | Trade with $100 ...",
+        "snippet": "Take advantage of our $100 no deposit bonus and start trading forex without risking your own money. Register now at Trading.com.",
+        "highlighted_words": [],
+        "position": 26,
+        "date": "2023-12-18",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0054860501550138,
+            "neu": 0.7099211364984512,
+            "pos": 0.28459281008690596
+        }
+    },
+    {
+        "title": "FuelCell Energy, Inc. (FCEL) Stock Price, News, Quote & ...",
+        "snippet": "Find the latest FuelCell Energy, Inc. (FCEL) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+        "highlighted_words": [
+            "FuelCell Energy, Inc. (FCEL) stock quote, history, news"
+        ],
+        "position": 27,
+        "date": "2023-12-20",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.004708019667305052,
+            "neu": 0.9456909000873566,
+            "pos": 0.049601039849221706
+        }
+    },
+    {
+        "title": "Bold Text Generator | \ud835\udd6e\ud835\udd94\ud835\udd95\ud835\udd9e \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udde3\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddf2 \ud835\ude3d\ud835\ude64\ud835\ude61\ud835\ude59 \ud835\ude41\ud835\ude64\ud835\ude63\ud835\ude69",
+        "snippet": "Copy and paste bold fonts (and italic bold text) for your social media posts, bios, instant messages, and more.",
+        "highlighted_words": [
+            "Copy and paste bold fonts"
+        ],
+        "position": 28,
+        "date": "2023-12-19",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.02384494268335402,
+            "neu": 0.9293759763240814,
+            "pos": 0.04677911335602403
+        }
+    }
+]

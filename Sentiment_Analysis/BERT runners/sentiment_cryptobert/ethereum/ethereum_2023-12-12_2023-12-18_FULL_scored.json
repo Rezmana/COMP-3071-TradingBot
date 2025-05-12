@@ -1,0 +1,463 @@
+[
+    {
+        "title": "What Ethereum 2.0 Means for Mining Coins",
+        "snippet": "Because Ethereum shifted to proof-of-stake in 2022, you cannot mine ether. But you can mine altcoins that use the same algorithm as Ethereum used to, and some ...",
+        "highlighted_words": [
+            "Ethereum shifted to proof-of-stake in 2022"
+        ],
+        "position": 1,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.013796701561659575,
+            "neu": 0.537567138671875,
+            "pos": 0.44863612949848175
+        }
+    },
+    {
+        "title": "Latest Crypto Market News and Trends: Bitcoin, Ethereum ...",
+        "snippet": "Don't miss a beat in crypto! Discover the latest news & trends in Bitcoin, Ethereum & more. Stay informed with our comprehensive coverage.",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 2,
+        "date": "Dec 18, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0004782393516507,
+            "neu": 0.802583634853363,
+            "pos": 0.19693811237812042
+        }
+    },
+    {
+        "title": "JPMorgan says ether to outperform bitcoin next year",
+        "snippet": "Ether will outperform bitcoin and other cryptocurrencies in 2024, thanks to Ethereum's EIP-4844 upgrade, according to JPMorgan analysts.",
+        "highlighted_words": [
+            "Ether",
+            "Ethereum's"
+        ],
+        "position": 3,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.00030003071151440963,
+            "neu": 0.6145081371068954,
+            "pos": 0.3851918578147888
+        }
+    },
+    {
+        "title": "Ethereum burns $2.5B worth of ETH since merge as supply ...",
+        "snippet": "Ethereum's deflationary shift intensifies with $2.5 billion in ETH burned post-merge, driving supply to unprecedented lows.",
+        "highlighted_words": [
+            "Ethereum's",
+            "ETH"
+        ],
+        "position": 4,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 5.327041799318977e-05,
+            "neu": 0.9422930479049683,
+            "pos": 0.05765360966324806
+        }
+    },
+    {
+        "title": "Peter Brandt Stirs Debate with Harsh Critique of Ethereum",
+        "snippet": "Market expert Peter Brandt questions Ethereum's viability compared to Bitcoin, citing high gas fees and structural issues.",
+        "highlighted_words": [
+            "Ethereum's viability compared to Bitcoin"
+        ],
+        "position": 5,
+        "date": "Dec 15, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.004018479841761291,
+            "neu": 0.39448635280132294,
+            "pos": 0.6014951765537262
+        }
+    },
+    {
+        "title": "Singapore licenses Ethereum-based exchange - DigFin",
+        "snippet": "Singapore licenses Ethereum-based exchange. MAS graduates DigiFT from its sandbox as a regulated exchange that settles trades on Ethereum. Published.",
+        "highlighted_words": [
+            "Singapore licenses Ethereum-based exchange"
+        ],
+        "position": 6,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.008776124101132154,
+            "neu": 0.6725933253765106,
+            "pos": 0.31863048672676086
+        }
+    },
+    {
+        "title": "PulseChain Unleashes Interoperability - Markets Insider",
+        "snippet": "PulseChain, the blockchain platform, has introduced a groundbreaking interoperability feature, allowing seamless trading between the Pulse and Ethereum networks ...",
+        "highlighted_words": [
+            "PulseChain, the blockchain platform, has introduced a groundbreaking interoperability feature"
+        ],
+        "position": 7,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.00011549904229468666,
+            "neu": 0.5705784559249878,
+            "pos": 0.4293060302734375
+        }
+    },
+    {
+        "title": "What will be the price of Ethereum in 2028?",
+        "snippet": "Ether (ETH) is the number 2 coin by market cap and of course reacts in price swings up or down to news about the Ethereum ecosystem, if that is good or bad news ...",
+        "highlighted_words": [
+            "Ether",
+            "ETH",
+            "news",
+            "Ethereum",
+            "news"
+        ],
+        "position": 8,
+        "date": "",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.001546019695524592,
+            "neu": 0.41526004672050476,
+            "pos": 0.5831939578056335
+        }
+    },
+    {
+        "title": "Attorney General James Secures More Than $22 Million from ...",
+        "snippet": "New York Attorney General Letitia James today secured more than $22 million from KuCoin, one of the largest cryptocurrency trading platforms.",
+        "highlighted_words": [
+            "million"
+        ],
+        "position": 9,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0044701131409965456,
+            "neu": 0.6310164630413055,
+            "pos": 0.36451341211795807
+        }
+    },
+    {
+        "title": "Crypto Partner Hub",
+        "snippet": "We've partnered up with two of the leading digital asset platforms to give you access to a wide range of cryptocurrencies and advanced crypto trading features.",
+        "highlighted_words": [],
+        "position": 10,
+        "date": "Dec 15, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.00020276124269003049,
+            "neu": 0.4483310729265213,
+            "pos": 0.5514661520719528
+        }
+    },
+    {
+        "title": "Ethereum Staking | Stake ETH and Earn Rewards at ...",
+        "snippet": "Ethereum staking currently offers a 3.06% reward rate. Start staking ETH with Crypto.com and discover other staking assets to start earning rewards today.",
+        "highlighted_words": [
+            "currently offers a 3.06% reward rate"
+        ],
+        "position": 11,
+        "date": "Dec 13, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0002949087938759476,
+            "neu": 0.3892528563737869,
+            "pos": 0.6104522347450256
+        }
+    },
+    {
+        "title": "Vitalik Smart Gas (VSG) launches on Ethereum Chain. ...",
+        "snippet": "California City, CA, Dec. 14, 2023 (GLOBE NEWSWIRE) -- VSG proudly announces the launch of Vitalik Smart Gas (VSG), a pioneering gas token designed ...",
+        "highlighted_words": [],
+        "position": 12,
+        "date": "Dec 14, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0002753466396825388,
+            "neu": 0.45512089133262634,
+            "pos": 0.5446037948131561
+        }
+    },
+    {
+        "title": "RSK (RBTC): What It Is and How It Works",
+        "snippet": "Ethereum, in particular, has experienced large \"gas fee\" increases\u2014\"gas\" is the term used by the Ethereum community for transaction fees and was adopted by RSK.",
+        "highlighted_words": [
+            "Ethereum, in particular, has experienced large \"gas fee\" increases"
+        ],
+        "position": 13,
+        "date": "Dec 16, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0007585234416183084,
+            "neu": 0.516686275601387,
+            "pos": 0.48255521059036255
+        }
+    },
+    {
+        "title": "Vesting in crypto, explained",
+        "snippet": "The most recent news about crypto industry at Cointelegraph. Latest news about bitcoin, ethereum, blockchain, mining, cryptocurrency prices and more.",
+        "highlighted_words": [
+            "Latest news about bitcoin, ethereum"
+        ],
+        "position": 14,
+        "date": "Dec 16, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0005446367576951161,
+            "neu": 0.7224945425987244,
+            "pos": 0.2769608572125435
+        }
+    },
+    {
+        "title": "The magnificence of objectivity and a couple of solid proofs",
+        "snippet": "Raphael Steiner received his doctorate in mathematics at the age of 21. Now the Swiss National Science Foundation is funding his research at ETH Zurich in ...",
+        "highlighted_words": [
+            "ETH"
+        ],
+        "position": 15,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.006977236131206155,
+            "neu": 0.5338125973939896,
+            "pos": 0.45921018719673157
+        }
+    },
+    {
+        "title": "Cryptocurrency Prices, Charts, Daily Trends, Market Cap, ...",
+        "snippet": "View crypto prices and charts, including Bitcoin, Ethereum, XRP, and more. Earn free crypto. Market highlights including top gainer, highest volume, ...",
+        "highlighted_words": [
+            "View crypto prices and charts"
+        ],
+        "position": 16,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.004170956555753946,
+            "neu": 0.532437339425087,
+            "pos": 0.4633917063474655
+        }
+    },
+    {
+        "title": "Crypto market on Christmas: historical trends to expect",
+        "snippet": "Ethereum (ETH). $1,798.39 1.56%. Ethereum price. BNB (BNB). $605.62 -1.27 ... Investors might want to keep an eye on the news, including any geopolitical ...",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 17,
+        "date": "Dec 17, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0008615074948465917,
+            "neu": 0.7273330539464951,
+            "pos": 0.27180549036711454
+        }
+    },
+    {
+        "title": "Crypto exchange liquidity, explained",
+        "snippet": "The most recent news about crypto industry at Cointelegraph. Latest news about bitcoin, ethereum, blockchain, mining, cryptocurrency prices and more.",
+        "highlighted_words": [
+            "Latest news about bitcoin, ethereum"
+        ],
+        "position": 18,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.00036335611366666853,
+            "neu": 0.7592036426067352,
+            "pos": 0.2404329925775528
+        }
+    },
+    {
+        "title": "Crypto Instagram Accounts to Follow in 2024",
+        "snippet": "However, Ethereum's updates reels and main feed provide plenty of value, showcasing top news stories about the growth and development of Ethereum.",
+        "highlighted_words": [
+            "Ethereum's updates reels and main feed provide plenty of value"
+        ],
+        "position": 19,
+        "date": "Dec 13, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.04607917740941048,
+            "neu": 0.3712064325809479,
+            "pos": 0.5827143788337708
+        }
+    },
+    {
+        "title": "Liquidation Heatmap: Bitcoin & Altcoins",
+        "snippet": "Gain insights into liquidity patterns that act as influential price magnets. Explore now for a deeper understanding of market trends.",
+        "highlighted_words": [
+            "liquidity patterns that act as influential price magnets"
+        ],
+        "position": 20,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.034983549994649366,
+            "neu": 0.7476374804973602,
+            "pos": 0.2173789218068123
+        }
+    },
+    {
+        "title": "Qubic: Fastest. Blockchain. Ever - 15.5M TPS",
+        "snippet": "Qubic is the fastest blockchain ever certified by Certik - 15.5M TPS. A decentralized network where unmatched scalable technology and artificial general ...",
+        "highlighted_words": [
+            "Qubic is the fastest blockchain ever certified by Certik"
+        ],
+        "position": 21,
+        "date": "Dec 17, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.32094671377853956,
+            "neu": 0.2941281422972679,
+            "pos": 0.38492514193058014
+        }
+    },
+    {
+        "title": "Thailand's Cryptocurrency Exchange | Buy bitcoin",
+        "snippet": "Buy and sell Bitcoin, Ethereum, USDT, XRP, Dogecoin, Polkadot and more with Thai baht at Bitkub Exchange. Sign up for free.",
+        "highlighted_words": [
+            "Buy and sell Bitcoin, Ethereum"
+        ],
+        "position": 22,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.00020321512420196086,
+            "neu": 0.5771720558404922,
+            "pos": 0.42262473702430725
+        }
+    },
+    {
+        "title": "GLC \u2013 for the health of tomorrow | ETH Zurich",
+        "snippet": "With its new building on the Gloriarank site (GLC), ETH Zurich has created a modern development and laboratory building at the interface between health sciences ...",
+        "highlighted_words": [
+            "ETH Zurich has created a modern development and laboratory building"
+        ],
+        "position": 23,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0015222679066937417,
+            "neu": 0.6730688214302063,
+            "pos": 0.3254089057445526
+        }
+    },
+    {
+        "title": "GMT price today, GMT to USD live price, marketcap and chart",
+        "snippet": "The live GMT price today is $0.057100 USD with a 24-hour trading volume of $37,383,475 USD. We update our GMT to USD price in real-time. GMT is up 1.76% in the ...",
+        "highlighted_words": [],
+        "position": 24,
+        "date": "1 hour ago",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.011225794063648209,
+            "neu": 0.5199193805456161,
+            "pos": 0.4688548147678375
+        }
+    },
+    {
+        "title": "Notizia",
+        "snippet": "Torna al menu. Notizia. Mercati \u00b7 Finanza \u00b7 Tecnologia \u00b7 Politiche \u00b7 Messa a fuoco \u00b7 Prezzi. Torna al menu. Prezzi. Dati. Torna al menu. Dati.",
+        "highlighted_words": [],
+        "position": 25,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.426651601184858,
+            "neu": 0.32938533648848534,
+            "pos": 0.2439630813896656
+        }
+    },
+    {
+        "title": "OriginTrail price today, TRAC to USD live ...",
+        "snippet": "The live OriginTrail price today is $0.4209 USD with a 24-hour trading volume of $4172780.39 USD. We update our TRAC to USD price in real-time.",
+        "highlighted_words": [
+            "The live OriginTrail price today is $0.4209 USD"
+        ],
+        "position": 26,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0017354105657432228,
+            "neu": 0.5221066176891327,
+            "pos": 0.47615793347358704
+        }
+    },
+    {
+        "title": "Noticias",
+        "snippet": "Voltar ao menu. Not\u00edcias. Mercados \u00b7 Finan\u00e7as \u00b7 Tecnologia \u00b7 Pol\u00edtica \u00b7 Foco \u00b7 Pre\u00e7os. Voltar ao menu. Pre\u00e7os. Dados. Voltar ao menu. Dados.",
+        "highlighted_words": [
+            "Not\u00edcias"
+        ],
+        "position": 27,
+        "date": "Dec 14, 2023",
+        "sentiment": "negative",
+        "probs": {
+            "neg": 0.42565538501366973,
+            "neu": 0.4255034700036049,
+            "pos": 0.14884111285209656
+        }
+    },
+    {
+        "title": "Frequently Asked Questions | FAQ",
+        "snippet": "Learn more about the platform here, take a tour, and make sure to check out this page for platform news and updates. Are commissions automatically calculated in ...",
+        "highlighted_words": [
+            "Learn more about the platform here"
+        ],
+        "position": 28,
+        "date": "Dec 16, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0706184224691242,
+            "neu": 0.44969701766967773,
+            "pos": 0.47968457639217377
+        }
+    },
+    {
+        "title": "Dipatok Rp3,5 Juta, Casio Luncurkan Jam Tangan Virtual ...",
+        "snippet": "Casio luncurkan NFT G-Shock dengan desain futuristik dan keuntungan eksklusif. Jadilah bagian dari inovasi jam tangan digital!",
+        "highlighted_words": [],
+        "position": 29,
+        "date": "Dec 16, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.026532982825301588,
+            "neu": 0.6339355111122131,
+            "pos": 0.3395315110683441
+        }
+    },
+    {
+        "title": "Cardanon perustaja ennustaa Ethereumin loppua 15 ...",
+        "snippet": "\"Ethereumilla on enint\u00e4\u00e4n 15 vuotta aikaa\", Hoskinson sanoo. Istunnon aikana Hoskinson varoitti, ett\u00e4 Ethereum ei ehk\u00e4 selvi\u00e4 seuraavan vuosikymmenen j\u00e4lkeen, ...",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 30,
+        "date": "Dec 15, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.05821242602542043,
+            "neu": 0.38741642236709595,
+            "pos": 0.554371178150177
+        }
+    },
+    {
+        "title": "ETH/BTC-suhde enn\u00e4tyksellisen alhaalla sitten vuoden 2020",
+        "snippet": "Ethereum laskee 4 vuoden alimmilleen Bitcoiniin n\u00e4hden, kun ETH/BTC-suhde laskee 0,01787:\u00e4\u00e4n. Ethereumin markkinakehitys heikkenee edelleen suhteessa Bitcoiniin ...",
+        "highlighted_words": [
+            "Ethereum laskee 4 vuoden alimmilleen Bitcoiniin n\u00e4hden"
+        ],
+        "position": 31,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0034322773572057486,
+            "neu": 0.5332137644290924,
+            "pos": 0.4633539766073227
+        }
+    }
+]

@@ -1,0 +1,1152 @@
+{
+  "search_metadata": {
+    "id": "6821fbf727c2b0fa92130682",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3be90280b1d2d1ee/6821fbf727c2b0fa92130682.json",
+    "created_at": "2025-05-12 13:47:35 UTC",
+    "processed_at": "2025-05-12 13:47:35 UTC",
+    "google_url": "https://www.google.com/search?q=Ethereum+news&oq=Ethereum+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3be90280b1d2d1ee/6821fbf727c2b0fa92130682.html",
+    "total_time_taken": 6.24
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Ethereum news",
+    "google_domain": "google.com",
+    "num": "100",
+    "device": "desktop",
+    "tbs": "cdr:1,cd_min:11/22/2023,cd_max:11/28/2023"
+  },
+  "search_information": {
+    "query_displayed": "Ethereum news",
+    "total_results": 60,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://bitcoinist.com/ethereum-price-36800-by-2030-token-terminal/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8CE022DBKddYei4ET9yOwNmIRU0NkSq0AzgQt0DQgmkHn7yGcQPbdPSg&s",
+      "original": "https://bitcoinist.com/wp-content/uploads/2023/11/Crypto-news-Template14.png?fit=1380%2C780",
+      "title": "Ethereum Price Could Reach $36,800 By 2030: Token Terminal",
+      "source_name": "Bitcoinist.com"
+    },
+    {
+      "source": "https://cryptorank.io/news/feed/87510-forget-ethereum-and-binance-euler-networks-3-million-haul-is-the-biggest-news",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlUfgCKIXLH5WZ8UaxH3A8OVMcZv4bofgX3Jl0ya_xGDZ19q597jJtp0g&s",
+      "original": "https://cryptodaily.blob.core.windows.net/space/88E1328E-A540-4AAE-AD72-E160C24EF433.png",
+      "title": "Forget Ethereum and Binance, Euler Network's $3 Million Haul ...",
+      "source_name": "CryptoRank"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=S5p8rWrRVdM",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3FES3JpHIWsr6e3r-4w2frH18VrKHC09I89lL4l0EuvLIne-xOKzdBw&s",
+      "original": "https://i.ytimg.com/vi/S5p8rWrRVdM/sddefault.jpg",
+      "title": "Crypto News: BTC, ETH, Binance, Banks In Trouble, Altcoins & MORE!!",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://www.reuters.com/world/middle-east/new-crypto-front-emerges-israels-militant-financing-fight-2023-11-27/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6S58TA509RRM4X1VfPvJ_yc8bgXiVop61UXuLdq_Z-A5jqCQN1nBG-Q&s",
+      "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SBJZOAGOB5PUFJJY72Q3YOWFGI.jpg",
+      "title": "New crypto front emerges in Israel's militant funding fight",
+      "source_name": "Reuters"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=k0FE-8sc24E",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3HeRLpbl6DRjCzjbst1IfqizA5lOwHir-uO-I5Tt7Gg0YJP0OLxf6vms&s",
+      "original": "https://i.ytimg.com/vi/k0FE-8sc24E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAnmlimromRDdv2m6KQVjyUjxm0zw",
+      "title": "Unlocking Bitcoin Staking & Yield Potential with Core DAO's Bitcoin &  Ethereum Hybrid Blockchain",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://news.bitcoin.com/ecb-chief-christine-lagarde-reveals-her-son-invests-in-crypto-despite-her-warnings-he-ignored-me-royally/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9ozqRHP_Q2_ooXNRUv7i9dcf_VxOClL1CKWpdD1ILP2XQkJ_gW2aci4&s",
+      "original": "https://static.news.bitcoin.com/wp-content/uploads/2023/11/lagarde-son-losing-money-in-crypto.jpg",
+      "title": "ECB Chief Christine Lagarde Reveals Her Son Invests in ...",
+      "source_name": "Bitcoin.com News"
+    },
+    {
+      "source": "https://bitcoinist.com/ethereum-price-36800-by-2030-token-terminal/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNJ-44xs3umPqle6hW4AoBeCdfZy3W4SvpZAoWApbeM_W1BvdwNTTH3PY&s",
+      "original": "https://bitcoinist.com/wp-content/uploads/2023/11/Screenshot467.png?resize=684%2C463",
+      "title": "Ethereum Price Could Reach $36,800 By 2030: Token Terminal",
+      "source_name": "Bitcoinist.com"
+    },
+    {
+      "source": "https://www.ccn.com/news/cardano-hoskinson-mocks-ethereum-buterin-staking/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nVror80fNel9JHhPJQ-KCu6KeE1fm-ekjLhyUaMVLz4JqHJE9x9Tv-w&s",
+      "original": "https://www.ccn.com/wp-content/uploads/2023/11/cardano-s-hoskinson-mocks-ethereum.webp",
+      "title": "Cardano's Hoskinson Mocks Ethereum as Vitalik Buterin ...",
+      "source_name": "CCN.com"
+    },
+    {
+      "source": "https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzKIdxg41381A7XThCT59HAV0NATb_xpZN22Ii65CEMp5F1q-h09oJ0Y&s",
+      "original": "https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.636195189.jpg",
+      "title": "Autonomous excavator constructs a six-metre-high dry-stone ...",
+      "source_name": "ETH Zürich"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "vitalik.eth (@VitalikButerin) / X",
+      "link": "https://x.com/vitalikbuterin?lang=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/vitalikbuterin%3Flang%3Den&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECBEQAQ",
+      "displayed_link": "https://x.com › vitalikbuterin",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2b3a17b6a1ea02e144cecea9620fe9289.png",
+      "date": "Nov 22, 2023",
+      "snippet": "Pectra is live on Ethereum mainnet! - Smart account wallet UX features ... Ethereum _overall_ is bloated, in its current form, with complexity (this ...",
+      "snippet_highlighted_words": [
+        "Ethereum _overall_ is bloated"
+      ],
+      "source": "x.com"
+    },
+    {
+      "position": 2,
+      "title": "Ethereum News, Latest Stories & Analysis",
+      "link": "https://invezz.com/news/tag/ethereum/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://invezz.com/news/tag/ethereum/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECBAQAQ",
+      "displayed_link": "https://invezz.com › News › Crypto",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2be9d3d05ed593b41b719489a677b5f2e.png",
+      "date": "5 hours ago",
+      "snippet": "Recent developments include the ongoing transition to Ethereum 2.0, which aims to improve scalability and security, as well as the growth of decentralized ...",
+      "snippet_highlighted_words": [
+        "ongoing transition to Ethereum 2.0"
+      ],
+      "source": "Invezz"
+    },
+    {
+      "position": 3,
+      "title": "Grayscale Ethereum Trust (ETH) ETF News",
+      "link": "https://www.investing.com/etfs/ethe-eth-news/287",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investing.com/etfs/ethe-eth-news/287&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECBQQAQ",
+      "displayed_link": "https://www.investing.com › etfs › ethe-eth-news",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f223937f5432685b378afdeffb6c355b64.jpeg",
+      "date": "Nov 24, 2023",
+      "snippet": "ETHE News · Crypto industry faces regulatory challenges and security issues amid market optimism · Grayscale considers XRP a strong contender in cross-border ...",
+      "snippet_highlighted_words": [
+        "ETHE News"
+      ],
+      "source": "Investing.com"
+    },
+    {
+      "position": 4,
+      "title": "Ethereum Price Could Reach $36800 By 2030",
+      "link": "https://bitcoinist.com/ethereum-price-36800-by-2030-token-terminal/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitcoinist.com/ethereum-price-36800-by-2030-token-terminal/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECBMQAQ",
+      "displayed_link": "https://bitcoinist.com › ethereum-price-36800-by-2030-...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f29310a9bee3a7b29455ab25ec2b182249.png",
+      "date": "Nov 23, 2023",
+      "snippet": "Ethereum prices can rally to above $36800 by 2030, according to Token Terminal research. They cite rising adoption and dominance.",
+      "snippet_highlighted_words": [
+        "Ethereum prices can rally to above $36800 by 2030"
+      ],
+      "source": "Bitcoinist.com"
+    },
+    {
+      "position": 5,
+      "title": "21Shares Core Ethereum Acc ETF News",
+      "link": "https://www.investing.com/etfs/ethc-news/280",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investing.com/etfs/ethc-news/280&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECA4QAQ",
+      "displayed_link": "https://www.investing.com › etfs › ethc-news",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f273269600f5f20fd411d78ccd7626d361.jpeg",
+      "date": "Nov 28, 2023",
+      "snippet": "Ethereum Foundation Moves Big ETH Lump – Sell-off Coming? · Ethereum Founder Vitalik Buterin Wants to Improve ETH Staking, Cardano Founder Reacts Sarcastically.",
+      "snippet_highlighted_words": [
+        "Ethereum Foundation Moves Big ETH Lump"
+      ],
+      "source": "Investing.com"
+    },
+    {
+      "position": 6,
+      "title": "Chandler Guo's EthereumPoW prediction is way off one year ...",
+      "link": "https://www.dlnews.com/articles/defi/ethereumpow-no-closer-to-challenging-the-canonical-ethereum/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dlnews.com/articles/defi/ethereumpow-no-closer-to-challenging-the-canonical-ethereum/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECBIQAQ",
+      "displayed_link": "https://www.dlnews.com › DeFi news",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2b3e42e8fba71f71521a1f9c3123a6ae7.png",
+      "date": "Nov 28, 2023",
+      "snippet": "EthereumPoW is trading at less than 1% of Ethereum's dollar price, down from over 3% immediately after last year's hard fork.",
+      "snippet_highlighted_words": [
+        "EthereumPoW is trading at less than 1% of Ethereum's dollar price"
+      ],
+      "source": "dlnews.com"
+    },
+    {
+      "position": 7,
+      "title": "It's been a year since Ethereum completed its switch to ...",
+      "link": "https://finance.yahoo.com/news/since-ethereum-completed-switch-proof-103000067.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://finance.yahoo.com/news/since-ethereum-completed-switch-proof-103000067.html&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECA8QAQ",
+      "displayed_link": "https://finance.yahoo.com › news › since-ethereum-co...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f24f98e6b9e1f4861bd9d0d42f15466946.png",
+      "date": "Nov 28, 2023",
+      "snippet": "He also discusses what's happened since Ethereum's transition from proof of work to proof of stake and how spending time in Antarctica could help prepare humans ...",
+      "snippet_highlighted_words": [
+        "Ethereum's transition from proof of work to proof of stake"
+      ],
+      "source": "Yahoo Finance"
+    },
+    {
+      "position": 8,
+      "title": "$2K is Recovered by Ethereum (ETH) Amid Increased ...",
+      "link": "https://www.blockool.com/singleblog/2k-is-recovered-by-ethereum-eth-amid-increased-network-activity",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blockool.com/singleblog/2k-is-recovered-by-ethereum-eth-amid-increased-network-activity&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECGMQAQ",
+      "displayed_link": "https://www.blockool.com › singleblog › 2k-is-recover...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f24d3daa5b3a218861cb17d248953a04b9.png",
+      "date": "Nov 24, 2023",
+      "snippet": "The price of Ethereum (ETH) is up today, holding well over $2,000 after briefly falling below that threshold on November 21. Ether's price increased by 2.5% ...",
+      "snippet_highlighted_words": [
+        "The price of Ethereum (ETH) is up today"
+      ],
+      "source": "Blockool"
+    },
+    {
+      "position": 9,
+      "title": "Ethereum's Newest Layer 2 Network, Blast, Funnels $30M ...",
+      "link": "https://www.unlock-bc.com/112561/ethereum-layer-2-network-funnels-30m-within-hours-of-launch-blast/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unlock-bc.com/112561/ethereum-layer-2-network-funnels-30m-within-hours-of-launch-blast/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCKgBEAE",
+      "displayed_link": "https://www.unlock-bc.com › Platform news",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f27bce62b30103d94969e031597cfb445f.png",
+      "date": "Nov 22, 2023",
+      "snippet": "Investors swiftly funneled more than $30 million in Ether and stablecoins into Blast, the newest Ethereum layer 2 network, mere hours after its late launch.",
+      "snippet_highlighted_words": [
+        "Ether",
+        "Ethereum"
+      ],
+      "source": "UNLOCK Blockchain"
+    },
+    {
+      "position": 10,
+      "title": "Ethereum's Vitalik Buterin: If AI Turns on Us 'Even Mars ...",
+      "link": "https://decrypt.co/207692/humans-are-deeply-good-ethereum-creator-vitalik-buterin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://decrypt.co/207692/humans-are-deeply-good-ethereum-creator-vitalik-buterin&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECHUQAQ",
+      "displayed_link": "https://decrypt.co › humans-are-deeply-good-ethereum-...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2dba9d981960454754954d1db72ace83c.png",
+      "date": "Nov 28, 2023",
+      "snippet": "AI development needs to prioritize human intention for positive outcomes, not just profit maximization, says Buterin.",
+      "source": "Decrypt"
+    },
+    {
+      "position": 11,
+      "title": "Ethereum (ETH) Price Nears Key Support Level",
+      "link": "https://u.today/ethereum-eth-price-nears-key-support-level",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://u.today/ethereum-eth-price-nears-key-support-level&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECGoQAQ",
+      "displayed_link": "https://u.today › News › Ethereum Price Prediction",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f230c7d4efcf8f42d3fd252aaba951e7d8.png",
+      "date": "Nov 22, 2023",
+      "snippet": "According to the latest data from 100eyes Crypto Scanner, Ethereum is approaching a horizontal support point at around $1,925.",
+      "snippet_highlighted_words": [
+        "Ethereum is approaching a horizontal support point at around $1,925"
+      ],
+      "source": "U.Today"
+    },
+    {
+      "position": 12,
+      "title": "Ethereum Price Prediction: Will $ETH Regain $3000 by ...",
+      "link": "https://coingape.com/markets/ethereum-price-prediction-eth-resilient-above-2k-after-fed-minutes-is-the-bull-run-intact/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coingape.com/markets/ethereum-price-prediction-eth-resilient-above-2k-after-fed-minutes-is-the-bull-run-intact/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCI4BEAE",
+      "displayed_link": "https://coingape.com › Price Analysis",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2a2dd441e215fe6720eb51911099dcb29.png",
+      "date": "Nov 22, 2023",
+      "snippet": "Ethereum price prediction: The ETH price sustainability above $2000 highlights the buyer's potential for a breakout rally to $3000.",
+      "snippet_highlighted_words": [
+        "Ethereum price prediction"
+      ],
+      "source": "CoinGape"
+    },
+    {
+      "position": 13,
+      "title": "Understanding Bitcoin and Ethereum Supply",
+      "link": "https://www.fidelitydigitalassets.com/research-and-insights/understanding-bitcoin-and-ethereum-supply",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fidelitydigitalassets.com/research-and-insights/understanding-bitcoin-and-ethereum-supply&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCMMBEAE",
+      "displayed_link": "https://www.fidelitydigitalassets.com › understanding-bi...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2a1c891a55b385418811807e0a80ad8b3.png",
+      "date": "Nov 28, 2023",
+      "snippet": "In this article, we aim to answer questions surrounding the supply schedules of the two largest digital assets by market cap, Bitcoin and Ethereum.",
+      "snippet_highlighted_words": [
+        "answer questions surround"
+      ],
+      "source": "Fidelity Digital Assets"
+    },
+    {
+      "position": 14,
+      "title": "Ethereum stakers 'terrified' of slashing. Company ... - DL News",
+      "link": "https://www.dlnews.com/articles/defi/ethereum-stakers-fearful-of-getting-slashed/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dlnews.com/articles/defi/ethereum-stakers-fearful-of-getting-slashed/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECD4QAQ",
+      "displayed_link": "https://www.dlnews.com › DeFi news",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f251d3efcc5706e6d82a7bf8f7da088075.png",
+      "date": "Nov 25, 2023",
+      "snippet": "Slashing is a constant concern for Ethereum staking providers. Company Cubist wants to use abstraction to prevent accidental slashing.",
+      "snippet_highlighted_words": [
+        "Slashing is a constant concern for Ethereum staking providers"
+      ],
+      "source": "dlnews.com"
+    },
+    {
+      "position": 15,
+      "title": "Cardano's Hoskinson Mocks Ethereum as Vitalik Buterin ...",
+      "link": "https://www.ccn.com/news/cardano-hoskinson-mocks-ethereum-buterin-staking/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ccn.com/news/cardano-hoskinson-mocks-ethereum-buterin-staking/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECE8QAQ",
+      "displayed_link": "https://www.ccn.com › News › Crypto › Ethereum (ETH)",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f229b04cd45d1fa864d36869c38a14a689.png",
+      "date": "Nov 27, 2023",
+      "snippet": "Charles Hoskinson, the founder of Cardano, has taken aim at Vitalik Buterin of Ethereum for its lack of credit-sharing on staking solutions.",
+      "snippet_highlighted_words": [
+        "Charles Hoskinson, the founder of Cardano"
+      ],
+      "source": "CCN.com"
+    },
+    {
+      "position": 16,
+      "title": "Ethereum ETH Price News Today - Technical Analysis Update ...",
+      "link": "https://www.youtube.com/watch?v=HSoVf6g6w0I",
+      "displayed_link": "2.2K+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/HSoVf6g6w0I/mqdefault.jpg?sqp=-oaymwEQCJQBEFPyq4qpAwVwAbgCAQ&rs=AMzJL3l5RxCguE_CXIvd_bL8Dn9iq-gm-A",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f23c1ff46112efb739f3e0ec71223dd9ea.png",
+      "snippet": "... Ethereum ETH Price News Today - Technical Analysis Update and Price Now! In this video I talk about a technical analysis of the Ethereum Price and I talk ...",
+      "duration": "5:25",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRvO-N8NvdlgiGQdtL_xp46YHKxX1WeRvkUdA",
+      "source": "YouTube · More Crypto Online"
+    },
+    {
+      "position": 17,
+      "title": "Ethereum - today's latest news and major events",
+      "link": "https://sputnikglobe.com/product_Ethereum/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sputnikglobe.com/product_Ethereum/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCIsBEAE",
+      "displayed_link": "https://sputnikglobe.com › product_Ethereum",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f262125a64aab945cb1e5b7006707d4a05.png",
+      "date": "Nov 23, 2023",
+      "snippet": "Read today's latest news on the topic Ethereum: Much-Touted White House Crypto Summit Proved Much Ado About Nothing: Digital Money Expert, ...",
+      "snippet_highlighted_words": [
+        "Read today's latest news on the topic Ethereum"
+      ],
+      "source": "Sputnik News"
+    },
+    {
+      "position": 18,
+      "title": "Vitalik Buterin's 'Defensive Accelerationism' Fits Squarely Into ...",
+      "link": "https://unchainedcrypto.com/vitalik-buterins-defensive-accelerationism-fits-squarely-into-the-ethos-of-ethereum/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://unchainedcrypto.com/vitalik-buterins-defensive-accelerationism-fits-squarely-into-the-ethos-of-ethereum/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCIoBEAE",
+      "displayed_link": "https://unchainedcrypto.com › vitalik-buterins-defensiv...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2788244d0e9f4acd03e44f50c1b5bee67.png",
+      "date": "Nov 28, 2023",
+      "snippet": "In a new essay, Ethereum's creator splits the difference between “Effective Altruism” and “Effective Accelerationism” with a reiteration of crypto ...",
+      "snippet_highlighted_words": [
+        "Ethereum's"
+      ],
+      "source": "unchainedcrypto.com"
+    },
+    {
+      "position": 19,
+      "title": "Week in Ethereum News November 25, 2023",
+      "link": "https://weekinethereumnews.com/week-in-ethereum-news-november-25-2023/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://weekinethereumnews.com/week-in-ethereum-news-november-25-2023/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCKIBEAE",
+      "displayed_link": "https://weekinethereumnews.com › week-in-ethereum-n...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2eb1ba1710d54b262b72618f24d0ec848.png",
+      "date": "Nov 25, 2023",
+      "snippet": "Upcoming Dates of Note · Nov 29 – Gitcoin Grants 19 ends (support Week in Ethereum News) · Nov 30 – Road to Devcon grants deadline (max $1k for local meetups) ...",
+      "snippet_highlighted_words": [
+        "Upcoming Dates of Note"
+      ],
+      "source": "Week in Ethereum News"
+    },
+    {
+      "position": 20,
+      "title": "Forget Ethereum and Binance, Euler Network's $3 Million ...",
+      "link": "https://cryptorank.io/news/feed/87510-forget-ethereum-and-binance-euler-networks-3-million-haul-is-the-biggest-news",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cryptorank.io/news/feed/87510-forget-ethereum-and-binance-euler-networks-3-million-haul-is-the-biggest-news&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCLwBEAE",
+      "displayed_link": "https://cryptorank.io › News",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2d135aa3a6e7ea34505bc13822d1100a9.png",
+      "date": "Nov 28, 2023",
+      "snippet": "Explore Ethereum's $1940 rally, Binance's $4.36B exit, and Euler Network's $3M ascent. Uncover dynamic shifts in crypto. Stay informed.",
+      "snippet_highlighted_words": [
+        "Explore Ethereum's $1940 rally"
+      ],
+      "source": "CryptoRank"
+    },
+    {
+      "position": 21,
+      "title": "Crypto News: BTC, ETH, Binance, Banks In Trouble, Altcoins ...",
+      "link": "https://www.youtube.com/watch?v=S5p8rWrRVdM",
+      "displayed_link": "129.2K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8zjj_0ruLW0dWk36JqSkMhrC_4mTWCIOJ_fxnlNom89C6&s",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f287cb88e82b6c086f5cf2d43739721700.png",
+      "snippet": "Crypto News: BTC, ETH, Binance, Banks In Trouble, Altcoins & MORE!! · Comments224.",
+      "duration": "19:09",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT0Q2GhHBXzV9JOPNhz8gJRwzdI3is50E1stA",
+      "source": "YouTube · Coin Bureau"
+    },
+    {
+      "position": 22,
+      "title": "Top meme coins by market capitalization: an in-depth guide",
+      "link": "https://crypto.news/meme-coins/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://crypto.news/meme-coins/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECD8QAQ",
+      "displayed_link": "https://crypto.news › meme-coins",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f20b54a1046c1ab816a5d865fcfe1f2f68.png",
+      "date": "Nov 25, 2023",
+      "snippet": "Notably, SHIB runs on the Ethereum blockchain. Shiba Inu rose fast as it rose in a bull market. There was soon chatter about Shiba Inu being the DOGE killer.",
+      "snippet_highlighted_words": [
+        "SHIB runs on the Ethereum blockchain"
+      ],
+      "source": "Crypto News"
+    },
+    {
+      "position": 23,
+      "title": "KyberSwap Hack Victims Communicate with Attacker via ...",
+      "link": "https://www.binance.com/en-IN/square/post/2023-11-24-kyberswap-hack-victims-communicate-with-attacker-via-ethereum-blockchain-490772969538",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.binance.com/en-IN/square/post/2023-11-24-kyberswap-hack-victims-communicate-with-attacker-via-ethereum-blockchain-490772969538&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECD0QAQ",
+      "displayed_link": "https://www.binance.com › en-IN › square › post › 202...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f26a44dde158e9a7ec5d594ac330f1066d.png",
+      "date": "Nov 24, 2023",
+      "snippet": "According to Blockworks, some victims of the $48 million KyberSwap hack are attempting to communicate with the attacker through the Ethereum blockchain.",
+      "snippet_highlighted_words": [
+        "Ethereum"
+      ],
+      "source": "Binance"
+    },
+    {
+      "position": 24,
+      "title": "What is e/acc? Ethereum's Buterin Weighs in on Silicon ...",
+      "link": "https://www.ccn.com/news/e-acc-ethereum-buterin-effective-accelerationism/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ccn.com/news/e-acc-ethereum-buterin-effective-accelerationism/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECFYQAQ",
+      "displayed_link": "https://www.ccn.com › News › Crypto › Ethereum (ETH)",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2b57b18097f70fb529a586641cd401de5.png",
+      "date": "Nov 28, 2023",
+      "snippet": "A fiercely pro-AI techno-philosophy known as “effective accelerationism,” often shortened to e/acc. And now, Ethereum founder Vitalik Buterin has waded into ...",
+      "snippet_highlighted_words": [
+        "Ethereum"
+      ],
+      "source": "CCN.com"
+    },
+    {
+      "position": 25,
+      "title": "Ethereum Layer 2 Blast Has Crypto Users Split on Its Impact",
+      "link": "https://www.coindesk.com/tech/2023/11/23/ethereum-layer-2-blast-has-crypto-users-split-on-its-impact",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coindesk.com/tech/2023/11/23/ethereum-layer-2-blast-has-crypto-users-split-on-its-impact&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECFMQAQ",
+      "displayed_link": "https://www.coindesk.com › tech › 2023/11/23 › ethereu...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f27659bd490000bd7e51c868e64465e095.png",
+      "date": "Nov 23, 2023",
+      "snippet": "Blast, a layer-2 blockchain scheduled to go live in March, has garnered more than $225 million in staked ether [stETH] and stablecoins since Monday.",
+      "snippet_highlighted_words": [
+        "Blast, a layer-2 blockchain scheduled to go live in March"
+      ],
+      "source": "CoinDesk"
+    },
+    {
+      "position": 26,
+      "title": "Crypto Scam Artist Obliged To Pay $1.2M For NFT Theft By ...",
+      "link": "https://bitcoinist.com/apple-impersonator-to-compensate-1-2m-crypto-theft/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitcoinist.com/apple-impersonator-to-compensate-1-2m-crypto-theft/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECGkQAQ",
+      "displayed_link": "https://bitcoinist.com › ...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f20f48093823df31cc0ae3ea5868dee09b.png",
+      "date": "Nov 28, 2023",
+      "snippet": "An L.A. man was ordered to serve eight years in federal prison and pay $1.2 million in restitution to his NFTs and crypto victims.",
+      "snippet_highlighted_words": [
+        "An L.A. man was ordered to serve eight years in federal prison"
+      ],
+      "source": "Bitcoinist.com"
+    },
+    {
+      "position": 27,
+      "title": "Consensys Academy | Consensys",
+      "link": "https://consensys.io/academy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://consensys.io/academy&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECHAQAQ",
+      "displayed_link": "https://consensys.io › academy",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2db5c21da4c1000e765d8b7668deaa917.png",
+      "date": "Nov 23, 2023",
+      "snippet": "Blockchain Developer Online Bootcamp. Get the skills you need to become an industry-leading Ethereum developer with our flagship Blockchain Developer Bootcamp!",
+      "snippet_highlighted_words": [
+        "Get the skills you need to become an industry-leading Ethereum developer"
+      ],
+      "source": "Consensys"
+    },
+    {
+      "position": 28,
+      "title": "Artificial intelligence finds ways to develop new drugs",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2023/11/artificial-intelligence-finds-ways-to-develop-new-drugs.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ethz.ch/en/news-and-events/eth-news/news/2023/11/artificial-intelligence-finds-ways-to-develop-new-drugs.html&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCIEBEAE",
+      "displayed_link": "https://ethz.ch › eth-news › news › 2023/11 › artificial-i...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2ee70e131ae24c284b9b577d0ecfc13b9.png",
+      "date": "Nov 23, 2023",
+      "snippet": "Researchers at ETH Zurich have developed an AI model that helps to identify suitable molecular sites for the development of new active ingredients. The chemists ...",
+      "snippet_highlighted_words": [
+        "have developed an AI model"
+      ],
+      "missing": [
+        "Ethereum"
+      ],
+      "must_include": {
+        "word": "Ethereum",
+        "link": "https://www.google.com/search?num=100&sca_esv=21961dcf5a872719&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=%22Ethereum%22+news&sa=X&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQ5t4CegUIhAEQAQ"
+      },
+      "source": "ETH Zürich"
+    },
+    {
+      "position": 29,
+      "title": "THE BREAKOUT JUST STARTED (New Target)!! Bitcoin ...",
+      "link": "https://www.youtube.com/watch?v=oynC9zWNh3k",
+      "displayed_link": "7K+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/oynC9zWNh3k/mqdefault.jpg?sqp=-oaymwEQCJQBEFPyq4qpAwVwAbgCAQ&rs=AMzJL3nY9RwG3_3OtfjN_xKJEaQpsB6jVg",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2727e4e8339048dcd2aa525333c5d65cf.png",
+      "snippet": "THE BREAKOUT JUST STARTED (New Target)!! Bitcoin News Today & Ethereum Price Prediction! Register on Bybit https://bit.ly/BybitJosh (Up to $30,000 ...",
+      "duration": "13:49",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ1PoHXt9bue6PPGT_gMKf3E_OuUprdO7txMw",
+      "source": "YouTube · Crypto World"
+    },
+    {
+      "position": 30,
+      "title": "FTSE Digital Asset Reference (DAR) Pricing Data",
+      "link": "https://www.lseg.com/en/data-analytics/ftse-dar-digital-asset-reference-pricing-data",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lseg.com/en/data-analytics/ftse-dar-digital-asset-reference-pricing-data&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCJsBEAE",
+      "displayed_link": "https://www.lseg.com › data-analytics › ftse-dar-digital-a...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2982358c9becbd79e4ea9316275b7d69c.png",
+      "date": "Nov 22, 2023",
+      "snippet": "FTSE DAR provides comprehensive digital asset market data to meet growing demand among investors to access to actionable, transparent, digital asset data.",
+      "snippet_highlighted_words": [
+        "FTSE"
+      ],
+      "source": "LSEG"
+    },
+    {
+      "position": 31,
+      "title": "Latest Crypto & Bitcoin News",
+      "link": "https://twitter.com/CryptoBreakNews/status/1727396867850273013",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/CryptoBreakNews/status/1727396867850273013&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCJ8BEAE",
+      "displayed_link": "https://twitter.com › CryptoBreakNews › status",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2aa1ef7334b15b21150301ebeb3cd1510.png",
+      "snippet": "Ethereum L2 Blast Crosses $123 Million, Important Things To Know Before You Bridge In https://t.co/ImTUe49FOn #Ethereum #News #crypto #Bitcoin #Blast ...",
+      "snippet_highlighted_words": [
+        "Ethereum L2 Blast Crosses $123 Million"
+      ],
+      "source": "X"
+    },
+    {
+      "position": 32,
+      "title": "Autonomous excavator constructs a six-metre-high dry- ...",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCKABEAE",
+      "displayed_link": "https://ethz.ch › eth-news › news › 2023/11 › autonom...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f234aa1893a2ec4e379887cfcf886f242f.png",
+      "date": "Nov 22, 2023",
+      "snippet": "ETH Zurich researchers taught an autonomous excavator to construct dry stone walls itself using boulders weighing several tonnes and demolition debris.",
+      "snippet_highlighted_words": [
+        "ETH Zurich researchers taught an autonomous excavator"
+      ],
+      "source": "ETH Zürich"
+    },
+    {
+      "position": 33,
+      "title": "pierre gasly Archives",
+      "link": "https://www.coinspeaker.com/tag/pierre-gasly/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coinspeaker.com/tag/pierre-gasly/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCKkBEAE",
+      "displayed_link": "https://www.coinspeaker.com › tag › pierre-gasly",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2cecacc735c9e85fb570985b5a3d03253.jpeg",
+      "date": "Nov 22, 2023",
+      "snippet": "Blockchain News · Bitcoin News · Binance News · Ethereum News · XRP News · Altcoins News · Token Sales News · Technology · Artificial Intelligence · Big Data ...",
+      "snippet_highlighted_words": [
+        "Ethereum News"
+      ],
+      "source": "Coinspeaker"
+    },
+    {
+      "position": 34,
+      "title": "Obol Collective",
+      "link": "https://obol.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://obol.org/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCLYBEAE",
+      "displayed_link": "https://obol.org",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2cd057a742d71df304663abacc221412e.png",
+      "date": "Nov 25, 2023",
+      "snippet": "A group of tools, teams, and communities dedicated to strengthening and sustaining Ethereum's consensus layer.",
+      "snippet_highlighted_words": [
+        "Ethereum's"
+      ],
+      "source": "Obol Collective"
+    },
+    {
+      "position": 35,
+      "title": "What are sniper bots, and how to stop token sniping exploits?",
+      "link": "https://cointelegraph.com/explained/what-are-sniper-bots-and-how-to-stop-token-sniping-exploits",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cointelegraph.com/explained/what-are-sniper-bots-and-how-to-stop-token-sniping-exploits&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCLsBEAE",
+      "displayed_link": "https://cointelegraph.com › explained",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f211a88cebcc12cb2e37df577d88a3ca74.png",
+      "date": "Nov 28, 2023",
+      "snippet": "The most recent news about crypto industry at Cointelegraph. Latest news about bitcoin, ethereum, blockchain, mining, cryptocurrency prices and more.",
+      "snippet_highlighted_words": [
+        "Latest news about bitcoin, ethereum"
+      ],
+      "source": "Cointelegraph"
+    },
+    {
+      "position": 36,
+      "title": "Bitcoin (BTC) Price, Real-time Quote & News",
+      "link": "https://www.google.com/finance/quote/BTC-CHF?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.google.com/finance/quote/BTC-CHF%3Fhl%3Den&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCMQBEAE",
+      "displayed_link": "https://www.google.com › finance › quote › BTC-CHF",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2464b079d28d0140b7ab3d1a0252646d3.png",
+      "date": "2 hours ago",
+      "snippet": "BTC, ETH, DOGE News: Bitcoin Eyes Record Price as U.S.-China Cut Tariffs, Inflation Data Looms. 8 hours ago. About Bitcoin.. Bitcoin is the first ...",
+      "snippet_highlighted_words": [
+        "Bitcoin Eyes Record Price"
+      ],
+      "source": "Google"
+    },
+    {
+      "position": 37,
+      "title": "Ethereum Average Gas Fees Touched Highest Level in Six ...",
+      "link": "https://sg.news.yahoo.com/ethereum-average-gas-fees-touched-164218772.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sg.news.yahoo.com/ethereum-average-gas-fees-touched-164218772.html&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCNABEAE",
+      "displayed_link": "https://sg.news.yahoo.com › ethereum-average-gas-fees...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2662265a441a6e8139f3478724ef39894.png",
+      "date": "Nov 27, 2023",
+      "snippet": "DeFi activity is picking up, according to a recent report by blockchain analytics platform Kaiko. Wallet data shows the average gas fees on Ethereum touched ...",
+      "snippet_highlighted_words": [
+        "Ethereum"
+      ],
+      "source": "Yahoo News Singapore"
+    },
+    {
+      "position": 38,
+      "title": "Rocket Pool (RPL) Price Updates, Charts & News",
+      "link": "https://coinmetro.com/price/rpl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinmetro.com/price/rpl&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECEAQAQ",
+      "displayed_link": "https://coinmetro.com › price › rpl",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f27cf05644de60d367114030327f175c9e.png",
+      "date": "Nov 25, 2023",
+      "snippet": "Discover the latest Rocket Pool (RPL) prices, charts, and news. Stay ahead in crypto with real-time updates and insights.",
+      "snippet_highlighted_words": [
+        "Rocket Pool (RPL) prices, charts, and news"
+      ],
+      "source": "Coinmetro"
+    },
+    {
+      "position": 39,
+      "title": "Jupiter Perpetuals Liquidity Provider Token Price Chart (JLP)",
+      "link": "https://www.coingecko.com/en/coins/jupiter-perpetuals-liquidity-provider-token",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coingecko.com/en/coins/jupiter-perpetuals-liquidity-provider-token&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECEEQAQ",
+      "displayed_link": "https://www.coingecko.com › coins › jupiter-perpetuals-l...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f20d8d216fbaee33714ebf0ae3410a66be.png",
+      "date": "Nov 24, 2023",
+      "snippet": "Track the latest Jupiter Perpetuals Liquidity Provider Token price, market cap, trading volume, news and more with CoinGecko's live JLP",
+      "snippet_highlighted_words": [
+        "news"
+      ],
+      "source": "CoinGecko"
+    },
+    {
+      "position": 40,
+      "title": "Ethereum (ETH) Whales Enter Aggressive Accumulation, ...",
+      "link": "https://u.today/ethereum-eth-whales-enter-aggressive-accumulation-signal-for-bulls",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://u.today/ethereum-eth-whales-enter-aggressive-accumulation-signal-for-bulls&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECDwQAQ",
+      "displayed_link": "https://u.today › News › Ethereum News",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f207f4be9972464721e449faf2981b5d5d.png",
+      "date": "Nov 25, 2023",
+      "snippet": "Crypto analyst Ali spots massive token accumulation among Ethereum whales. He observes that whales have been on a steady ETH accumulation spree for nine days ...",
+      "snippet_highlighted_words": [
+        "massive token accumulation among Ethereum whales"
+      ],
+      "source": "U.Today"
+    },
+    {
+      "position": 41,
+      "title": "Unlocking Bitcoin Staking & Yield Potential with Core DAO's ...",
+      "link": "https://www.youtube.com/watch?v=k0FE-8sc24E",
+      "displayed_link": "6K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEjleouaSToacQ4MA3dh28pVwfSYT3fW9E_wyjXnUmJnZs&s",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f20b20330c2e0bb3b14139fc867122b334.png",
+      "snippet": "... news-interviews/id1458945676 Listen to content on Spotify - https ... Ethereum #EthereumNews #ETH #Cardano #Ada #CardanoNews #Altcoin ...",
+      "duration": "31:46",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyU_iMIh0ijmiQqEO5n6K6mIsJV-yg0_wBZtM8iDoeyg&s"
+        },
+        {
+          "time": "01:25",
+          "title": "Rich's background",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=85",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc3PxuFaP2t-OsCQHC81eaIlCDdJ869mJ1ZBNL3PWQcA&s"
+        },
+        {
+          "time": "04:07",
+          "title": "Core DAO overview",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=247",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWAWNjzR3TRFbj9AxqtK-_lPfnh9AiSHWg_gh_E4sWg&s"
+        },
+        {
+          "time": "05:44",
+          "title": "Core DAO blockchain",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=344",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNd4Rn6ht6LzLHar4uLnmKZtsbJOB5xycBcdeEr0VuA&s"
+        },
+        {
+          "time": "06:43",
+          "title": "Interoperability with other blockchains",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=403",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQczo6wzOoDvIMSLGYD5oBR1NWDzTXf8qyJgN8Y9Sq8qg&s"
+        },
+        {
+          "time": "08:30",
+          "title": "Core DAO roadmap",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=510",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpDZqTuVf28qXK75lYVQTo1wIYVRQ2bK9D37QRmwtXJg&s"
+        },
+        {
+          "time": "10:53",
+          "title": "working with Bitcoin Miners",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=653",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYbU152jRcadn45epRF2zYpUc4qzHcGAs0kicLHOEV2g&s"
+        },
+        {
+          "time": "13:04",
+          "title": "Core Token",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=784",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylxoI6D7l7SqJnJpedkMW1J9E6g4_eHKvNvpiGWDdkQ&s"
+        },
+        {
+          "time": "15:02",
+          "title": "Winning over Bitcoin maxis",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=902",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlxY2kX2OsG4r88hCnvVIZXjCXCopF2VcCZ0vIarAj6A&s"
+        },
+        {
+          "time": "16:31",
+          "title": "Bitcoin Halving 2024",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=991",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9SkT2ACMNpU0wGwzfPXoSs3FoskCqQWifxIVNwGo98A&s"
+        },
+        {
+          "time": "18:29",
+          "title": "Bitcoin spot etfs",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=1109",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9EkPvVEc2bp-4p8px3hYALkBX54Ga4k1ACYZKXdvwg&s"
+        },
+        {
+          "time": "20:23",
+          "title": "Countries mining Bitcoin",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=1223",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_9GDEOSR2KqY7FKGHN6wKFyY7TpwL6k1uitG32BnJ6A&s"
+        },
+        {
+          "time": "21:30",
+          "title": "Bitcoin price prediction",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=1290",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQCbCT3uQIZUmfeKYdftkswtcjxZ51EA_Jx32RRO1Zaw&s"
+        },
+        {
+          "time": "23:03",
+          "title": "Lightning Network",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=1383",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwmQhsjLBWYDgF2OpMitusVeB-snvWHCnREcOgqhBnQ&s"
+        },
+        {
+          "time": "24:55",
+          "title": "US crypto regulations",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=1495",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacdBK7MVfbYIhJ0WxGRZ9_BZ9PrzteUxA5OhESC5v6Q&s"
+        },
+        {
+          "time": "25:52",
+          "title": "Metaverse & NFTs",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=1552",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKhRYuP8Tg0xVNG_UJOQkhsnNF-Pf9dHrHQ9hRKwaXw&s"
+        },
+        {
+          "time": "27:33",
+          "title": "DeFi",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=1653",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAuUP1TZSJ0-3c_71j0PwVakli_vgEU0hFPExbZW06A&s"
+        },
+        {
+          "time": "29:08",
+          "title": "Wrap up questions",
+          "link": "https://www.youtube.com/watch?v=k0FE-8sc24E&t=1748",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3G68_ZIhuFCEOyQOtOTsjLFu9t3hLZFIWHF_o9HZkQ&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQhxLCG7gdKsIkPHyhTaduy7VPkEtyPaitjEQ",
+      "source": "YouTube · Thinking Crypto"
+    },
+    {
+      "position": 42,
+      "title": "New crypto front emerges in Israel's militant financing fight",
+      "link": "https://www.reuters.com/world/middle-east/new-crypto-front-emerges-israels-militant-financing-fight-2023-11-27/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reuters.com/world/middle-east/new-crypto-front-emerges-israels-militant-financing-fight-2023-11-27/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECFUQAQ",
+      "displayed_link": "https://www.reuters.com › world › middle-east › new-cr...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f266f7c85eb51695546f7d5c1def2aed96.png",
+      "date": "Nov 27, 2023",
+      "snippet": "The Reuters Tariff Watch newsletter is your daily guide to the latest global trade and tariff news. Sign up here. Advertisement · Scroll to continue. A ...",
+      "snippet_highlighted_words": [
+        "news"
+      ],
+      "source": "Reuters"
+    },
+    {
+      "position": 43,
+      "title": "Buy Ethereum Instantly with Credit & Debit Card on Wirexapp",
+      "link": "https://wirexapp.com/buy-ethereum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wirexapp.com/buy-ethereum&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECFQQAQ",
+      "displayed_link": "https://wirexapp.com › Cryptocurrencies",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2c5d4ceeff192ec7dc629b37bb338730d.png",
+      "date": "Nov 22, 2023",
+      "snippet": "Buying Ethereum (ETH) can be a good investment for several reasons: ... At the same time, they need to keep an eye on the dynamics of Ethereum, news regarding the ...",
+      "snippet_highlighted_words": [
+        "Ethereum",
+        "news"
+      ],
+      "source": "Wirex"
+    },
+    {
+      "position": 44,
+      "title": "ECB Chief Christine Lagarde Reveals Her Son Invests in ...",
+      "link": "https://news.bitcoin.com/ecb-chief-christine-lagarde-reveals-her-son-invests-in-crypto-despite-her-warnings-he-ignored-me-royally/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.bitcoin.com/ecb-chief-christine-lagarde-reveals-her-son-invests-in-crypto-despite-her-warnings-he-ignored-me-royally/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECFIQAQ",
+      "displayed_link": "https://news.bitcoin.com › ecb-chief-christine-lagarde-r...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f212d6b0386a84f80a3929d83588562116.png",
+      "date": "Nov 24, 2023",
+      "snippet": "Buy VerseBuy BitcoinBuy EthereumBuy Bitcoin CashBuy USDTBuy USDCBuy AvalancheBuy PolygonBitcoin ATMCrypto FaucetsCrypto Tax. Products & Services. NewsLearning ...",
+      "snippet_highlighted_words": [
+        "Ethereum",
+        "News"
+      ],
+      "source": "Bitcoin.com News"
+    },
+    {
+      "position": 45,
+      "title": "Bitcoin News, Latest Stories & Analysis",
+      "link": "https://invezz.com/news/tag/bitcoin/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://invezz.com/news/tag/bitcoin/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECFwQAQ",
+      "displayed_link": "https://invezz.com › News › Crypto",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f24067ca5eece613f37d639d978622a363.png",
+      "date": "7 hours ago",
+      "snippet": "news · news. Markets. Latest news Stock market Artificial Intelligence (AI) ... Ethereum Code Review Trader AI Review. Other reviews. Is Nearest Edge legit or ...",
+      "snippet_highlighted_words": [
+        "news",
+        "news",
+        "news",
+        "Ethereum"
+      ],
+      "source": "Invezz"
+    },
+    {
+      "position": 46,
+      "title": "Ethereum's Vitalik Buterin Says AI May Cause Human Extinction",
+      "link": "https://insidebitcoins.com/news/ethereums-vitalik-buterin-warns-ai-may-cause-human-extinction-says-even-mars-may-not-be-safe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://insidebitcoins.com/news/ethereums-vitalik-buterin-warns-ai-may-cause-human-extinction-says-even-mars-may-not-be-safe&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECG8QAQ",
+      "displayed_link": "https://insidebitcoins.com › news › ethereums-vitalik-bu...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f28003766de6841745876e4579090167ca.png",
+      "date": "Nov 27, 2023",
+      "snippet": "... newsethereums vitalik buterin warns ai may cause human extinction says even mars may not be safe. Ethereum's Vitalik Buterin Warns AI May Cause Human ...",
+      "snippet_highlighted_words": [
+        "news",
+        "Ethereum's"
+      ],
+      "source": "insidebitcoins.com"
+    },
+    {
+      "position": 47,
+      "title": "Crypto Analysts for Free Crypto Advice: CryptosRUs vs Into ...",
+      "link": "https://www.crypto-mining.co.uk/faqs/free-crypto-advice-cryptosrus-vs-into-the-cryptoverse/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crypto-mining.co.uk/faqs/free-crypto-advice-cryptosrus-vs-into-the-cryptoverse/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECHEQAQ",
+      "displayed_link": "https://www.crypto-mining.co.uk › faqs › free-crypto-a...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f237153696fc923e83915f3f854f8beda8.png",
+      "date": "Nov 24, 2023",
+      "snippet": "Ethereum mining was great while it lasted but with the end of PoW Ethereum ... news. I will start off by saying that I found George to be an ...",
+      "snippet_highlighted_words": [
+        "Ethereum",
+        "Ethereum",
+        "news"
+      ],
+      "source": "crypto-mining.co.uk"
+    },
+    {
+      "position": 48,
+      "title": "KuCoin Will Adjust the Price Increment of NEAR3S, ...",
+      "link": "https://www.kucoin.com/announcement/kucoin-etf-notice-250512",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kucoin.com/announcement/kucoin-etf-notice-250512&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECHoQAQ",
+      "displayed_link": "https://www.kucoin.com › News",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f27989b9eb04a6adb034f0c045994f10ee.png",
+      "date": "1 hour ago",
+      "snippet": "News & Announcements · Media Kit · KuCoin Labs · KuCoin Ventures · PoR (Proof ... Ethereum (ETH) Price · Ripple (XRP) Price · KuCoin Token (KCS) Price · More ...",
+      "snippet_highlighted_words": [
+        "News",
+        "Ethereum",
+        "ETH"
+      ],
+      "source": "KuCoin"
+    },
+    {
+      "position": 49,
+      "title": "Bitcoin Remains on Track for $100K by Year-End 2024",
+      "link": "https://www.coindesk.com/markets/2023/11/28/bitcoin-remains-on-track-for-100k-by-year-end-2024-standard-chartered",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coindesk.com/markets/2023/11/28/bitcoin-remains-on-track-for-100k-by-year-end-2024-standard-chartered&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECHIQAQ",
+      "displayed_link": "https://www.coindesk.com › markets › 2023/11/28",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2040644870e6f5a6b98f0904877a0bbe9.png",
+      "date": "Nov 28, 2023",
+      "snippet": "Lyllah holds bitcoin, ether and small amounts of other crypto assets. Lyllah Ledesma ...",
+      "snippet_highlighted_words": [
+        "ether"
+      ],
+      "source": "CoinDesk"
+    },
+    {
+      "position": 50,
+      "title": "Bigjhay.eth",
+      "link": "https://twitter.com/0xpapijhaytu/status/1728529951127724452",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/0xpapijhaytu/status/1728529951127724452&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCIMBEAE",
+      "displayed_link": "1 like",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f288a9d1482f939eb1719f519bb0e88d07.png",
+      "snippet": "Exciting News Incoming! Only 2 days left until the big reveal of our groundbreaking initiation @Fuse_network! Get ready to witness innovation in action.",
+      "snippet_highlighted_words": [
+        "News"
+      ],
+      "source": "X · 0xpapijhaytu"
+    },
+    {
+      "position": 51,
+      "title": "JD.com Aktie Termine - Quartalszahlen",
+      "link": "https://www.finanzen.net/termine/jdcom",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.finanzen.net/termine/jdcom&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCIIBEAE",
+      "displayed_link": "https://www.finanzen.net › termine",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f273bdb64c8187aeae83d4f437bb636970.png",
+      "date": "Nov 22, 2023",
+      "snippet": "News · News-Übersicht · Unternehmens-meldungen · Heute im Fokus · Experten-Kolumnen ... Ethereum Kurs · Tether Kurs · Binance Coin Kurs · Monero Kurs · Ripple ...",
+      "snippet_highlighted_words": [
+        "News",
+        "News",
+        "Ethereum"
+      ],
+      "source": "Finanzen.net"
+    },
+    {
+      "position": 52,
+      "title": "Bonsai3 Price, Live SEED Market Cap and Chart",
+      "link": "https://en.bitcoinsistemi.com/price/SEED/bonsai3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.bitcoinsistemi.com/price/SEED/bonsai3&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCIkBEAE",
+      "displayed_link": "https://en.bitcoinsistemi.com › price › SEED › bonsai3",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2d4bdbbfd5876c9afed31e8b074681a79.png",
+      "date": "Nov 25, 2023",
+      "snippet": "Crypto News · Bitcoin · Altcoin · Ethereum News · Binance Coin News · Cardano News · Solana News · XRP News ... News, Analysis and Markets. Bitcoin News.",
+      "snippet_highlighted_words": [
+        "Ethereum News"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 0.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "$0.00"
+          ]
+        }
+      },
+      "source": "Bitcoin Sistemi"
+    },
+    {
+      "position": 53,
+      "title": "Ethereum Price Reclaims $2000 on the Back of Crypto ...",
+      "link": "https://globalcoinreport.com/ethereum-price-reclaims-2000-on-the-back-of-crypto-market-renaissance/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://globalcoinreport.com/ethereum-price-reclaims-2000-on-the-back-of-crypto-market-renaissance/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCI8BEAE",
+      "displayed_link": "https://globalcoinreport.com › ethereum-price-reclaims-...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2b5f9c7590351d6ef04e07d76dc1e5605.png",
+      "date": "Nov 24, 2023",
+      "snippet": "Bitcoin News · Ethereum News · Altcoin News · Crypto Prices; Guides. Buy Crypto; Buy Ethereum UK · Bitcoin vs. Ripple · The Darkside of Bitcoin · Pros and Cons ...",
+      "snippet_highlighted_words": [
+        "Ethereum News"
+      ],
+      "source": "Global Coin Report"
+    },
+    {
+      "position": 54,
+      "title": "Become a Bankless Citizen",
+      "link": "https://www.bankless.com/join",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bankless.com/join&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCJ4BEAE",
+      "displayed_link": "https://www.bankless.com › join",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2bbf0bae454ab991a5a8a49702795be49.png",
+      "date": "Nov 24, 2023",
+      "snippet": "... Ethereum Gas Fees Status Help & Support Bankless API Onchain MCP. Media ... Latest News & Analysis. ETH Resurrection 2 days ago LLMs Meet Loot: How ...",
+      "snippet_highlighted_words": [
+        "Ethereum",
+        "News",
+        "ETH"
+      ],
+      "source": "Bankless"
+    },
+    {
+      "position": 55,
+      "title": "2.33 | Kaspa Trading (KAS / ZAR) | South Africa's Largest ...",
+      "link": "https://www.altcointrader.co.za/kas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.altcointrader.co.za/kas&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECDQQAQ",
+      "displayed_link": "https://www.altcointrader.co.za › kas",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2234e7b871264e140b0ad2ac3ccda97d2.png",
+      "date": "Nov 23, 2023",
+      "snippet": "News Site News In the Media Blog Airdrops · Register · Lost Password. Log In ... Pair ETH / xZAR Ethereum, 47 509.50, 23.96, 1138327.62. Ticker Pair SUI / xZAR ...",
+      "snippet_highlighted_words": [
+        "News",
+        "News",
+        "ETH",
+        "Ethereum"
+      ],
+      "source": "AltCoinTrader (Pty) Ltd."
+    },
+    {
+      "position": 56,
+      "title": "Platinum Group Metals Ltd. announced that it expects to ...",
+      "link": "https://www.marketscreener.com/quote/stock/HOSKEN-CONSOLIDATED-INVES-6492428/news/Platinum-Group-Metals-Ltd-announced-that-it-expects-to-receive-1-008-million-in-funding-from-Hoske-49913492/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marketscreener.com/quote/stock/HOSKEN-CONSOLIDATED-INVES-6492428/news/Platinum-Group-Metals-Ltd-announced-that-it-expects-to-receive-1-008-million-in-funding-from-Hoske-49913492/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECDMQAQ",
+      "displayed_link": "https://www.marketscreener.com › quote › stock › news",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2986930c2d535d0f46b54bd4cb70c2807.png",
+      "date": "16 hours ago",
+      "snippet": "... ETHEREUM · Logo Crypto <span class='ml-5 txt-link txt-s1 BINANCE COIN · Logo ... All News Analyst Reco. Highlights Insiders Transcripts Press Releases ...",
+      "snippet_highlighted_words": [
+        "ETHEREUM",
+        "News"
+      ],
+      "source": "marketscreener.com"
+    },
+    {
+      "position": 57,
+      "title": "Grey Market Premium Insights for Today's IPOs",
+      "link": "https://chanakyanipothi.com/grey-market-premium/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://chanakyanipothi.com/grey-market-premium/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoECDIQAQ",
+      "displayed_link": "https://chanakyanipothi.com › grey-market-premium",
+      "date": "3 hours ago",
+      "snippet": "# Information given on this post/page is only coverage of News related to Grey Market. ... Spot Ethereum ETF has 60% Chances of Approval By May 23, Else In ...",
+      "snippet_highlighted_words": [
+        "News",
+        "Ethereum"
+      ],
+      "source": "chanakyanipothi.com"
+    },
+    {
+      "position": 58,
+      "title": "Mobilized to Dubai. State Duma members are acquiring ...",
+      "link": "https://www.youtube.com/watch?v=mHJDjDfyGzw",
+      "displayed_link": "2.6M+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHLLUDPS7Py4pFv6JwWvbrJbXSz22r7Q6wHYorXl_BelkT&s",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f24307571f323a54af1bb189a6216cd877.png",
+      "snippet": "... Ethereum 0x314aC71aEB2feC4D60Cc50Eb46e64980a27F2680 Monero ... / @lapenkoanton Popular Politics / @popularpolitics BelTA News Agency / @beltavideo ...",
+      "duration": "26:24",
+      "source": "YouTube · Алексей Навальный"
+    },
+    {
+      "position": 59,
+      "title": "CoinDeck - Cryptocurrency Trading for Bitcoin & Ethereum ...",
+      "link": "https://www.coindeck.app/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coindeck.app/&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCKMBEAE",
+      "displayed_link": "https://www.coindeck.app",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f2f0021b2e22a09afa98558ae3d0c8c5a9.png",
+      "date": "42 minutes ago",
+      "snippet": "MORE NEWS. Trade Digital Assets with Confidence, Innovative Trading and Fundamental Security. Leading Digital Trading Platform in 2024.",
+      "snippet_highlighted_words": [
+        "NEWS"
+      ],
+      "source": "coindeck.app"
+    },
+    {
+      "position": 60,
+      "title": "Demand for Ethereum rises, but what about ETH prices?",
+      "link": "https://coinprofitnews.com/crypto-news/531892/demand-ethereum-rises-eth-prices",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinprofitnews.com/crypto-news/531892/demand-ethereum-rises-eth-prices&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQFnoFCKEBEAE",
+      "displayed_link": "https://coinprofitnews.com › crypto-news › demand-eth...",
+      "favicon": "https://serpapi.com/searches/6821fbf727c2b0fa92130682/images/786ffb53a5baf4984c28c37c72c215f27f8023a3cbb473fca4c1b29858b94217.png",
+      "date": "Nov 22, 2023",
+      "snippet": "Coin Profit News shows the most accurate live prices, charts and market rates from trusted top crypto exchanges globally. Coin Profit News have over 2100+ ...",
+      "snippet_highlighted_words": [
+        "News",
+        "News"
+      ],
+      "source": "coinprofitnews.com"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?num=100&sca_esv=21961dcf5a872719&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Ethereum+news&udm=2&source=univ&fir=0Kmp85r2J4HFLM%252CdF1yuavfNlWabM%252C_%253BLB8Oo4QrPcKaVM%252CbiezzcMIEQUO5M%252C_%253BjRAkj4NCPlUViM%252CKlSey4GqwWv1XM%252C_%253Bwqyu_5E1TiKyRM%252Cly-oa1mbnkH5nM%252C_%253B1Xhaa5PodthrIM%252CYWF9mrABJceIPM%252C_%253BGjVvKpsoVa26mM%252CAVVKZxQLPUFjeM%252C_%253BXP36V97jovDbuM%252CdF1yuavfNlWabM%252C_%253B09qkJ9Y0a3HLuM%252Cme4ihIiWAUQzuM%252C_%253B3H4Zf5XQuEzpnM%252C6MAXsVyPTR_v4M%252C_&usg=AI4_-kS4Neml7mUF6He4FF59PQWyUZfj_g&sa=X&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQ7Al6BAhoEAU",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ethereum+news&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Ethereum price",
+      "link": "https://www.google.com/search?num=100&sca_esv=21961dcf5a872719&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Ethereum+price&sa=X&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQ1QJ6BQjCARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ethereum+price&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "Solana price",
+      "link": "https://www.google.com/search?num=100&sca_esv=21961dcf5a872719&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Solana+price&sa=X&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQ1QJ6BQjAARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Solana+price&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "Bitcoin price",
+      "link": "https://www.google.com/search?num=100&sca_esv=21961dcf5a872719&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Bitcoin+price&sa=X&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQ1QJ6BQjBARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+price&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "Cardano price",
+      "link": "https://www.google.com/search?num=100&sca_esv=21961dcf5a872719&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Cardano+price&sa=X&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQ1QJ6BQjFARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Cardano+price&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "Bitcoin price USD",
+      "link": "https://www.google.com/search?num=100&sca_esv=21961dcf5a872719&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Bitcoin+price+USD&sa=X&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQ1QJ6BQjHARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+price+USD&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "Bitcoin price prediction",
+      "link": "https://www.google.com/search?num=100&sca_esv=21961dcf5a872719&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Bitcoin+price+prediction&sa=X&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQ1QJ6BQi-ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+price+prediction&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "Chainlink price",
+      "link": "https://www.google.com/search?num=100&sca_esv=21961dcf5a872719&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Chainlink+price&sa=X&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQ1QJ6BQi9ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Chainlink+price&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "Bitcoin USD",
+      "link": "https://www.google.com/search?num=100&sca_esv=21961dcf5a872719&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Bitcoin+USD&sa=X&ved=2ahUKEwikk5f6iJ6NAxWPFVkFHZnsGAwQ1QJ6BQi_ARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+USD&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 60 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=Ethereum+news&num=100&sca_esv=21961dcf5a872719&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Ethereum+news&oq=Ethereum+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Ethereum+news&oq=Ethereum+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=Ethereum+news&oq=Ethereum+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=Ethereum+news&oq=Ethereum+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=Ethereum+news&oq=Ethereum+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ethereum+news&start=100&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ethereum+news&start=100&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ethereum+news&start=100&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ethereum+news&start=200&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ethereum+news&start=300&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ethereum+news&start=400&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    }
+  }
+}

@@ -1,0 +1,1142 @@
+{
+  "search_metadata": {
+    "id": "680d0f9644b64fa865730289",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/57228c612a72b942/680d0f9644b64fa865730289.json",
+    "created_at": "2025-04-26 16:53:42 UTC",
+    "processed_at": "2025-04-26 16:53:42 UTC",
+    "google_url": "https://www.google.com/search?q=Bitcoin+news&oq=Bitcoin+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/57228c612a72b942/680d0f9644b64fa865730289.html",
+    "total_time_taken": 8.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Bitcoin news",
+    "google_domain": "google.com",
+    "num": "100",
+    "device": "desktop",
+    "tbs": "cdr:1,cd_min:11/22/2023,cd_max:11/28/2023"
+  },
+  "search_information": {
+    "query_displayed": "Bitcoin news",
+    "total_results": 66,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.youtube.com/watch?v=Ov8q0V0__LY",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZj7WUsbFe3Y7LOpHyX8T0usvuIeZ_7HTv_bN6LKAdUpCcD9MUBfTacZL05g&s",
+      "original": "https://i.ytimg.com/vi/Ov8q0V0__LY/sddefault.jpg",
+      "title": "Bitcoin News: Milei/Argentina, Binánce, Pentagon Missing Trillions, CBDC  Tracker, Bitcoin/Nostr",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=UauKhdqqWWI",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1XlhA6HCIDMrME3-CNGVbtWy61Pu0gz3TreQ9P7UFO2wgItm8eRLvLk&s",
+      "original": "https://i.ytimg.com/vi/UauKhdqqWWI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDjks5hFJWZNIodGvCh4l9A9odOCA",
+      "title": "MOST BULLISH BITCOIN NEWS OF THE YEAR? THIS CHANGES EVERYTHING FOR BITCOIN",
+      "source_name": "YouTube"
+    },
+    {
+      "source": "https://www.dlnews.com/articles/markets/how-bitcoin-exposure-reduces-risks-in-traditional-portfolios/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuYYwcCW0oPMq0SrdyIxiv7eEDPpXHxRxoETxgMYZfvGGP5T5Q2p17wU&s",
+      "original": "https://cloudfront-eu-central-1.images.arcpublishing.com/dlnews/OWYJOWYWTVFJDHJ3DN4ZWKV3RA.jpg",
+      "title": "How Bitcoin exposure 'reduces risks' in traditional ...",
+      "source_name": "DL News"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bitcoin could support renewable energy development",
+      "link": "https://news.cornell.edu/stories/2023/11/bitcoin-could-support-renewable-energy-development",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.cornell.edu/stories/2023/11/bitcoin-could-support-renewable-energy-development&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECBwQAQ",
+      "displayed_link": "https://news.cornell.edu › stories › 2023/11 › bitcoin-cou...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d8ae3b5599c6095f0f529e5bbc7e5cf63.png",
+      "date": "Nov 27, 2023",
+      "snippet": "A new study calculated renewable energy projects' potential to profit from bitcoin mining during the precommercial development phase, when a wind or solar ...",
+      "snippet_highlighted_words": [
+        "bitcoin"
+      ],
+      "source": "Cornell Chronicle"
+    },
+    {
+      "position": 2,
+      "title": "Bitcoin News, Latest Stories & Analysis",
+      "link": "https://invezz.com/news/tag/bitcoin/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://invezz.com/news/tag/bitcoin/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECB4QAQ",
+      "displayed_link": "https://invezz.com › News › Crypto",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dba1b44dc8ab88c8b25a19311e93030e0.png",
+      "date": "Nov 24, 2023",
+      "snippet": "Stay updated with the latest Bitcoin news. We deliver insights into market trends, technological advancements, and key developments in the Bitcoin ecosystem.",
+      "snippet_highlighted_words": [
+        "Stay updated with the latest Bitcoin news"
+      ],
+      "source": "Invezz"
+    },
+    {
+      "position": 3,
+      "title": "Bitcoin",
+      "link": "https://cnbc.com/quotes/BTC=",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cnbc.com/quotes/BTC%3D&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECBsQAQ",
+      "displayed_link": "https://cnbc.com › quotes",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2da5f1b7e99de445c49242508b1bdf1733.png",
+      "date": "Nov 23, 2023",
+      "source": "CNBC"
+    },
+    {
+      "position": 4,
+      "title": "Polluting Bitcoin mines come to rural Georgia",
+      "link": "https://www.greenpeace.org/usa/polluting-bitcoin-mines-come-to-rural-georgia/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.greenpeace.org/usa/polluting-bitcoin-mines-come-to-rural-georgia/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECBgQAQ",
+      "displayed_link": "https://www.greenpeace.org › Home › News & Stories",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d75aab93a037a6617932b8fbf6f1c6241.png",
+      "date": "Nov 27, 2023",
+      "snippet": "Cleanspark's Bitcoin boom in rural Georgia, backed by Wall Street giants, raises environmental and social concerns challenging the promised benefits to rural ...",
+      "snippet_highlighted_words": [
+        "Cleanspark's Bitcoin boom in rural Georgia"
+      ],
+      "source": "Greenpeace"
+    },
+    {
+      "position": 5,
+      "title": "What Happened in Crypto Today: Is a Bull Run Around the ...",
+      "link": "https://coinmarketcap.com/academy/article/what-happened-in-crypto-today-is-a-bull-run-around-the-corner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinmarketcap.com/academy/article/what-happened-in-crypto-today-is-a-bull-run-around-the-corner&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECB0QAQ",
+      "displayed_link": "https://coinmarketcap.com › academy › article › what-h...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dc5a81c16910c97f97cd40d42fc5302f3.png",
+      "date": "Nov 24, 2023",
+      "snippet": "From Glassnode predicting an inflow of $70 billion in crypto to a user losing $3 million in BTC fees, here is a 2-minute breakdown of everything important ...",
+      "snippet_highlighted_words": [
+        "crypto"
+      ],
+      "source": "CoinMarketCap"
+    },
+    {
+      "position": 6,
+      "title": "How Bitcoin Mining Impacts Climate, Water and Land",
+      "link": "https://www.unwater.org/news/unu-report-how-bitcoin-mining-impacts-climate-water-and-land",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unwater.org/news/unu-report-how-bitcoin-mining-impacts-climate-water-and-land&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECBkQAQ",
+      "displayed_link": "https://www.unwater.org › News",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dd21a43a2570719f5da36f1385b2dd11b.png",
+      "date": "Nov 27, 2023",
+      "snippet": "The water footprint of BTC mining is significant, amounting to about 1.65 cubic kilometers (km3) from 2020 to 2021.",
+      "source": "UN-Water"
+    },
+    {
+      "position": 7,
+      "title": "Bitcoin Remains on Track for $100K by Year-End 2024",
+      "link": "https://www.coindesk.com/markets/2023/11/28/bitcoin-remains-on-track-for-100k-by-year-end-2024-standard-chartered",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coindesk.com/markets/2023/11/28/bitcoin-remains-on-track-for-100k-by-year-end-2024-standard-chartered&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECBcQAQ",
+      "displayed_link": "https://www.coindesk.com › markets › 2023/11/28 › bitc...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2ddc83595729d5328833bee2ef99bb3175.png",
+      "date": "Nov 28, 2023",
+      "snippet": "Bitcoin Remains on Track for $100K by Year-End 2024: Standard Chartered. An earlier-than-expected spot bitcoin ETF in the U.S. could be the key catalyst, said ...",
+      "snippet_highlighted_words": [
+        "Bitcoin Remains on Track for $100K by Year-End 2024"
+      ],
+      "source": "CoinDesk"
+    },
+    {
+      "position": 8,
+      "title": "Bitcoin rises to new high for the year Friday above $38000",
+      "link": "https://www.cnbc.com/2023/11/24/bitcoin-rises-to-new-high-for-the-year-friday-above-38000.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnbc.com/2023/11/24/bitcoin-rises-to-new-high-for-the-year-friday-above-38000.html&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECDEQAQ",
+      "displayed_link": "https://www.cnbc.com › 2023/11/24 › bitcoin-rises-to-n...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d721d7f18e6fae36708be00e63bda3f3d.png",
+      "date": "Nov 24, 2023",
+      "snippet": "Bitcoin rose to the $37,800 level for the first time since May 2022, according to Coin Metrics. Meanwhile, ether has moved back above the key psychological ...",
+      "snippet_highlighted_words": [
+        "Bitcoin rose to the $37,800 level for the first time since May 2022"
+      ],
+      "source": "CNBC"
+    },
+    {
+      "position": 9,
+      "title": "CoinChoose.com - Latest Crypto Prices, Trends, News in 2025",
+      "link": "https://www.coinchoose.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coinchoose.com/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCKsBEAE",
+      "displayed_link": "https://www.coinchoose.com",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2de8869a0e9fbcb2bca2c45cbb845875c6.png",
+      "date": "Nov 27, 2023",
+      "snippet": "Explore the implications of the 2024 Bitcoin halving on the cryptocurrency market, examining past trends and future predictions.",
+      "snippet_highlighted_words": [
+        "Explore the implications of the 2024 Bitcoin halving"
+      ],
+      "source": "CoinChoose"
+    },
+    {
+      "position": 10,
+      "title": "Coincover's crypto news update [27/11/2023]",
+      "link": "https://www.coincover.com/blog/coincovers-crypto-news-update-27/11/2023",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coincover.com/blog/coincovers-crypto-news-update-27/11/2023&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECCwQAQ",
+      "displayed_link": "https://www.coincover.com › blog › coincovers-crypto-...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2de6272e41c771c6c8e5eea90b4e8adf1d.png",
+      "date": "Nov 27, 2023",
+      "snippet": "Bitcoin, the largest cryptocurrency by market value, experienced an increase in its price last Friday. It reached levels that haven't been seen since May 2022.",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "cryptocurrency"
+      ],
+      "source": "CoinCover"
+    },
+    {
+      "position": 11,
+      "title": "Bitcoin Sender Mistakenly Overpays Record $3M in ...",
+      "link": "https://finance.yahoo.com/news/bitcoin-sender-mistakenly-overpays-record-053338335.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://finance.yahoo.com/news/bitcoin-sender-mistakenly-overpays-record-053338335.html&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECGMQAQ",
+      "displayed_link": "https://finance.yahoo.com › news › bitcoin-sender-mist...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dc492ac7d64bfc15fe73194a1d7280da1.png",
+      "date": "Nov 23, 2023",
+      "snippet": "A Bitcoin (BTC) sender made a costly error by paying an unprecedented $3 million in transaction fees for a single transaction.",
+      "snippet_highlighted_words": [
+        "paying an unprecedented $3 million in transaction fees"
+      ],
+      "source": "Yahoo Finance"
+    },
+    {
+      "position": 12,
+      "title": "United States Files Forfeiture Action to Recover ...",
+      "link": "https://www.justice.gov/usao-ma/pr/united-states-files-forfeiture-action-recover-cryptocurrency-traceable-fraud-scheme-0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justice.gov/usao-ma/pr/united-states-files-forfeiture-action-recover-cryptocurrency-traceable-fraud-scheme-0&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCIIBEAE",
+      "displayed_link": "https://www.justice.gov › usao-ma › united-states-files-f...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d8db99f0aaf1999aecb8112c176e57695.png",
+      "date": "Nov 22, 2023",
+      "snippet": "The United States Attorney's Office filed a civil forfeiture action to recover cryptocurrency alleged to be proceeds of a “pig-butchering” fraud scheme.",
+      "snippet_highlighted_words": [
+        "cryptocurrency"
+      ],
+      "source": "Department of Justice (.gov)"
+    },
+    {
+      "position": 13,
+      "title": "SEC Struggles to Serve Richard Heart in Multi-Billion ...",
+      "link": "https://news.bitcoin.com/sec-struggles-to-serve-richard-heart-in-multi-billion-dollar-crypto-case/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.bitcoin.com/sec-struggles-to-serve-richard-heart-in-multi-billion-dollar-crypto-case/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCLEBEAE",
+      "displayed_link": "https://news.bitcoin.com › sec-struggles-to-serve-richar...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2daf38c8a3dff28d13a47a55244c074d08.png",
+      "date": "Nov 27, 2023",
+      "snippet": "The US Securities and Exchange Commission (SEC) faces challenges in its billion-dollar lawsuit against cryptocurrency figure Richard Heart.",
+      "snippet_highlighted_words": [
+        "cryptocurrency"
+      ],
+      "source": "Bitcoin.com News"
+    },
+    {
+      "position": 14,
+      "title": "New crypto front emerges in Israel's militant financing fight",
+      "link": "https://www.reuters.com/world/middle-east/new-crypto-front-emerges-israels-militant-financing-fight-2023-11-27/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reuters.com/world/middle-east/new-crypto-front-emerges-israels-militant-financing-fight-2023-11-27/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECDAQAQ",
+      "displayed_link": "https://www.reuters.com › world › middle-east › new-cr...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dea089de24aedf6b888f9b93cf0a5535a.png",
+      "date": "11 hours ago",
+      "snippet": "A new front has emerged in Israel's fight against the funding of Iran-backed militant groups from Hamas to Hezbollah: A fast-growing crypto network called ...",
+      "snippet_highlighted_words": [
+        "crypto"
+      ],
+      "source": "Reuters"
+    },
+    {
+      "position": 15,
+      "title": "An Interview With Robert F. Kennedy, Jr.",
+      "link": "https://bitcoinmagazine.com/print/an-interview-with-robert-f-kennedy-jr-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitcoinmagazine.com/print/an-interview-with-robert-f-kennedy-jr-&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECEcQAQ",
+      "displayed_link": "https://bitcoinmagazine.com › Print",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d28f230601930ae2b3a5d9eff6e4a969d.png",
+      "date": "Nov 22, 2023",
+      "snippet": "Robert F. Kennedy, Jr. sits down with Bitcoin Magazine to discuss his candidacy, Bitcoin, CBDCs and the importance of personal freedom.",
+      "snippet_highlighted_words": [
+        "Robert F. Kennedy, Jr. sits down with Bitcoin Magazine"
+      ],
+      "source": "Bitcoin Magazine"
+    },
+    {
+      "position": 16,
+      "title": "Bitwise Bitcoin ETF News",
+      "link": "https://www.investing.com/etfs/bitb-news/572",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investing.com/etfs/bitb-news/572&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECGcQAQ",
+      "displayed_link": "https://www.investing.com › etfs › bitb-news",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d3381feae92fe3c093da3c2c4e9e5c206.jpeg",
+      "date": "Nov 24, 2023",
+      "snippet": "BITB News. Find the latest News about the Bitwise Bitcoin ETF. ARK Investment Management divests Grayscale Bitcoin Trust shares amid Bitcoin rally. ARK ...",
+      "snippet_highlighted_words": [
+        "ARK Investment Management divests Grayscale Bitcoin Trust shares"
+      ],
+      "source": "Investing.com"
+    },
+    {
+      "position": 17,
+      "title": "Regulators and law enforcement crack down on crypto's ...",
+      "link": "https://apnews.com/article/binance-crypto-ftx-defi-blockchain-969377e746bbd1538ab5cbc988a490e4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apnews.com/article/binance-crypto-ftx-defi-blockchain-969377e746bbd1538ab5cbc988a490e4&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECHkQAQ",
+      "displayed_link": "https://apnews.com › article",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dad6e8953d9e3878494eecaec1395b134.png",
+      "date": "Nov 22, 2023",
+      "snippet": "U.S. Treasury Secretary Janet Yellen said Tuesday that existing regulations already apply to cryptocurrency at a news conference announcing the $4 billion ...",
+      "snippet_highlighted_words": [
+        "existing regulations already apply to cryptocurrency"
+      ],
+      "source": "AP News"
+    },
+    {
+      "position": 18,
+      "title": "11th anniversary of Bitcoin's first halving: From $12 to $37000",
+      "link": "https://cointelegraph.com/news/bitcoin-first-halving-11th-anniversary",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cointelegraph.com/news/bitcoin-first-halving-11th-anniversary&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECH4QAQ",
+      "displayed_link": "https://cointelegraph.com › news › bitcoin-first-halving...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d7fc0f78c313de10a1bb3bde0b60b2cfa.png",
+      "date": "Nov 28, 2023",
+      "snippet": "Bitcoin experienced its first-ever halving 11 years ago today, and since then, it has soared from $12 to its current price of $37,000. 9047 Total views.",
+      "snippet_highlighted_words": [
+        "Bitcoin experienced its first-ever halving 11 years ago today"
+      ],
+      "source": "Cointelegraph"
+    },
+    {
+      "position": 19,
+      "title": "How Bitcoin exposure 'reduces risks' in traditional portfolios",
+      "link": "https://www.dlnews.com/articles/markets/how-bitcoin-exposure-reduces-risks-in-traditional-portfolios/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dlnews.com/articles/markets/how-bitcoin-exposure-reduces-risks-in-traditional-portfolios/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCJUBEAE",
+      "displayed_link": "https://www.dlnews.com › Markets news",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d91bcb3973280a582af6e6da59fa16ea4.png",
+      "date": "Nov 23, 2023",
+      "snippet": "Allocating just 1% to Bitcoin in investment portfolios can drive outperformance and mitigate risk, K33 research suggests.",
+      "snippet_highlighted_words": [
+        "Bitcoin"
+      ],
+      "source": "dlnews.com"
+    },
+    {
+      "position": 20,
+      "title": "Bitcoin News - X",
+      "link": "https://x.com/BitcoinNewsCom/status/1727734252819603531",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/BitcoinNewsCom/status/1727734252819603531&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCLYBEAE",
+      "displayed_link": "900+ likes",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d1d09db1173ae075dc60dd2fe44f1db3f.png",
+      "snippet": "CRAMER ALERT: “If you like #Bitcoin, buy #Bitcoin. That has always been my view, and for a while, I liked it, and then I decided that money had been made.",
+      "snippet_highlighted_words": [
+        "buy"
+      ],
+      "source": "X · BitcoinNewsCom"
+    },
+    {
+      "position": 21,
+      "title": "The Crypto BULL MARKET of 2024 - BIG NEWS! 🚨",
+      "link": "https://www.youtube.com/watch?v=BXE4xn-acYI",
+      "displayed_link": "47.9K+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/BXE4xn-acYI/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kJKWN80Dj-lHhsCm8MvEu08LJzjQ",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dad348d5dfd507fd32e72efee033b4063.png",
+      "snippet": "The crypto bull market of 2024 is about to begin...are you ready? With 2023 drawing to a close, everyone will soon be looking at 2024 and positioning their ...",
+      "duration": "17:26",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=BXE4xn-acYI&t=0",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Dia5Jac40r5tfPAEWSHLtKYsGro8UmB2gZ8lm-FG9Q&s"
+        },
+        {
+          "time": "01:47",
+          "title": "Crypto Summer",
+          "link": "https://www.youtube.com/watch?v=BXE4xn-acYI&t=107",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh_SWxr1k7UG6ujfO-sE6BpsNLGFqGNDpNsj4Xj0P1Q&s"
+        },
+        {
+          "time": "05:38",
+          "title": "Seasonality",
+          "link": "https://www.youtube.com/watch?v=BXE4xn-acYI&t=338",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3asNa0TbYGcDJmdVRq0_9fOS0s_6XUVMM3pWUVTCLag&s"
+        },
+        {
+          "time": "07:14",
+          "title": "Biggest Developments",
+          "link": "https://www.youtube.com/watch?v=BXE4xn-acYI&t=434",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeXrVpdUTp6gWyVOVrMWuBphxFaD2ucf2uSDQxR91hXQ&s"
+        },
+        {
+          "time": "14:31",
+          "title": "Summary",
+          "link": "https://www.youtube.com/watch?v=BXE4xn-acYI&t=871",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwi_ETlngaKjN5qdsYtl6KihPyzM7g1_GlGVERGyt3WA&s"
+        },
+        {
+          "time": "16:29",
+          "title": "SuperThanks Commenting",
+          "link": "https://www.youtube.com/watch?v=BXE4xn-acYI&t=989",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrcs2GzdgyEul-UtV7E068e_j5MV-LPmWpRT3TNomcHQ&s"
+        }
+      ],
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSF0AnyuEBiSIjfA7sTDtvhFAuVWDItRWUdWQ",
+      "source": "YouTube · Investing Made Simple"
+    },
+    {
+      "position": 22,
+      "title": "CNBC Host Jim Cramer Is Now Bullish on Bitcoin",
+      "link": "https://finance.yahoo.com/news/cnbc-host-jim-cramer-now-053636233.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://finance.yahoo.com/news/cnbc-host-jim-cramer-now-053636233.html&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECDIQAQ",
+      "displayed_link": "https://finance.yahoo.com › news › cnbc-host-jim-cram...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d0dfab43abbe9226e2d6bc121543e2f28.png",
+      "date": "Nov 27, 2023",
+      "snippet": "Jim Cramer, the host of CNBC's Mad Money, has reversed his opinion on Bitcoin and is now urging investors to reconsider their positions.",
+      "snippet_highlighted_words": [
+        "Jim Cramer, the host of CNBC's Mad Money"
+      ],
+      "source": "Yahoo Finance"
+    },
+    {
+      "position": 23,
+      "title": "Feds seize $9 million in illicit cryptocurrency deposits from ...",
+      "link": "https://www.cbsnews.com/sanfrancisco/news/feds-seize-9-million-in-illicit-cryptocurrency-deposits-from-silicon-valley-cyber-scam-organization/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cbsnews.com/sanfrancisco/news/feds-seize-9-million-in-illicit-cryptocurrency-deposits-from-silicon-valley-cyber-scam-organization/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECEgQAQ",
+      "displayed_link": "https://www.cbsnews.com › CBS San Francisco › Crime",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d4488c8c2822be7668368893a86cacbfc.png",
+      "date": "Nov 22, 2023",
+      "snippet": "Federal agents seized $9 million worth of cryptocurrency linked to a cyber scam organization that has exploited more than 70 victims.",
+      "snippet_highlighted_words": [
+        "Federal agents seized $9 million worth of cryptocurrency"
+      ],
+      "source": "CBS News"
+    },
+    {
+      "position": 24,
+      "title": "Bitcoin Sender Mistakenly Overpays Record $3M in ...",
+      "link": "https://coinmarketcap.com/academy/article/bitcoin-sender-mistakenly-overpays-record-dollar3m-in-transaction-fees",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinmarketcap.com/academy/article/bitcoin-sender-mistakenly-overpays-record-dollar3m-in-transaction-fees&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECEsQAQ",
+      "displayed_link": "https://coinmarketcap.com › academy › article › bitcoin...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d9f47446dcf4704e6aea682977d18925c.png",
+      "date": "Nov 23, 2023",
+      "snippet": "A Bitcoin (BTC) sender made a costly error by paying an unprecedented $3 million in transaction fees for a single transaction.",
+      "snippet_highlighted_words": [
+        "paying an unprecedented $3 million in transaction fees"
+      ],
+      "source": "CoinMarketCap"
+    },
+    {
+      "position": 25,
+      "title": "Bhutan Running Secret, State-Owned Bitcoin Mining ...",
+      "link": "https://www.businessinsider.com/bhutan-running-secret-state-owned-bitcoin-mining-facilities-in-himalayas-2023-11",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.businessinsider.com/bhutan-running-secret-state-owned-bitcoin-mining-facilities-in-himalayas-2023-11&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECE0QAQ",
+      "displayed_link": "https://www.businessinsider.com › Finance",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dd9bbc4e66a3b2323f811380c5a4ac46b.png",
+      "date": "Nov 25, 2023",
+      "snippet": "The Kingdom of Bhutan has secretly developed a series of bitcoin mining facilities, a Forbes investigation has revealed.",
+      "snippet_highlighted_words": [
+        "bitcoin"
+      ],
+      "source": "Business Insider"
+    },
+    {
+      "position": 26,
+      "title": "Raiffeisenlandesbank to launch Bitcoin trading in early 2024",
+      "link": "https://cointelegraph.com/news/raiffeisenlandesbank-bitcoin-launch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cointelegraph.com/news/raiffeisenlandesbank-bitcoin-launch&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECGUQAQ",
+      "displayed_link": "https://cointelegraph.com › news › raiffeisenlandesbank...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d9eae5cc6eaf3f031d57ec1f5d31e22fa.png",
+      "date": "Nov 24, 2023",
+      "snippet": "Raiffeisen Bank's RLB NÖ-Wien is preparing to introduce cryptocurrency trading services to its retail clients in early 2024.",
+      "snippet_highlighted_words": [
+        "cryptocurrency"
+      ],
+      "source": "Cointelegraph"
+    },
+    {
+      "position": 27,
+      "title": "Bitcoin News - X",
+      "link": "https://x.com/BitcoinNewsCom/status/1728428328078418090?lang=ar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/BitcoinNewsCom/status/1728428328078418090%3Flang%3Dar&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECGkQAQ",
+      "displayed_link": "100+ likes",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d739bcc04d24ce456d501677fe123e3f1.png",
+      "snippet": "THIS JUST IN: Sam Bankman-Fried is dealing with a new kind of currency in prison: fish . The disgraced founder of cryptocurrency FTX reportedly paid for a ...",
+      "snippet_highlighted_words": [
+        "Sam Bankman-Fried is dealing with a new kind of currency in prison: fish"
+      ],
+      "source": "X · BitcoinNewsCom"
+    },
+    {
+      "position": 28,
+      "title": "Cryptocurrency News: Binance Bleeds $956m After CEO ...",
+      "link": "https://www.youtube.com/watch?v=rlaUAIR9JWY",
+      "displayed_link": "120+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/rlaUAIR9JWY/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kqUj7sMHwRNF7lOOprN1Ymche3Zg",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d195abea8fb6ea95277a839870418e77f.png",
+      "snippet": "Investors pulled about $956 million from crypto exchange Binance over the past 24 hours, market data showed, after chief Changpeng Zhao pleaded guilty in a ...",
+      "duration": "1:46",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR9y7WVtNV43ErBPTWv3cMJpLjcPzvQUvyqBA",
+      "source": "YouTube · NEWS9 Live"
+    },
+    {
+      "position": 29,
+      "title": "A decision support system using signals from social media ...",
+      "link": "https://www.sciencedirect.com/science/article/abs/pii/S016792362300204X",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/abs/pii/S016792362300204X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCIABEAE",
+      "displayed_link": "https://www.sciencedirect.com › article › abs › pii",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dd65a55756878583db8a304d1921da69f.png",
+      "author": "by H Subramanian",
+      "snippet": "We design, implement, and evaluate a decision support system that combines fine-grained signals derived from news and social media with bitcoin prices.",
+      "snippet_highlighted_words": [
+        "news",
+        "bitcoin"
+      ],
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 30,
+      "title": "With Just 0.0004% of Bitcoin's Hashpower, Solo Miner's 2 ...",
+      "link": "https://news.bitcoin.com/with-just-0-0004-of-bitcoins-hashpower-solo-miners-2-ph-s-effort-secures-block-reward/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.bitcoin.com/with-just-0-0004-of-bitcoins-hashpower-solo-miners-2-ph-s-effort-secures-block-reward/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCIMBEAE",
+      "displayed_link": "https://news.bitcoin.com › with-just-0-0004-of-bitcoins-...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dafa4590444d5838534f8f53042c0d25d.png",
+      "date": "Nov 27, 2023",
+      "snippet": "On November 26, 2023, a stroke of remarkable luck befell a solo miner when they discovered block 818,588, verifying a total of 4,193 transactions.",
+      "source": "Bitcoin.com News"
+    },
+    {
+      "position": 31,
+      "title": "Has Bitcoin Reached “Euphoria” Yet? What On-Chain Data ...",
+      "link": "https://www.tradingview.com/news/newsbtc:313e3e607094b:0-has-bitcoin-reached-euphoria-yet-what-on-chain-data-says/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tradingview.com/news/newsbtc:313e3e607094b:0-has-bitcoin-reached-euphoria-yet-what-on-chain-data-says/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCJQBEAE",
+      "displayed_link": "https://www.tradingview.com › News › NewsBTC",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dfd6336dcbb68e817fdc1190166ccdf66.png",
+      "date": "Nov 22, 2023",
+      "snippet": "Bitcoin has gone through some volatility over the past day following the news of Changpeng Zhao (CZ) stepping down as Binance's CEO. The asset had earlier ...",
+      "snippet_highlighted_words": [
+        "Bitcoin has gone through some volatility over the past day"
+      ],
+      "source": "TradingView"
+    },
+    {
+      "position": 32,
+      "title": "Nubank adds ten new cryptocurrency options in less than 1 year",
+      "link": "https://international.nubank.com.br/consumers/nubank-cripto-adds-ten-new-cryptocurrency-options-in-less-than-1-year/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://international.nubank.com.br/consumers/nubank-cripto-adds-ten-new-cryptocurrency-options-in-less-than-1-year/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCJkBEAE",
+      "displayed_link": "https://international.nubank.com.br › consumers › nuban...",
+      "date": "Nov 22, 2023",
+      "snippet": "With these new additions, there will be a total of 14 cryptocurrencies available on the app, in addition to Nucoin, a utility token for the loyalty program.",
+      "source": "Nubank"
+    },
+    {
+      "position": 33,
+      "title": "The Secret Locations Of Bhutan's Royal Bitcoin Mines",
+      "link": "https://www.forbes.com/sites/iainmartin/2023/11/22/bhutan-secret-bitcoin-mine-locations/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.forbes.com/sites/iainmartin/2023/11/22/bhutan-secret-bitcoin-mine-locations/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCJwBEAE",
+      "displayed_link": "https://www.forbes.com › Innovation",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d70a86e2000638c402298a81af27dd79b.png",
+      "date": "Nov 22, 2023",
+      "snippet": "The Himalayan Kingdom quietly spent millions building its own bitcoin mining operation. Now, satellite imagery reveals the mine's secret locations.",
+      "snippet_highlighted_words": [
+        "bitcoin"
+      ],
+      "source": "Forbes"
+    },
+    {
+      "position": 34,
+      "title": "Bitcoin Unbreakable Floor? Analyst Predicts BTC Won't ...",
+      "link": "https://www.newsbtc.com/news/bitcoin-unbreakable-floor-analyst-predicts-btc-wont-fall-below-35000-ever-again/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newsbtc.com/news/bitcoin-unbreakable-floor-analyst-predicts-btc-wont-fall-below-35000-ever-again/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCLIBEAE",
+      "displayed_link": "https://www.newsbtc.com › news › bitcoin-unbreakable...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d6d744ce0211a252bd584415bfa125507.png",
+      "date": "Nov 27, 2023",
+      "snippet": "NewsBTC is a cryptocurrency news service that covers bitcoin news today, technical analysis & forecasts for bitcoin price and other altcoins. Here at ...",
+      "snippet_highlighted_words": [
+        "NewsBTC is a cryptocurrency news service"
+      ],
+      "source": "NewsBTC"
+    },
+    {
+      "position": 35,
+      "title": "CoinGecko Acquires Zash to Enhance Its Crypto Data API",
+      "link": "https://fintechnews.my/40962/blockchain/coingecko-acquires-zash-to-enhance-its-crypto-data-api/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fintechnews.my/40962/blockchain/coingecko-acquires-zash-to-enhance-its-crypto-data-api/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECC4QAQ",
+      "displayed_link": "https://fintechnews.my › Blockchain/Bitcoin",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dd99a5a5efc8ceb199d6fc0d3deaf2717.png",
+      "date": "Nov 22, 2023",
+      "snippet": "Cryptocurrencies data aggregator CoinGecko has announced its first-ever acquisition of Zash, a company specialising in NFT data infrastructure and intelligence.",
+      "snippet_highlighted_words": [
+        "CoinGecko has announced its first-ever acquisition of Zash"
+      ],
+      "source": "Fintech News Malaysia"
+    },
+    {
+      "position": 36,
+      "title": "Breaking News: Bitcoin ETF Approval Incoming! What You ...",
+      "link": "https://www.instagram.com/thewealthchef/reel/C0CXYmGBlp0/",
+      "displayed_link": "90+ likes · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToNeR2Er_RCXmJkARo4zDyGnu6u_fvL7NwuWerlUzeVJAG&s",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d96ddafbf75726d8aa060545ae4f795a0.png",
+      "snippet": "Bitcoin ETF approval in the US is on the horizon, and it's about to revolutionize how we view cryptocurrencies. Join me as we dive into the details and ...",
+      "duration": "3:18",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQvz2O2nQ8tengwc7tpHwrZ0qfVEB_EOKt-cQ",
+      "source": "Instagram · thewealthchef"
+    },
+    {
+      "position": 37,
+      "title": "A decision support system using signals from social media ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016792362300204X",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S016792362300204X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCLQBEAE",
+      "displayed_link": "https://www.sciencedirect.com › science › article › pii",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d6c0b333b96f71ef51bd76a26d9179afd.png",
+      "author": "by H Subramanian",
+      "snippet": "We design, implement, and evaluate a decision support system that combines fine-grained signals derived from news and social media with bitcoin prices.",
+      "snippet_highlighted_words": [
+        "news",
+        "bitcoin"
+      ],
+      "missing": [
+        "Bitcoin"
+      ],
+      "must_include": {
+        "word": "Bitcoin",
+        "link": "https://www.google.com/search?num=100&sca_esv=98a6bd07f428894a&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=%22Bitcoin%22+news&sa=X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQ5t4CegUIwAEQAQ"
+      },
+      "source": "ScienceDirect.com"
+    },
+    {
+      "position": 38,
+      "title": "A Bitcoin Breakout Would Change EVERYTHING! Cardano ...",
+      "link": "https://www.youtube.com/watch?v=bUmHqfJJe5c",
+      "displayed_link": "28.8K+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/bUmHqfJJe5c/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lCN0t7-TC1QDBv1y0RGti5oxAugQ",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dfe39067bf023a3b6d90ee618c2326b9b.png",
+      "snippet": "00:00 Bitcoin on the daily (resistance) · 00:50 Bearish or bullish? · 2:50 If Bitcoin breaks out · 4:15 A Bitcoin price fall to be aware of · 6:30 Cardano still has ...",
+      "duration": "15:23",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQx8CDW6XnrBYEfLS0-zBuYwOS71jkviVvuZg",
+      "source": "YouTube · Crypto Capital Venture"
+    },
+    {
+      "position": 39,
+      "title": "bitsCrunch Token (BCUT) Price Today, News & Live Chart",
+      "link": "https://www.forbes.com/digital-assets/assets/bitscrunch-token-bcut/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.forbes.com/digital-assets/assets/bitscrunch-token-bcut/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECDQQAQ",
+      "displayed_link": "https://www.forbes.com › ... › Forbes Crypto Prices",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dd9a4fa952584eb5a6b216caef4d66aac.png",
+      "date": "13 hours ago",
+      "snippet": "bitsCrunch Token is a global digital currency exchange offering cryptocurrency trading, advanced tools, and staking options for beginners and experts alike.",
+      "snippet_highlighted_words": [
+        "cryptocurrency"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 0.02,
+            "currency": "$"
+          },
+          "extensions": [
+            "$0.02"
+          ]
+        }
+      },
+      "source": "Forbes"
+    },
+    {
+      "position": 40,
+      "title": "CoinMarketCap: Crypto Tracker – Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.coinmarketcap.android&hl=en_IN",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.coinmarketcap.android%26hl%3Den_IN&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECEwQAQ",
+      "displayed_link": "https://play.google.com › store › apps › details",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d561fc393f755a5881e85a40285766179.png",
+      "date": "Nov 25, 2023",
+      "snippet": "CMC is the Cryptocurrency Nº1 source for Bitcoin BTC & Crypto news, coin stats and crypto charts. Stay up-to-date with daily live Bitcoin & crypto prices ...",
+      "snippet_highlighted_words": [
+        "Bitcoin BTC & Crypto news"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "reviews": 431347
+          },
+          "extensions": [
+            "4.7(431,347)",
+            "Free",
+            "Android",
+            "Finance"
+          ]
+        }
+      },
+      "source": "Google Play"
+    },
+    {
+      "position": 41,
+      "title": "Crypto News: BTC, ETH, Binance, Banks In Trouble, Altcoins ...",
+      "link": "https://www.youtube.com/watch?v=S5p8rWrRVdM",
+      "displayed_link": "129.2K+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/S5p8rWrRVdM/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3m5oLinR2HHR6iiSkszHp-TJZO8Tg",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d7c58215061466b7fc7680c52afcd9829.png",
+      "snippet": "Time To Sell?! · Bitcoin Hits $100K: Is the Crypto Market About to Burst? · Chicago neighborhood turned 'ghost town' amid deportations | NewsNation Prime · TOP 6 ...",
+      "duration": "19:09",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT0Q2GhHBXzV9JOPNhz8gJRwzdI3is50E1stA",
+      "source": "YouTube · Coin Bureau"
+    },
+    {
+      "position": 42,
+      "title": "Man who had 'pivotal' role in crypto heist sentenced",
+      "link": "https://www.bbc.co.uk/news/articles/c727nnr6d8ro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.co.uk/news/articles/c727nnr6d8ro&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECEoQAQ",
+      "displayed_link": "https://www.bbc.co.uk › news › articles",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d1ee10cb2c13252a14fd84aa9494b2b11.png",
+      "date": "Nov 28, 2023",
+      "snippet": "Man who was 'pivotal' to crypto-raid sentenced ... A 29-year-old man from Lanarkshire who had a 'pivotal role' in a crypto-currency robbery has avoided jail and ...",
+      "snippet_highlighted_words": [
+        "crypto",
+        "crypto"
+      ],
+      "source": "BBC"
+    },
+    {
+      "position": 43,
+      "title": "The Binance Crypto News Just Got Way Worse...",
+      "link": "https://www.youtube.com/watch?v=gpLNJw8xDas",
+      "displayed_link": "146.8K+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/gpLNJw8xDas/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3n-VN4OJiAV30QPVIUMs_GTZQgq6w",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d9f2338c76761687c5df279adcff8de94.png",
+      "snippet": "What's next for binance? Why is bitcoin going up? Let's discuss the recent cryptocurrency news for bitcoin, ethereum, altcoins, & MORE! SLAP LIKE BUTTON!",
+      "duration": "9:06",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQwRlZz7Ht0noCrWeWcK4YyaFUn-Wo1kkEOIw",
+      "source": "YouTube · Altcoin Daily"
+    },
+    {
+      "position": 44,
+      "title": "CoinDesk: Crypto, Bitcoin News - Apps en Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.coindesk.mobile&hl=es_419",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.coindesk.mobile%26hl%3Des_419&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECFIQAQ",
+      "displayed_link": "https://play.google.com › details",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d6e1968050d2cf9fccefb0fd1db954d39.png",
+      "date": "Nov 27, 2023",
+      "snippet": "CoinDesk es la empresa de medios, eventos, índices y datos más confiable para la criptoeconomía global. Desde 2013, CoinDesk Media ha liderado la historia ...",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 15
+          },
+          "extensions": [
+            "5.0(15)",
+            "Free",
+            "Android",
+            "Finance"
+          ]
+        }
+      },
+      "source": "Google Play"
+    },
+    {
+      "position": 45,
+      "title": "MOST BULLISH BITCOIN NEWS OF THE YEAR? THIS ...",
+      "link": "https://www.youtube.com/watch?v=UauKhdqqWWI",
+      "displayed_link": "23.1K+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/UauKhdqqWWI/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3nYozJ32TmCx6qT3CfXANXcMKo8Tw",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2db3a58c8f595600b13124ecf1afb10b33.png",
+      "snippet": "... Bitcoin analysis 08:21 - My trades 10:38 - More crypto news 14:47 - Will Tether blow up ? 16:02 - MT.Gox about to dump BTC ⛓️ Useful Links ⛓️ KEEP YOUR CRYPTO ...",
+      "duration": "17:47",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ2CvM6fbQLFexHHO9YQeBbsT5KXy8Am2eA7Q",
+      "source": "YouTube · Satoshi Stacker"
+    },
+    {
+      "position": 46,
+      "title": "Letter from the South",
+      "link": "https://www.newyorker.com/news/letter-from-the-south",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newyorker.com/news/letter-from-the-south&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECGYQAQ",
+      "displayed_link": "https://www.newyorker.com › news › letter-from-the-south",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dadf2299d3d1b7cb53e63341218f1345f.png",
+      "date": "Nov 26, 2023",
+      "snippet": "Many cryptocurrency enthusiasts plan to vote for whichever candidate gives crypto the biggest boost. ... News · Books & Culture · Fiction & Poetry · Humor & ...",
+      "snippet_highlighted_words": [
+        "cryptocurrency",
+        "crypto",
+        "News"
+      ],
+      "source": "The New Yorker"
+    },
+    {
+      "position": 47,
+      "title": "Judgment finds crypto debt can be used to wind up a ...",
+      "link": "https://www.penningtonslaw.com/news-publications/latest-news/2023/judgment-finds-that-crypto-debt-can-be-used-to-wind-up-a-company-in-singapore",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.penningtonslaw.com/news-publications/latest-news/2023/judgment-finds-that-crypto-debt-can-be-used-to-wind-up-a-company-in-singapore&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECGgQAQ",
+      "displayed_link": "https://www.penningtonslaw.com › latest-news › judgm...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d68a840c2a5e1abe67ea5d196d263f087.png",
+      "date": "Nov 24, 2023",
+      "snippet": "... cryptocurrency funds held by the company count as ' ... Home » News & publications» Latest news» Judgment finds that crypto debt can ...",
+      "snippet_highlighted_words": [
+        "cryptocurrency",
+        "News",
+        "news",
+        "crypto"
+      ],
+      "source": "Penningtons Manches Cooper"
+    },
+    {
+      "position": 48,
+      "title": "XRP, BNB Among Altcoins Losing Correlation With Bitcoin",
+      "link": "https://cryptorank.io/news/feed/72310-xrp-bnb-altcoins-losing-correlation-bitcoin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cryptorank.io/news/feed/72310-xrp-bnb-altcoins-losing-correlation-bitcoin&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECGQQAQ",
+      "displayed_link": "https://cryptorank.io › News",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d12ef19688dbda444ea65afda3f58d34d.png",
+      "date": "Nov 28, 2023",
+      "snippet": "A well-known cryptocurrency commentator thinks Ethereum is poised to reach new all-ti... Apr, 15, 2025. 3 min read. by NewsBTC. News ...",
+      "snippet_highlighted_words": [
+        "cryptocurrency",
+        "News"
+      ],
+      "source": "CryptoRank"
+    },
+    {
+      "position": 49,
+      "title": "Plexus - PLX Live Price Chart, Market Cap & News Today",
+      "link": "https://www.coingecko.com/en/coins/plexus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coingecko.com/en/coins/plexus&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECHgQAQ",
+      "displayed_link": "https://www.coingecko.com › coins › plexus",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dd926c98c98f602564902b5c4ee04db2a.png",
+      "date": "Nov 25, 2023",
+      "snippet": "Track the latest PLEXUS price, market cap, trading volume, news and more with CoinGecko's live PLX price chart and popular cryptocurrency price tracker.",
+      "snippet_highlighted_words": [
+        "news",
+        "cryptocurrency"
+      ],
+      "source": "CoinGecko"
+    },
+    {
+      "position": 50,
+      "title": "CZ Binance Resign is BULLISH (Here's Why)!! Bitcoin News ...",
+      "link": "https://www.youtube.com/watch?v=-M_C3COh8-8",
+      "displayed_link": "6.2K+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/-M_C3COh8-8/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kOgpKdBOah7jUckobC3cungES9Tw",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dbc2c65cdbfc11212a22f883eab441b13.png",
+      "snippet": "CZ Binance Resign is BULLISH (Here's Why)!! Bitcoin News Today & Ethereum Price Prediction! *Register on Bybit* https://bit.ly/BybitJosh *(Up to ...",
+      "duration": "15:14",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQgdehqORkr6dQQRPXWB6IliM_Pgw3NHxrGlg",
+      "source": "YouTube · Crypto World"
+    },
+    {
+      "position": 51,
+      "title": "Financial Planning & Investment Management - BlackRock",
+      "link": "https://www.blackrock.com/ca",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blackrock.com/ca&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECHwQAQ",
+      "displayed_link": "https://www.blackrock.com › ...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d63ed1ea02cdb8fd67a7827718646a512.png",
+      "date": "Nov 24, 2023",
+      "snippet": "BITCOIN INSIGHTS. Changing the game for bitcoin exposure with an ETF. Explore iShares Bitcoin ETF Explore iShares Bitcoin ETF. FUNDS AT BLACKROCK. Funds that ...",
+      "snippet_highlighted_words": [
+        "BITCOIN",
+        "bitcoin",
+        "Bitcoin",
+        "Bitcoin"
+      ],
+      "source": "blackrock.com"
+    },
+    {
+      "position": 52,
+      "title": "Bullish Bitcoin News – March 2025 💰 🇺🇸 U.S. Builds Bi",
+      "link": "https://www.binance.com/square/post/21506398423665",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.binance.com/square/post/21506398423665&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECH8QAQ",
+      "displayed_link": "https://www.binance.com › square › post",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2db17d4a5dbf455137768d09f8d7a184ea.png",
+      "date": "Nov 22, 2023",
+      "snippet": "News · Bookmarked and Liked · Creator Center · Settings. Explore the latest crypto news. ⚡️ Be a part of the latests discussions in crypto. Interact with your ...",
+      "snippet_highlighted_words": [
+        "crypto news"
+      ],
+      "source": "Binance"
+    },
+    {
+      "position": 53,
+      "title": "Breaking News: Bitcoin ETF Approval Incoming! 🚀 What You ...",
+      "link": "https://www.youtube.com/watch?v=6a6TNUXMfUE",
+      "displayed_link": "780+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/6a6TNUXMfUE/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mT-HJrvpNs-8yEA1yI3muhPfH84w",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dc6f1d4489383a9c70bd1a0c29cab0dce.png",
+      "snippet": "Go here to read my full article on the Bitcoin ETF Approval: https://www.thewealthchef.com/blog/bitcoin ... Breaking News: Bitcoin ETF Approval Incoming! What ...",
+      "duration": "3:19",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQPD2hOeQM65OkDw9uoWND7uI6a8Rwjwkj2BQ",
+      "source": "YouTube · Ann Wilson | The Wealth Chef"
+    },
+    {
+      "position": 54,
+      "title": "Lightning Is Doomed",
+      "link": "https://bitcoinmagazine.com/technical/lightning-is-doomed",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bitcoinmagazine.com/technical/lightning-is-doomed&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCIkBEAE",
+      "displayed_link": "https://bitcoinmagazine.com › TECHNICAL",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2db83593a4e93e4b15afe6af852aaffe1b.png",
+      "date": "22 hours ago",
+      "snippet": "Shinobi is an pseudonymous self taught educator in the Bitcoin space. He was the co-host of Block Digest, a news/tech oriented Bitcoin podcast, as well as What ...",
+      "snippet_highlighted_words": [
+        "Bitcoin",
+        "news",
+        "Bitcoin"
+      ],
+      "source": "Bitcoin Magazine"
+    },
+    {
+      "position": 55,
+      "title": "Crypto & Blockchain Archives - gHacks Tech News",
+      "link": "https://www.ghacks.net/category/misc/crypto-and-blockchain/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ghacks.net/category/misc/crypto-and-blockchain/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCJMBEAE",
+      "displayed_link": "https://www.ghacks.net › Misc",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d65a3190966a0db025a0195d77d864ff9.png",
+      "date": "Nov 22, 2023",
+      "snippet": "Crypto & Blockchain. News related to Cryptocurrencies, Blockchain, NFTs, and more. Crypto & Blockchain · Network · Development ...",
+      "snippet_highlighted_words": [
+        "Crypto",
+        "News",
+        "Crypto"
+      ],
+      "source": "gHacks Technology News"
+    },
+    {
+      "position": 56,
+      "title": "Kraken (plateforme d'échange)",
+      "link": "https://fr.wikipedia.org/wiki/Kraken_(plateforme_d%27%C3%A9change)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fr.wikipedia.org/wiki/Kraken_(plateforme_d%2527%25C3%25A9change)&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCJYBEAE",
+      "displayed_link": "https://fr.wikipedia.org › wiki › K...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dc0275a23ce111501c53c3aa68a266d28.png",
+      "date": "Nov 23, 2023",
+      "snippet": "... news [archive] », sur finance.yahoo.com (consulté le 26 mai 2021 ); ↑ (en) « Crypto exchange Kraken acquires trading platform as bitcoin soars [archive] ...",
+      "snippet_highlighted_words": [
+        "news",
+        "Crypto",
+        "bitcoin"
+      ],
+      "source": "Wikipédia"
+    },
+    {
+      "position": 57,
+      "title": "Bitcoin BTC Price News Today - Technical Analysis and Elliott ...",
+      "link": "https://www.youtube.com/watch?v=KPGeCErV8-4",
+      "displayed_link": "3.6K+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/KPGeCErV8-4/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kszkhzrgd7WphVsUFwjYyMkmPRHA",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d556e2af6ea253e453bbf3f1f2cfd596a.png",
+      "snippet": "... Bitcoin BTC Price News Today - Technical Analysis and Elliott Wave Analysis and Price Prediction! In this video I talk about the Bitcoin BTC Cryptocurrency ...",
+      "duration": "5:37",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQzzm7H2dSwcktgBNdhQvHymZCYAdh8i_2tlw",
+      "source": "YouTube · More Crypto Online"
+    },
+    {
+      "position": 58,
+      "title": "Bank of Thailand - Foreign Exchange Rate",
+      "link": "https://www.bot.or.th/en/home.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bot.or.th/en/home.html&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCJoBEAE",
+      "displayed_link": "https://www.bot.or.th › ...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d79f606790e0864706ea8346f5b5b5c89.png",
+      "date": "Nov 22, 2023",
+      "snippet": "News & Media. Back. News & Media. Search for latest updates on BOT's news, speeches, and activities. News. Latest news from the BOT · Speeches. Latest Speeches ...",
+      "snippet_highlighted_words": [
+        "News",
+        "News",
+        "news",
+        "News",
+        "news"
+      ],
+      "source": "ธนาคารแห่งประเทศไทย"
+    },
+    {
+      "position": 59,
+      "title": "For Traders: Simulated Trading. On Your Rules",
+      "link": "https://www.fortraders.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fortraders.com/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCJcBEAE",
+      "displayed_link": "https://www.fortraders.com",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dc3d4c221fd4b0af5786638ac26b3cba1.png",
+      "date": "Nov 28, 2023",
+      "snippet": "For Traders.com is a leading prop trading firm offering a Trading Challenge in a simulated trading environment. With raw spreads, low commissions, ...",
+      "source": "For Traders"
+    },
+    {
+      "position": 60,
+      "title": "Secure Recession Coin Wallet | Best Non-Custodial Mobile ...",
+      "link": "https://coinpaprika.com/coins-wallet/econ-recession-coin/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://coinpaprika.com/coins-wallet/econ-recession-coin/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECEkQAQ",
+      "displayed_link": "https://coinpaprika.com › coins-wallet › econ-recession-...",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d00312ac200e5f55fc84df8c99bfd6c7f.png",
+      "date": "Nov 23, 2023",
+      "snippet": "... crypto (1986). Exchange and buying cryptocurrencies. More than 40 metrics per every coin. Sending and receiving crypto. Browsing through 2k coins. Daily news ...",
+      "snippet_highlighted_words": [
+        "crypto",
+        "crypto",
+        "news"
+      ],
+      "source": "CoinPaprika"
+    },
+    {
+      "position": 61,
+      "title": "Bitcoin BTC Price News Today | Price Prediction | Technical ...",
+      "link": "https://www.youtube.com/watch?v=moj7OyZGZuc",
+      "displayed_link": "30+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/moj7OyZGZuc/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lqQ2I16S-JTZOkPXdIP1ZGIbxRAw",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dea67a6f3ebf8b1f9ff5b2efafbd6178b.png",
+      "snippet": "Bitcoin BTC Price News Today | Price Prediction | Technical Analysis Read Full Analysis: ...",
+      "duration": "1:43",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQKixlDZ4o3sMd62HH95SOAYKQGubg41mwe6w",
+      "source": "YouTube · TOP FOREX BROKERS REVIEW"
+    },
+    {
+      "position": 62,
+      "title": "HUGE CRYPTO NEWS LIVE!🔴Terra Luna Classic, Cronos ...",
+      "link": "https://www.youtube.com/watch?v=_Pq9gcYq1Z8",
+      "displayed_link": "5.5K+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/_Pq9gcYq1Z8/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lwARAPcWMjLZ9u-efG_2cfWoqU7Q",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d8fecea584519138a444cff39ce01ca60.png",
+      "snippet": "HUGE CRYPTO NEWS LIVE! Terra Luna Classic, Cronos, Binance, Bitcoin! I use this exchange a lot! Great Fees & Rewards. Sign up to claim up to $5000+ USDT on ...",
+      "duration": "1:04:26",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS9rSr2_XksLkzEe_BmqAu2GKX70qD_YECkNA",
+      "source": "YouTube · Oscar Ramos"
+    },
+    {
+      "position": 63,
+      "title": "Alerts",
+      "link": "https://www.csk.gov.in/alerts.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.csk.gov.in/alerts.html&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECC0QAQ",
+      "displayed_link": "https://www.csk.gov.in › alerts",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2df1cdedcfd0d5803e208904c2a1adfc57.png",
+      "date": "Nov 22, 2023",
+      "snippet": "Adylkuzz-Cryptocurrency Mining Malware · Wannacry/WannaCrypt Ransomware · BrickerBot: IoT Malware · Avalanche Botnet · Nivdort · LOCKY Ransomware · Dorkbot ...",
+      "snippet_highlighted_words": [
+        "Cryptocurrency"
+      ],
+      "source": "Cyber Swachhta Kendra"
+    },
+    {
+      "position": 64,
+      "title": "1.96 | Kaspa Trading (KAS / ZAR) | South Africa's Largest ...",
+      "link": "https://www.altcointrader.co.za/kas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.altcointrader.co.za/kas&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoECC8QAQ",
+      "displayed_link": "https://www.altcointrader.co.za › kas",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d9942d35b4fa7b0f8b00d1757f623a37e.png",
+      "date": "Nov 23, 2023",
+      "snippet": "News Site News In the Media Blog Airdrops · Register · Lost Password. Log In. AltCoinTrader. Security check in progress. Buy, Sell & Save Crypto. Sign Up ...",
+      "snippet_highlighted_words": [
+        "News",
+        "News",
+        "Crypto"
+      ],
+      "source": "AltCoinTrader (Pty) Ltd."
+    },
+    {
+      "position": 65,
+      "title": "Convert TROLL to Russian ruble (TROLL to RUB)",
+      "link": "https://beincrypto.com/convert/troll-2-to-rub/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://beincrypto.com/convert/troll-2-to-rub/&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQFnoFCLMBEAE",
+      "displayed_link": "https://beincrypto.com › convert › troll-2-to-rub",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2d9d462086d3ff2d0a24be24ba08d65107.png",
+      "date": "14 hours ago",
+      "snippet": "Daily Crypto Insights. Insights, news and analysis of the crypto market straight to your inbox. Crypto Leaders. Outlook of the industry, market trends and key ...",
+      "snippet_highlighted_words": [
+        "Crypto",
+        "news",
+        "crypto",
+        "Crypto"
+      ],
+      "source": "BeInCrypto"
+    },
+    {
+      "position": 66,
+      "title": "Bitcoin News: Milei/Argentina, Binánce, Pentagon Missing ...",
+      "link": "https://www.youtube.com/watch?v=Ov8q0V0__LY",
+      "displayed_link": "320+ views · 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/Ov8q0V0__LY/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lpV-WOehrqIJFNSmKDoeNSwcVf6w",
+      "favicon": "https://serpapi.com/searches/680d0f9644b64fa865730289/images/93a340ecd2c89c958f653ea6cdf4fd2dde4e972e3508457086cb1ef745ab93a4.png",
+      "snippet": "Bitcoin News: Milei/Argentina, Binánce, Pentagon Missing Trillions, CBDC Tracker, Bitcoin/Nostr · Comments5.",
+      "duration": "28:42",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTzqpycnxVRzqaIx9ncw5ysLP3VcO8Kg1jLYQ",
+      "source": "YouTube · THE Bitcoin Podcast with Walker"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?num=100&sca_esv=98a6bd07f428894a&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Bitcoin+news&udm=2&source=univ&fir=35B9Zy6sQz_OZM%252CyQEgQEBQ34p3mM%252C_%253BGOeGEmx9034g9M%252CG-pmNZJ-XSyzjM%252C_%253BcQTnNh6kB8aOUM%252CM2ibaBXDWGLkoM%252C_&usg=AI4_-kTXDbzJhqOEfCxnIObXpgg1JqDcOQ&sa=X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQ7Al6BAhiEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+news&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Bitcoin price",
+      "link": "https://www.google.com/search?num=100&sca_esv=98a6bd07f428894a&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Bitcoin+price&sa=X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQ1QJ6BQjUARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+price&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "Ethereum price",
+      "link": "https://www.google.com/search?num=100&sca_esv=98a6bd07f428894a&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Ethereum+price&sa=X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQ1QJ6BQjTARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Ethereum+price&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "Solana price",
+      "link": "https://www.google.com/search?num=100&sca_esv=98a6bd07f428894a&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Solana+price&sa=X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQ1QJ6BQjSARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Solana+price&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "Crypto",
+      "link": "https://www.google.com/search?num=100&sca_esv=98a6bd07f428894a&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Crypto&sa=X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQ1QJ6BQjRARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Crypto&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "Shiba Inu coin",
+      "link": "https://www.google.com/search?num=100&sca_esv=98a6bd07f428894a&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=Shiba+Inu+coin&sa=X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQ1QJ6BQjQARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Shiba+Inu+coin&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "COIN stock",
+      "link": "https://www.google.com/search?num=100&sca_esv=98a6bd07f428894a&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=COIN+stock&sa=X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQ1QJ6BQjPARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=COIN+stock&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "RIOT stock",
+      "link": "https://www.google.com/search?num=100&sca_esv=98a6bd07f428894a&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=RIOT+stock&sa=X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQ1QJ6BQjOARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=RIOT+stock&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    },
+    {
+      "block_position": 1,
+      "query": "MARA stock",
+      "link": "https://www.google.com/search?num=100&sca_esv=98a6bd07f428894a&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&q=MARA+stock&sa=X&ved=2ahUKEwi4vMzclPaMAxXfiK8BHeWLL5IQ1QJ6BQjNARAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=MARA+stock&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 66 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=Bitcoin+news&num=100&sca_esv=98a6bd07f428894a&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      },
+      {
+        "content": "In response to a complaint we received under the US Digital Millennium Copyright Act, we have removed 1 result(s) from this page. If you wish, you may read the DMCA complaint that caused the removal(s) at LumenDatabase.org.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/support/answer/1386831",
+            "text": "US Digital Millennium Copyright Act"
+          },
+          {
+            "link": "https://lumendatabase.org/notices/44328722",
+            "text": "read the DMCA complaint"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Bitcoin+news&oq=Bitcoin+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&start=100&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Bitcoin+news&oq=Bitcoin+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&start=100&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=Bitcoin+news&oq=Bitcoin+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&start=200&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=Bitcoin+news&oq=Bitcoin+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&start=300&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=Bitcoin+news&oq=Bitcoin+news&num=100&tbs=cdr:1,cd_min:11/22/2023,cd_max:11/28/2023&start=400&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+news&start=100&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+news&start=100&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+news&start=100&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+news&start=200&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+news&start=300&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&num=100&q=Bitcoin+news&start=400&tbs=cdr%3A1%2Ccd_min%3A11%2F22%2F2023%2Ccd_max%3A11%2F28%2F2023"
+    }
+  }
+}
