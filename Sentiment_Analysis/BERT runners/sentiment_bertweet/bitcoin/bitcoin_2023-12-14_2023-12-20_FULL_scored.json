@@ -1,0 +1,497 @@
+[
+    {
+        "title": "Latest Crypto Market News and Trends: Bitcoin, Ethereum ...",
+        "snippet": "Don't miss a beat in crypto! Discover the latest news & trends in Bitcoin, Ethereum & more. Stay informed with our comprehensive coverage.",
+        "highlighted_words": [
+            "latest news & trends in Bitcoin"
+        ],
+        "position": 1,
+        "date": "Dec 18, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0023197276750579476,
+            "neu": 0.483477171510458,
+            "pos": 0.5142030492424965
+        }
+    },
+    {
+        "title": "Crypto News Blog - Find out news from the cryptocurrency ...",
+        "snippet": "Read the latest crypto news and stories about trading, investment and insights on Bitcoin Store blog, the most professional and trusted crypto news blog.",
+        "highlighted_words": [
+            "Read the latest crypto news"
+        ],
+        "position": 2,
+        "date": "Dec 17, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0032852714648470283,
+            "neu": 0.7071374207735062,
+            "pos": 0.2895773258060217
+        }
+    },
+    {
+        "title": "J.P. Morgan Sees Bitcoin Fizzling Next Year, but This Other ...",
+        "snippet": "Bitcoin and other cryptocurrencies have soared into the end of 2023, but investors are eyeing whether 2024 will usher in more gains for tokens should take ...",
+        "highlighted_words": [
+            "Bitcoin and other cryptocurrencies have soared into the end of 2023"
+        ],
+        "position": 3,
+        "date": "Dec 18, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.00722852535545826,
+            "neu": 0.7198096662759781,
+            "pos": 0.2729618176817894
+        }
+    },
+    {
+        "title": "Cryptocurrency Prices, Charts, Daily Trends, Market Cap, ...",
+        "snippet": "View crypto prices and charts, including Bitcoin, Ethereum, XRP, and more ... Bitcoin. BTC. \u00a371,831.85. \u00a371,831.85.. 50.51%.",
+        "highlighted_words": [
+            "Bitcoin"
+        ],
+        "position": 4,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.004677799064666033,
+            "neu": 0.9290994703769684,
+            "pos": 0.06622276268899441
+        }
+    },
+    {
+        "title": "Grayscale Report Sheds Light on Bitcoin's Broad ...",
+        "snippet": "A new report from Grayscale Investments reveals that bitcoin ownership is more widely distributed than commonly believed.",
+        "highlighted_words": [
+            "bitcoin ownership is more widely distributed than commonly believed"
+        ],
+        "position": 5,
+        "date": "Dec 20, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0022824357729405165,
+            "neu": 0.5919409245252609,
+            "pos": 0.4057766944169998
+        }
+    },
+    {
+        "title": "Crypto News from Byte Federal - The Bitcoin ATM & ...",
+        "snippet": "Bitcoin's recent surge to $88,000\u2014 briefly spiking above $89,000 \u2014comes at a critical turning point in global financial markets. The rally coincides with Donald ...",
+        "highlighted_words": [
+            "Bitcoin's recent surge to $88,000"
+        ],
+        "position": 6,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0029798101750202477,
+            "neu": 0.5278485417366028,
+            "pos": 0.46917168982326984
+        }
+    },
+    {
+        "title": "Leaving the Wild West: Taming Crypto and Unleashing ...",
+        "snippet": "For one, crypto assets are not going away. Bitcoin is trading at its highest value since April 2022. The crypto market cap doubled over the last year. And still ...",
+        "highlighted_words": [
+            "Bitcoin is trading at its highest value since April 2022"
+        ],
+        "position": 7,
+        "date": "Dec 14, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.007186901173554361,
+            "neu": 0.44966765493154526,
+            "pos": 0.5431454740464687
+        }
+    },
+    {
+        "title": "Why I bought Bitcoin and how I immediately lost money on it",
+        "snippet": "The history of me buying cryptocurrency is full of false starts and embarrassing failures, interspersed with a single purchase that netted me kind of a lot of ...",
+        "highlighted_words": [
+            "cryptocurrency"
+        ],
+        "position": 8,
+        "date": "Dec 15, 2023",
+        "sentiment": "negative",
+        "probs": {
+            "neg": 0.7060058116912842,
+            "neu": 0.28780333790928125,
+            "pos": 0.0061908632051199675
+        }
+    },
+    {
+        "title": "Crypto News: BTC, ETH FUD, Tether, ICP, INJ, Fed Cuts & ...",
+        "snippet": "Crypto markets slump, coins and tokens fall to key moving averages after Elizabeth Warren tables her anti- crypto bill in the Senate.",
+        "highlighted_words": [],
+        "position": 9,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.4366096779704094,
+            "neu": 0.5498228669166565,
+            "pos": 0.013567482121288776
+        }
+    },
+    {
+        "title": "Crypto Partner Hub",
+        "snippet": "We've partnered up with two of the leading digital asset platforms to give you access to a wide range of cryptocurrencies and advanced crypto trading features.",
+        "highlighted_words": [
+            "crypto"
+        ],
+        "position": 10,
+        "date": "Dec 15, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0031289943726733327,
+            "neu": 0.4690699316561222,
+            "pos": 0.5278010815382004
+        }
+    },
+    {
+        "title": "Long Bitcoin Price: LONG Live Price Chart, Market Cap & ...",
+        "snippet": "Track the latest Long Bitcoin price, market cap, trading volume, news and more with CoinGecko's live LONG price chart and popular cryptocurrency price ...",
+        "highlighted_words": [
+            "live LONG price chart"
+        ],
+        "position": 11,
+        "date": "Dec 18, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.003494309727102518,
+            "neu": 0.7433886826038361,
+            "pos": 0.25311705470085144
+        }
+    },
+    {
+        "title": "Watch This BEFORE YOU BUY Bitcoin or Crypto!! Bitcoin ...",
+        "snippet": "Watch This BEFORE YOU BUY Bitcoin or Crypto!! Bitcoin News Today & Ethereum Price Prediction! Register on Bybit https://bit.ly/BybitJosh (Up to ...",
+        "highlighted_words": [],
+        "position": 12,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.013575006742030382,
+            "neu": 0.8906177580356598,
+            "pos": 0.0958072654902935
+        }
+    },
+    {
+        "title": "FASB Publishes its First Direct Accounting Standard for ...",
+        "snippet": "Currently, the crypto sector is reinvigorated \u2014 stemming from a recent run up in crypto prices, particularly with Bitcoin up more than 130% this year. Many ...",
+        "highlighted_words": [
+            "Bitcoin up more than 130% this year"
+        ],
+        "position": 13,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0024992425460368395,
+            "neu": 0.572118379175663,
+            "pos": 0.4253823831677437
+        }
+    },
+    {
+        "title": "16 Top Crypto News Websites (2025) - Web3 Wiki - Moralis",
+        "snippet": "List of Top 16 Crypto News Websites \u00b7 Real Vision \u00b7 HumanDAO Academy \u00b7 DeFi Pulse \u00b7 NFT Evening \u00b7 Metaschool \u00b7 Capture the Ether \u00b7 NonFungible \u00b7 Ayzd. NFT ...",
+        "highlighted_words": [
+            "Real Vision"
+        ],
+        "position": 14,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.003073323634453118,
+            "neu": 0.9406538307666779,
+            "pos": 0.05627286434173584
+        }
+    },
+    {
+        "title": "RSK (RBTC): What It Is and How It Works",
+        "snippet": "RSK is an open-source second-layer sidechain that includes Bitcoin smart contracts, faster transaction times, scalability, and more.",
+        "highlighted_words": [
+            "RSK is an open-source second-layer sidechain"
+        ],
+        "position": 15,
+        "date": "Dec 16, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0052839386044070125,
+            "neu": 0.8619152009487152,
+            "pos": 0.1328008444979787
+        }
+    },
+    {
+        "title": "Qubic: Fastest. Blockchain. Ever - 15.5M TPS",
+        "snippet": "Qubic is the fastest blockchain ever certified by Certik - 15.5M TPS. A decentralized network where unmatched scalable technology and artificial general ...",
+        "highlighted_words": [
+            "Qubic is the fastest blockchain ever certified by Certik - 15.5M TPS"
+        ],
+        "position": 16,
+        "date": "Dec 17, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0015881486469879746,
+            "neu": 0.05703356862068176,
+            "pos": 0.9413783252239227
+        }
+    },
+    {
+        "title": "Bitcoin Hovers Above $43K, Ether Stays Below $2300 ...",
+        "snippet": "3.0 TV is a news channel which gives you the latest news on blockchain and cryptocurrency on a daily basis which include Bitcoin (BTC), Ethereum, LUNA, UST, ...",
+        "highlighted_words": [],
+        "position": 17,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0055286032147705555,
+            "neu": 0.7874606847763062,
+            "pos": 0.20701072365045547
+        }
+    },
+    {
+        "title": "Thailand's Cryptocurrency Exchange | Buy bitcoin",
+        "snippet": "Buy and sell Bitcoin, Ethereum, USDT, XRP, Dogecoin, Polkadot and more with Thai baht at Bitkub Exchange. Sign up for free.",
+        "highlighted_words": [
+            "Buy and sell Bitcoin"
+        ],
+        "position": 18,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.004266278934665024,
+            "neu": 0.9163420498371124,
+            "pos": 0.0793916517868638
+        }
+    },
+    {
+        "title": "Coinbase Reveals 'Project Diamond' Initiative, Targets ...",
+        "snippet": "Coinbase has revealed Project Diamond, an initiative that seeks to provide the tools for institutions to issue native digital assets.",
+        "highlighted_words": [
+            "Coinbase has revealed Project Diamond"
+        ],
+        "position": 19,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0025711305206641555,
+            "neu": 0.836588054895401,
+            "pos": 0.16084077209234238
+        }
+    },
+    {
+        "title": "Bitcoin BTC Price News Today - Technical Analysis and Elliott ...",
+        "snippet": "Bitcoin continues to grind its way through the current correction in the last video yesterday. I also shared with you the daily time frame.",
+        "highlighted_words": [],
+        "position": 20,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0037292565684765577,
+            "neu": 0.7794777750968933,
+            "pos": 0.21679296903312206
+        }
+    },
+    {
+        "title": "Gareth Soloway: Gold, Silver, Bitcoin and More \u2014 Price ...",
+        "snippet": "Gareth Soloway of @verifiedinvesting reviews his calls for 2023 and shares his outlook for 2024. He expects gold to be next year's best-performing asset, ...",
+        "highlighted_words": [],
+        "position": 21,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0030907097971066833,
+            "neu": 0.6382775157690048,
+            "pos": 0.3586316965520382
+        }
+    },
+    {
+        "title": "US Court Finalizes Forfeiture of 69,370 Bitcoin from Silk Road",
+        "snippet": "A U.S. appeals court has completed a legal process finalizing the seizure of 69,370 Bitcoin from the Silk Road, the now defunct dark web marketplace.",
+        "highlighted_words": [
+            "Bitcoin"
+        ],
+        "position": 22,
+        "date": "Dec 20, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.01211260911077261,
+            "neu": 0.9721920192241669,
+            "pos": 0.01569539587944746
+        }
+    },
+    {
+        "title": "Braidpool: A Second Competitor In Decentralizing Mining",
+        "snippet": "Braidpool is a protocol proposal for a completely decentralized mining pool, leaving no part of the pool's role the responsibility of a centralized actor.",
+        "highlighted_words": [
+            "Braidpool is a protocol proposal for a completely decentralized mining pool"
+        ],
+        "position": 23,
+        "date": "22 hours ago",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.005770605755969882,
+            "neu": 0.9405426681041718,
+            "pos": 0.05368672125041485
+        }
+    },
+    {
+        "title": "Basics of Algorithmic Trading: Concepts and Examples",
+        "snippet": "Algorithmic trading combines computer programming and financial markets to execute trades at precise moments. Algorithmic trading attempts to strip emotions out ...",
+        "highlighted_words": [],
+        "position": 24,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.013120971620082855,
+            "neu": 0.9542089402675629,
+            "pos": 0.03267005551606417
+        }
+    },
+    {
+        "title": "Noticias",
+        "snippet": "Voltar ao menu. Not\u00edcias. Mercados \u00b7 Finan\u00e7as \u00b7 Tecnologia \u00b7 Pol\u00edtica \u00b7 Foco \u00b7 Pre\u00e7os. Voltar ao menu. Pre\u00e7os. Dados. Voltar ao menu. Dados.",
+        "highlighted_words": [
+            "Not\u00edcias"
+        ],
+        "position": 25,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.017758612986654043,
+            "neu": 0.9594413042068481,
+            "pos": 0.022800066508352757
+        }
+    },
+    {
+        "title": "OriginTrail price today, TRAC to USD live ...",
+        "snippet": "The live OriginTrail price today is $0.4209 USD with a 24-hour trading volume of $4172780.39 USD. We update our TRAC to USD price in real-time.",
+        "highlighted_words": [
+            "The live OriginTrail price today is $0.4209 USD"
+        ],
+        "position": 26,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0034406640334054828,
+            "neu": 0.968631774187088,
+            "pos": 0.02792757749557495
+        }
+    },
+    {
+        "title": "Bitkub \u0e41\u0e1e\u0e25\u0e15\u0e1f\u0e2d\u0e23\u0e4c\u0e21\u0e40\u0e17\u0e23\u0e14\u0e40\u0e2b\u0e23\u0e35\u0e22\u0e0d\u0e14\u0e34\u0e08\u0e34\u0e17\u0e31\u0e25\u0e0a\u0e31\u0e49\u0e19\u0e19\u0e33\u0e43\u0e19\u0e44\u0e17\u0e22 | Bitkub.com",
+        "snippet": "Bitcoin \u0e43\u0e01\u0e25\u0e49\u0e40\u0e23\u0e34\u0e48\u0e21\u0e40\u0e02\u0e49\u0e32\u0e2a\u0e39\u0e48\u0e02\u0e32\u0e02\u0e36\u0e49\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e43\u0e2b\u0e21\u0e48 \u0e41\u0e25\u0e30\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e17\u0e33\u0e2a\u0e16\u0e34\u0e15\u0e34\u0e2a\u0e39\u0e07\u0e2a\u0e38\u0e14\u0e15\u0e25\u0e2d\u0e14\u0e01\u0e32\u0e25\u0e41\u0e25\u0e49\u0e27. Siam Blockchain. 24 \u0e40\u0e21.\u0e22. 68 \u00b7 news.",
+        "highlighted_words": [
+            "Bitcoin",
+            "news"
+        ],
+        "position": 27,
+        "date": "Dec 20, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.013817573431879282,
+            "neu": 0.9672816693782806,
+            "pos": 0.018900771625339985
+        }
+    },
+    {
+        "title": "Most Active Stocks With the Highest Trade Volume",
+        "snippet": "Follow the most active stocks today, including share price changes, trading volume, and more. We cover the most traded stocks with daily market data.",
+        "highlighted_words": [
+            "most active stocks today"
+        ],
+        "position": 28,
+        "date": "Dec 19, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.003017066279426217,
+            "neu": 0.7380580604076385,
+            "pos": 0.2589248716831207
+        }
+    },
+    {
+        "title": "Notizia",
+        "snippet": "Torna al menu. Notizia. Mercati \u00b7 Finanza \u00b7 Tecnologia \u00b7 Politiche \u00b7 Messa a fuoco \u00b7 Prezzi. Torna al menu. Prezzi. Dati. Torna al menu. Dati.",
+        "highlighted_words": [
+            "Mercati"
+        ],
+        "position": 29,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.02223776839673519,
+            "neu": 0.9404000639915466,
+            "pos": 0.03736220207065344
+        }
+    },
+    {
+        "title": "Frequently Asked Questions | FAQ",
+        "snippet": "Find Frequently Asked Questions about Topstep, including: the Trading Combine, Express Funded Accounts, the Payout Policy, and more!",
+        "highlighted_words": [],
+        "position": 30,
+        "date": "Dec 16, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.011655327631160617,
+            "neu": 0.9676021039485931,
+            "pos": 0.02074254397302866
+        }
+    },
+    {
+        "title": "FuelCell Energy, Inc. (FCEL) Stock Price, News, Quote & ...",
+        "snippet": "Find the latest FuelCell Energy, Inc. (FCEL) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+        "highlighted_words": [
+            "FuelCell Energy, Inc. (FCEL) stock quote, history, news"
+        ],
+        "position": 31,
+        "date": "Dec 20, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.004708019667305052,
+            "neu": 0.9456909000873566,
+            "pos": 0.049601039849221706
+        }
+    },
+    {
+        "title": "No Deposit Bonus Forex Account | Trade with $100 ...",
+        "snippet": "Take advantage of our $100 no deposit bonus and start trading forex without risking your own money. Register now at Trading.com.",
+        "highlighted_words": [],
+        "position": 32,
+        "date": "Dec 18, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0054860501550138,
+            "neu": 0.7099211364984512,
+            "pos": 0.28459281008690596
+        }
+    },
+    {
+        "title": "Bitcoin-ralli voi olla lyhytaikainen, varoittaa Bloombergin ...",
+        "snippet": "My\u00f6sBitcoin on noussut 6 % ja rikkonut 94 000 dollarin rajan. McGlone kuitenkin varoittaa, ett\u00e4 ellei laajemmat olosuhteet muutu, nykyinen ralli voi j\u00e4\u00e4d\u00e4 ...",
+        "highlighted_words": [
+            "Bitcoin"
+        ],
+        "position": 33,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.010118043050169945,
+            "neu": 0.9364882111549377,
+            "pos": 0.05339369177818298
+        }
+    },
+    {
+        "title": "Bitcoin-liiketoimintataistelu: voiko Twenty One ohittaa ...",
+        "snippet": "Jack Mallers perustaa Twenty One Capitalin kilpailemaan strategialla ja m\u00e4\u00e4rittelem\u00e4\u00e4n uudelleen julkisen Bitcoin-sijoittamisen 42 000 BTC:n varannoilla.",
+        "highlighted_words": [
+            "Bitcoin"
+        ],
+        "position": 34,
+        "date": "Dec 15, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.009978979593142867,
+            "neu": 0.9297871589660645,
+            "pos": 0.060233842581510544
+        }
+    }
+]

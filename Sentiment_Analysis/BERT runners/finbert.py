@@ -1,20 +1,3 @@
-"""
-finbert_scoring_corrected.py
--------------------------------------------
-Batch‑score Google‑SERP (or any) news/title+snippet data with FinBERT.
-Fixes & enhancements compared with the original script:
-  • *use_separate* flag is now respected – title & snippet are scored
-    independently and then combined with a configurable weight.
-  • *max_length* increased from 128 –> 256 (FinBERT was trained at 256).
-  • Quick CLI with sensible defaults, so you can run:
-        python finbert_scoring_corrected.py --input IN_DIR --output OUT_DIR
-  • Skips rows whose combined text is < 3 words or duplicated titles.
-  • Cleaning function is parameterised and slightly less aggressive.
-  • Optional confidence threshold: if |p_pos − p_neg| < 0.2 → label “neutral”.
-
-Tested under Python 3.10 with torch >= 2.1 and transformers >= 4.39.
-"""
-
 from __future__ import annotations
 import argparse, json, os, re, sys, hashlib
 from typing import List, Dict, Sequence
@@ -210,10 +193,10 @@ def _cli():
 
 if __name__ == "__main__":
     if len(sys.argv) == 1:
-        BTC_INPUT_DIR  = r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\sentiment_data\google_search_data\cleaned\bitcoin_cleaned"
-        BTC_OUTPUT_DIR = r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\sentiment_data\google_search_data\sentiment_finbert\bitcoin" 
-        ETH_INPUT_DIR  = r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\sentiment_data\google_search_data\cleaned\ethereum_cleaned"
-        ETH_OUTPUT_DIR = r"C:\Users\user\Desktop\Uni_work\year_3\Sem_2\DIA\project code\sentiment_data\google_search_data\sentiment_finbert\ethereum" 
+        BTC_INPUT_DIR  = r"Sentiment_Analysis\google scraping\cleaned data\bitcoin_cleaned"
+        BTC_OUTPUT_DIR = r"Sentiment_Analysis\BERT runners\sentiment_finbert\bitcoin" 
+        ETH_INPUT_DIR  = r"Sentiment_Analysis\google scraping\cleaned data\ethereum_cleaned"
+        ETH_OUTPUT_DIR = r"Sentiment_Analysis\BERT runners\sentiment_finbert\ethereum" 
 
         batch_dir(
             BTC_INPUT_DIR,

@@ -1,0 +1,1171 @@
+[
+    {
+        "title": "Early Ethereum Backers Cyber.Fund to Invest $100M in ' ...",
+        "snippet": "Investment firm cyber.Fund, an early backer in Ethereum, is committing $100 million to projects that intersect blockchain technology with artificial ...",
+        "highlighted_words": [
+            "is committing $100 million"
+        ],
+        "position": 1,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.007400003029033542,
+            "neu": 0.6461899876594543,
+            "pos": 0.3464100733399391
+        }
+    },
+    {
+        "title": "2 Reasons Why An Ethereum Mega Bull Run Is Inevitable",
+        "snippet": "The researcher observed that ETH is down 24% versus BTC in 2023. However, multiple fundamental indicators show that this is about to change.",
+        "highlighted_words": [
+            "ETH is down 24% versus BTC in 2023"
+        ],
+        "position": 2,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.19843600690364838,
+            "neu": 0.7136631608009338,
+            "pos": 0.0879007950425148
+        }
+    },
+    {
+        "title": "Ethereum (ETH) Price Surge: New Era of Greatness on ...",
+        "snippet": "Ethereum is showing signs of a potential new era of growth amid a market that is increasingly favoring Layer-1 (L1) solutions like Solana.",
+        "highlighted_words": [
+            "Ethereum is showing signs of a potential new era of growth"
+        ],
+        "position": 3,
+        "date": "Dec 9, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0013745310716331005,
+            "neu": 0.12109704688191414,
+            "pos": 0.8775284290313721
+        }
+    },
+    {
+        "title": "Ethereum developers set roadmap for an eventful 2024",
+        "snippet": "Developers anticipate several important upgrades over the next year, including forking the Goerli testnet and activating the Dencun upgrade.",
+        "highlighted_words": [],
+        "position": 4,
+        "date": "Dec 8, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.004071810399182141,
+            "neu": 0.4079195261001587,
+            "pos": 0.5880086869001389
+        }
+    },
+    {
+        "title": "JPMorgan says ether to outperform bitcoin next year",
+        "snippet": "Ether will outperform bitcoin and other cryptocurrencies in 2024, thanks to Ethereum's EIP-4844 upgrade, according to JPMorgan analysts.",
+        "highlighted_words": [
+            "Ether will outperform bitcoin and other cryptocurrencies in 2024"
+        ],
+        "position": 5,
+        "date": "Dec 13, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.002307461923919618,
+            "neu": 0.2390018217265606,
+            "pos": 0.7586906850337982
+        }
+    },
+    {
+        "title": "Bitwise Ethereum ETF News",
+        "snippet": "News; Analysis & Opinion. ETHW News. Find the latest News about the Bitwise Ethereum ETF. Bitcoin, Ethereum Fees Rise in Tandem as On-chain Activity Spikes. U ...",
+        "highlighted_words": [
+            "Bitcoin, Ethereum Fees Rise in Tandem"
+        ],
+        "position": 6,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.009638876654207706,
+            "neu": 0.8521410822868347,
+            "pos": 0.13822000101208687
+        }
+    },
+    {
+        "title": "7 Cheap Cryptos to Hold for a Decade or More",
+        "snippet": "Developers and investors alike know that Ethereum continues to suffer from slow transaction speeds. Polygon helps to solve those problems by handling those ...",
+        "highlighted_words": [
+            "Ethereum continues to suffer from slow transaction speeds"
+        ],
+        "position": 7,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.16632024943828583,
+            "neu": 0.6567416489124298,
+            "pos": 0.1769381631165743
+        }
+    },
+    {
+        "title": "Ethereum's Buterin Floats Prospect of Taking Some Layer- ...",
+        "snippet": "Vitalik Buterin, a member of the Ethereum Foundation's executive board, once pushed \"layer-2\" networks as a way to provide faster and cheaper transactions.",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 8,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.024884438142180443,
+            "neu": 0.8900645077228546,
+            "pos": 0.08505106717348099
+        }
+    },
+    {
+        "title": "Grayscale Ethereum Trust (ETH) ETF News",
+        "snippet": "ETHE News \u00b7 Ethereum Price to Surge Massively, Suggests This ETH Chart \u00b7 Lido Finance TVL jumps 7% fueled by stake deposits and crypto rally \u00b7 Shiba Inu's (SHIB) ...",
+        "highlighted_words": [
+            "Ethereum Price to Surge Massively, Suggests This ETH Chart"
+        ],
+        "position": 9,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.005646300036460161,
+            "neu": 0.6702538132667542,
+            "pos": 0.3240998834371567
+        }
+    },
+    {
+        "title": "Ethereum Will Outperform Bitcoin in Next Year: JPMorgan",
+        "snippet": "Analysts from JPMorgan, one of the biggest asset management and finance firms, believe that Ethereum (ETH) will likely outperform Bitcoin next year.",
+        "highlighted_words": [
+            "Ethereum (ETH) will likely outperform Bitcoin next year"
+        ],
+        "position": 10,
+        "date": "Dec 14, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.00581337115727365,
+            "neu": 0.32989396527409554,
+            "pos": 0.6642926931381226
+        }
+    },
+    {
+        "title": "Ethereum Community Approves ERC3643 as the First ...",
+        "snippet": "We are proud to announce that the ERC3643 standard has reached 'Final' status in its Ethereum Improvement Proposal (EIP). This status solidifies ERC3643 as the ...",
+        "highlighted_words": [
+            "ERC3643 standard has reached 'Final' status in its Ethereum Improvement Proposal"
+        ],
+        "position": 11,
+        "date": "Dec 14, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.001218606805196032,
+            "neu": 0.11333021800965071,
+            "pos": 0.8854511678218842
+        }
+    },
+    {
+        "title": "SIX Digital Exchange (SDX) tokenizes ethereum stocks in ...",
+        "snippet": "Today SIX Digital Exchange (SDX) announced it has tokenized the shares of a private company Aktionariat AG in its blockchain-based central securities ...",
+        "highlighted_words": [],
+        "position": 12,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.010948799084872007,
+            "neu": 0.8292714357376099,
+            "pos": 0.1597798503935337
+        }
+    },
+    {
+        "title": "Ethereum burns $2.5B worth of ETH since merge as supply ...",
+        "snippet": "Ethereum's deflationary shift intensifies with $2.5 billion in ETH burned post-merge, driving supply to unprecedented lows.",
+        "highlighted_words": [
+            "Ethereum's",
+            "ETH"
+        ],
+        "position": 13,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.22950157523155212,
+            "neu": 0.6732077598571777,
+            "pos": 0.09729070775210857
+        }
+    },
+    {
+        "title": "JPMorgan Chase predicts that Ethereum will surpass ...",
+        "snippet": "According to TechFlow, JPMorgan Chase expects Ethereum to outperform Bitcoin and other cryptocurrencies in 2024, although the bank remains \"cautious\" about ...",
+        "highlighted_words": [
+            "JPMorgan Chase expects Ethereum to outperform Bitcoin and other cryptocurrencies in 2024"
+        ],
+        "position": 14,
+        "date": "Dec 13, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.003947482095099986,
+            "neu": 0.35530833899974823,
+            "pos": 0.6407441794872284
+        }
+    },
+    {
+        "title": "PulseChain Unleashes Interoperability - Markets Insider",
+        "snippet": "PulseChain, the blockchain platform, has introduced a groundbreaking interoperability feature, allowing seamless trading between the Pulse and Ethereum networks ...",
+        "highlighted_words": [
+            "PulseChain, the blockchain platform, has introduced a groundbreaking interoperability feature"
+        ],
+        "position": 15,
+        "date": "Dec 13, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.008211168751586229,
+            "neu": 0.43401703238487244,
+            "pos": 0.557771772146225
+        }
+    },
+    {
+        "title": "U.S. Dollar 'Collapse'\u2014Bitcoin The Only 'Obvious ...",
+        "snippet": "The bitcoin price has surged almost 200% since this time last year, helping the combined ethereum, XRP and crypto market top $1.5 trillion for the first time ...",
+        "highlighted_words": [
+            "ethereum"
+        ],
+        "position": 16,
+        "date": "Dec 9, 2023",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.10041253169765696,
+            "neu": 0.4217994250357151,
+            "pos": 0.47778811678290367
+        }
+    },
+    {
+        "title": "Singapore licenses Ethereum-based exchange - DigFin",
+        "snippet": "DigiFT, a Singapore-based fintech, has received dual licenses from the Monetary Authority of Singapore that make it the first regulated exchange in the country.",
+        "highlighted_words": [
+            "DigiFT, a Singapore-based fintech"
+        ],
+        "position": 17,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.030226886738091707,
+            "neu": 0.7414797842502594,
+            "pos": 0.22829333692789078
+        }
+    },
+    {
+        "title": "Ethereum ETH Price News Today - Technical Analysis Update ...",
+        "snippet": "... Ethereum ETH Price News Today - Technical Analysis Update and Price Now! In this video I talk about a technical analysis of the Ethereum Price and I talk ...",
+        "highlighted_words": [],
+        "position": 18,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.023309752345085144,
+            "neu": 0.9434181451797485,
+            "pos": 0.033272065222263336
+        }
+    },
+    {
+        "title": "Vitalik Buterin Supports Integrating Zero-Knowledge Ethereum ...",
+        "snippet": "In a new post, the Ethereum co-founder laid out the benefits and challenges of an \u201censhrined\u201d ZK-EVM to improve security and speed.",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 19,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.005267023458145559,
+            "neu": 0.5685176998376846,
+            "pos": 0.4262152463197708
+        }
+    },
+    {
+        "title": "NFTs Are Dead? Solana Outpaces Ethereum for NFT Sales",
+        "snippet": "The Solana (SOL) network briefly surpassed Ethereum (ETH) in total non-fungible token (NFT) sales volume on Friday, marking a notable, if temporary, shift in ...",
+        "highlighted_words": [
+            "Ethereum",
+            "ETH"
+        ],
+        "position": 20,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.14929655170999467,
+            "neu": 0.6348797976970673,
+            "pos": 0.2158236838877201
+        }
+    },
+    {
+        "title": "Why Is Ethereum Price Down To $2200 Today?",
+        "snippet": "The Ethereum price has been among the worst hit in the flash crash that took place on Monday. The crash sent the asset's price down below $2,200 for the ...",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 21,
+        "date": "Dec 11, 2023",
+        "sentiment": "negative",
+        "probs": {
+            "neg": 0.7359491586685181,
+            "neu": 0.25290579348802567,
+            "pos": 0.011145100928843021
+        }
+    },
+    {
+        "title": "Ether Capital Announces Leadership Transition: Brian ...",
+        "snippet": "Brian Mosoff, who has served as the CEO for over five years, will be stepping down from his role, effective January 1, 2024, and Som Seif, Executive Chairman ...",
+        "highlighted_words": [
+            "Brian Mosoff, who has served as the CEO for over five years"
+        ],
+        "position": 22,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.04172256588935852,
+            "neu": 0.9162803590297699,
+            "pos": 0.04199706390500069
+        }
+    },
+    {
+        "title": "SOL Surges 13% as Solana NFTs Overtake Ethereum ...",
+        "snippet": "Solana's resurgence isn't slowing, with SOL and Solana-based tokens still rising and NFT sales volume ruling the wider market.",
+        "highlighted_words": [
+            "Solana's resurgence isn't slowing"
+        ],
+        "position": 23,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.004372934461571276,
+            "neu": 0.5338718295097351,
+            "pos": 0.4617552310228348
+        }
+    },
+    {
+        "title": "NFT's Skyrocketing!\ud83d\udd25Ethereum Coming To Magic Eden ...",
+        "snippet": "We are seeing an explosion of activity across all the surfaces on Magic Eden because we support all the major chains.",
+        "highlighted_words": [],
+        "position": 24,
+        "date": "",
+        "sentiment": "positive",
+        "probs": {
+            "neg": 0.0011518376995809376,
+            "neu": 0.0909387655556202,
+            "pos": 0.9079093933105469
+        }
+    },
+    {
+        "title": "Vitalik Smart Gas (VSG) launches on Ethereum Chain. ...",
+        "snippet": "California City, CA, Dec. 14, 2023 (GLOBE NEWSWIRE) -- VSG proudly announces the launch of Vitalik Smart Gas (VSG), a pioneering gas token designed ...",
+        "highlighted_words": [],
+        "position": 25,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.012688214192166924,
+            "neu": 0.8702002763748169,
+            "pos": 0.11711151525378227
+        }
+    },
+    {
+        "title": "Can cryptocurrencies be frozen on a blockchain?",
+        "snippet": "For instance, in 2022, Binance temporarily suspended withdrawals of Ethereum and ERC-20 tokens due to the Merge. When users experience frozen funds, they should ...",
+        "highlighted_words": [
+            "temporarily suspended withdrawals of Ethereum"
+        ],
+        "position": 26,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.19434817507863045,
+            "neu": 0.7667724788188934,
+            "pos": 0.03887934610247612
+        }
+    },
+    {
+        "title": "Ether Price: Will Ethereum (ETH) Go Back Up?",
+        "snippet": "This week has seen significant volatility in the Ethereum price (ETH), the second-largest cryptocurrency in the world by market value.",
+        "highlighted_words": [
+            "Ethereum",
+            "ETH"
+        ],
+        "position": 27,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.1898151277564466,
+            "neu": 0.7591452598571777,
+            "pos": 0.051039647310972214
+        }
+    },
+    {
+        "title": "Cryptocurrency Prices, Charts, Daily Trends, Market Cap, ...",
+        "snippet": "View crypto prices and charts, including Bitcoin, Ethereum, XRP, and more. Earn free crypto. Market highlights including top gainer, highest volume, ...",
+        "highlighted_words": [
+            "View crypto prices and charts"
+        ],
+        "position": 28,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.05007651983760297,
+            "neu": 0.6382524967193604,
+            "pos": 0.31167103350162506
+        }
+    },
+    {
+        "title": "Ethereum Staking | Stake ETH and Earn Rewards at ...",
+        "snippet": "Ethereum staking currently offers a 3.06% reward rate. Start staking ETH with Crypto.com and discover other staking assets to start earning rewards today.",
+        "highlighted_words": [
+            "currently offers a 3.06% reward rate"
+        ],
+        "position": 29,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.005450917757116258,
+            "neu": 0.6297012120485306,
+            "pos": 0.36484790593385696
+        }
+    },
+    {
+        "title": "ETH Zurich receives major donation and plans teaching ...",
+        "snippet": "ETH Zurich and the Dieter Schwarz Foundation have signed a far-reaching letter of intent to establish a new teaching and research centre for responsible ...",
+        "highlighted_words": [
+            "ETH Zurich and the Dieter Schwarz Foundation have signed a far-reaching letter of intent"
+        ],
+        "position": 30,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.007377018686383963,
+            "neu": 0.7985643446445465,
+            "pos": 0.19405867904424667
+        }
+    },
+    {
+        "title": "Coti plans expansion to Ethereum ecosystem with Layer 2 ...",
+        "snippet": "Cardano-focused development firm Coti plans to launch an Ethereum Layer 2 in an upcoming upgrade scheduled for release in 2024.",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 31,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.08569237845949829,
+            "neu": 0.635827898979187,
+            "pos": 0.2784796804189682
+        }
+    },
+    {
+        "title": "Crypto Price Today: Bitcoin trades below ...",
+        "snippet": "Major crypto tokens were trading mixed on Tuesday ahead of key inflation data and the US Federal Reserve policy decision. Bitcoin (-1.1%), Ethereum (-0.9%), ...",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 32,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.19883348792791367,
+            "neu": 0.7644360363483429,
+            "pos": 0.03673039563000202
+        }
+    },
+    {
+        "title": "Bitcoin Trades Above $41K, Ether Stays Below $2200 ...",
+        "snippet": "3.0 TV is a news channel which gives you the latest news on blockchain and cryptocurrency on a daily basis which include Bitcoin (BTC), Ethereum, LUNA, UST, ...",
+        "highlighted_words": [],
+        "position": 33,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.00825536239426583,
+            "neu": 0.7586826980113983,
+            "pos": 0.23306190967559814
+        }
+    },
+    {
+        "title": "Bitcoin and Ethereum Drop As Traders Get Liquidated",
+        "snippet": "Over $400 million worth of positions liquidated in the last 24 hours across BTC and ETH. \u00b7 Bitcoin and Ethereum decreased by 11% as key resistance was reached.",
+        "highlighted_words": [
+            "Over $400 million worth of positions liquidated in the last 24 hours"
+        ],
+        "position": 34,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.38166433572769165,
+            "neu": 0.5830326080322266,
+            "pos": 0.035303033888339996
+        }
+    },
+    {
+        "title": "Block size and scalability, explained",
+        "snippet": "The most recent news about crypto industry at Cointelegraph. Latest news about bitcoin, ethereum, blockchain, mining, cryptocurrency prices and more.",
+        "highlighted_words": [
+            "Latest news about bitcoin, ethereum"
+        ],
+        "position": 35,
+        "date": "Dec 10, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.040667875204235315,
+            "neu": 0.7887612879276276,
+            "pos": 0.17057085409760475
+        }
+    },
+    {
+        "title": "Mantle Staked Ether METH Price",
+        "snippet": "Track the latest Mantle Staked Ether price, market cap, trading volume, news and more with CoinGecko's live METH price chart and popular ...",
+        "highlighted_words": [
+            "live METH price chart"
+        ],
+        "position": 36,
+        "date": "Dec 9, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.03398508671671152,
+            "neu": 0.9246390461921692,
+            "pos": 0.04137580096721649
+        }
+    },
+    {
+        "title": "Ethereum Foundation",
+        "snippet": "Learn about the Ethereum Foundation (EF), a non-profit organization dedicated to supporting Ethereum and related technologies.",
+        "highlighted_words": [
+            "Ethereum",
+            "Ethereum"
+        ],
+        "position": 37,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.02386148553341627,
+            "neu": 0.7913895547389984,
+            "pos": 0.184749037027359
+        }
+    },
+    {
+        "title": "Bitcoin Ethereum Liquidation Heatmap Cryptocurrency ...",
+        "snippet": "The Liquidation Heatmap by Coinank attempts to predict where large liquidations may occur to assist traders.",
+        "highlighted_words": [
+            "where large liquidations may occur"
+        ],
+        "position": 38,
+        "date": "Dec 9, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.02629842795431614,
+            "neu": 0.9080314338207245,
+            "pos": 0.06567010655999184
+        }
+    },
+    {
+        "title": "Artificial Intelligence Crypto Coins to Watch in 2024",
+        "snippet": "Artificial intelligence streamlines the analysis of blockchain networks, providing detailed information on crypto assets and the wider cryptocurrency market.",
+        "highlighted_words": [],
+        "position": 39,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.011138477828353643,
+            "neu": 0.7074194252490997,
+            "pos": 0.2814421132206917
+        }
+    },
+    {
+        "title": "degen news - X",
+        "snippet": "BREAKING: @solana FLIPS @ethereum IN 24H NFT SALES VOLUME - ENDS @ethereum DOMINANCE.",
+        "highlighted_words": [
+            "solana FLIPS @ethereum IN 24H NFT SALES VOLUME"
+        ],
+        "position": 40,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.05327335745096207,
+            "neu": 0.8843156695365906,
+            "pos": 0.062410926446318626
+        }
+    },
+    {
+        "title": "Grayscale Ethereum Trust(ETHE) Stock Options Chain",
+        "snippet": "Track real-time Grayscale Ethereum Trust(ETHE) stock options chain data and pricing information and news on moomoo App for your options trading and ...",
+        "highlighted_words": [
+            "Ethereum",
+            "news"
+        ],
+        "position": 41,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.09600212704390287,
+            "neu": 0.7592332661151886,
+            "pos": 0.14476466178894043
+        }
+    },
+    {
+        "title": "How to buy Ethereum in Singapore",
+        "snippet": "You can buy Ethereum on Revolut's crypto platform. Create your free account and top up your balance to buy 130+ cryptocurrencies, including ETH.",
+        "highlighted_words": [
+            "Ethereum",
+            "ETH"
+        ],
+        "position": 42,
+        "date": "10 hours ago",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.014070689445361495,
+            "neu": 0.6522039622068405,
+            "pos": 0.33372535184025764
+        }
+    },
+    {
+        "title": "Future of Financial Services | DTCC Digital Assets",
+        "snippet": "... News and Events. DTCC Connection \u00b7 Latest News \u00b7 Industry Connection \u00b7 White Papers \u00b7 Life at DTCC \u00b7 Podcasts \u00b7 Our Experts \u00b7 Events \u00b7 Press Room. About. About ...",
+        "highlighted_words": [
+            "News",
+            "News"
+        ],
+        "position": 43,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.02358320541679859,
+            "neu": 0.8834308385848999,
+            "pos": 0.09298595786094666
+        }
+    },
+    {
+        "title": "I bought bonk through the ethereum blockchain should i ...",
+        "snippet": "I bought bonk through the ethereum blockchain should i pull out and buy it through solana? ... This is a place to post any information, news, or questions about ...",
+        "highlighted_words": [
+            "ethereum",
+            "news"
+        ],
+        "position": 44,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.03603535611182451,
+            "neu": 0.9097285568714142,
+            "pos": 0.05423605814576149
+        }
+    },
+    {
+        "title": "Why Does the Ethereum Network Get Congested?",
+        "snippet": "Ethereum has its own native cryptocurrency called Ether (ETH) which is digital ... news of an exclusive incentive tied directly to the U.S. president.",
+        "highlighted_words": [
+            "Ethereum",
+            "Ether",
+            "ETH",
+            "news"
+        ],
+        "position": 45,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.3650414786534384,
+            "neu": 0.4407893270254135,
+            "pos": 0.1941692098043859
+        }
+    },
+    {
+        "title": "BONK Archives - Crypto News: Bitcoin, Ethereum & Price ...",
+        "snippet": "Stay informed on Bonk (BONK) with BlockchainReporter: latest news on price trends, market analyses, and developments in the Solana-based meme coin ecosystem ...",
+        "highlighted_words": [
+            "news"
+        ],
+        "position": 46,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.010357892140746117,
+            "neu": 0.8832302391529083,
+            "pos": 0.10641184821724892
+        }
+    },
+    {
+        "title": "Tornado Cash Price Chart (TORN)",
+        "snippet": "Track the latest Tornado Cash price, market cap, trading volume, news and more with CoinGecko's live TORN price chart and popular ...",
+        "highlighted_words": [
+            "news"
+        ],
+        "position": 47,
+        "date": "Dec 9, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.03708709683269262,
+            "neu": 0.9159368276596069,
+            "pos": 0.046976035460829735
+        }
+    },
+    {
+        "title": "Artificial intelligence for safer bike helmets and better shoe ...",
+        "snippet": "12.12.2023 by ETH News editorial team \u00b7 volume_upRead; mode_comment Number of comments. shareShare. Twitter; Facebook; Linkedin; emailEmail; linkCopy link. AI ...",
+        "highlighted_words": [
+            "ETH News"
+        ],
+        "position": 48,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.03169935895130038,
+            "neu": 0.6547979712486267,
+            "pos": 0.3135026544332504
+        }
+    },
+    {
+        "title": "Bitcoin Price Stuck at $41K as Traders Eye Fed Rate's ...",
+        "snippet": "Ethereum News \u00b7 XRP News \u00b7 Altcoins News \u00b7 Token Sales News \u00b7 Technology \u00b7 Artificial ... Bitcoin News, Blockchain News, Cryptocurrency News, Indices, Market News.",
+        "highlighted_words": [
+            "Ethereum News"
+        ],
+        "position": 49,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.24484835751354694,
+            "neu": 0.7106207013130188,
+            "pos": 0.04453100357204676
+        }
+    },
+    {
+        "title": "USDT (ETH) to ETH (BSC) Crypto Exchange | Convert ...",
+        "snippet": "iOS and Android wallet for Ethereum (BSC) \u2192. hatikorgi. Try our mobile app NOW. googleplay icon android-apk icon. Company. toggle. About Us \u00b7 Blog & News ...",
+        "highlighted_words": [
+            "Ethereum",
+            "News"
+        ],
+        "position": 50,
+        "date": "Dec 9, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.015292413416318595,
+            "neu": 0.6578724235296249,
+            "pos": 0.32683516666293144
+        }
+    },
+    {
+        "title": "Liquidation Heatmap: Bitcoin & Altcoins",
+        "snippet": "Market News. Tools. Crypto Emission Rate Free \u00b7 Bitcoin vs Gold Free \u00b7 ETF ... Ethereum \u00b7 ADA/USDT. Cardano \u00b7 AVAX/USDT. Avalanche \u00b7 BNB/USDT. Binance Coin \u00b7 DOGE ...",
+        "highlighted_words": [
+            "News",
+            "Ethereum"
+        ],
+        "position": 51,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.019561810418963432,
+            "neu": 0.8578062057495117,
+            "pos": 0.1226319745182991
+        }
+    },
+    {
+        "title": "Ethereum, Solana Prices Hit 19-Month High, Bitcoin ...",
+        "snippet": "Chainlink (LINK) News, Solana (SOL) News, Altcoin News, Bitcoin News, Blockchain News, Cryptocurrency News, Ethereum News. Bhushan Akolkar. Author Bhushan ...",
+        "highlighted_words": [
+            "Ethereum News"
+        ],
+        "position": 52,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.011753147467970848,
+            "neu": 0.7397523820400238,
+            "pos": 0.2484944500029087
+        }
+    },
+    {
+        "title": "GMT price today, GMT to USD live price, marketcap and chart",
+        "snippet": "GMT price. GMT. #257 \u00b7 GMT to USD Chart \u00b7 GMT statistics \u00b7 GMT to USD converter \u00b7 GMT Markets \u00b7 GMT News \u00b7 GMT community \u00b7 GMT Token Unlocks \u00b7 GMT analytics.",
+        "highlighted_words": [
+            "News"
+        ],
+        "position": 53,
+        "date": "1 hour ago",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.06640407256782055,
+            "neu": 0.8943683803081512,
+            "pos": 0.03922755643725395
+        }
+    },
+    {
+        "title": "Ethereum Price Sails Past $2300 with Bulls at the Helm",
+        "snippet": "Bitcoin News \u00b7 Ethereum News \u00b7 Altcoin News \u00b7 Crypto Prices; Guides. Buy Crypto; Buy Ethereum UK \u00b7 Bitcoin vs. Ripple \u00b7 The Darkside of Bitcoin \u00b7 Pros and Cons ...",
+        "highlighted_words": [
+            "Ethereum News"
+        ],
+        "position": 54,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.024657293688505888,
+            "neu": 0.8605160117149353,
+            "pos": 0.1148267351090908
+        }
+    },
+    {
+        "title": "NFT Project Pudgy Penguins Unveils Pudgy World NFT ...",
+        "snippet": "Crypto News. NFT Project Pudgy ... ZK proofs offer enhanced user privacy compared to traditional blockchain transactions on public networks like Ethereum.",
+        "highlighted_words": [
+            "News",
+            "Ethereum"
+        ],
+        "position": 55,
+        "date": "Dec 10, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.024726168485358357,
+            "neu": 0.8863625526428223,
+            "pos": 0.0889112688601017
+        }
+    },
+    {
+        "title": "What is Ethereum: The world's first programmable blockchain",
+        "snippet": "Launched in July 2015, Ethereum (ETH) is a decentralized, open-source blockchain that introduced smart contract functionality for the first time.",
+        "highlighted_words": [
+            "Ethereum",
+            "ETH"
+        ],
+        "position": 56,
+        "date": "",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0056258890544995666,
+            "neu": 0.5974404513835907,
+            "pos": 0.3969336897134781
+        }
+    },
+    {
+        "title": "Ripple's New Campaign Emerges in London Underground",
+        "snippet": "News \u00b7 Bitcoin (BTC) News \u00b7 Ethereum (ETH) News \u00b7 Cardano (ADA) News \u00b7 Ripple and XRP News \u00b7 Shiba Inu (SHIB) News \u00b7 Dogecoin (DOGE) News \u00b7 Meme ...",
+        "highlighted_words": [
+            "ETH",
+            "News"
+        ],
+        "position": 57,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.0233929674141109,
+            "neu": 0.9252697825431824,
+            "pos": 0.05133718438446522
+        }
+    },
+    {
+        "title": "CoinAnk-Cryptocurrency Derivatives Data Analytics -Order ...",
+        "snippet": "News. Pro Chart. Pro Chart \u00b7 Live Chart \u00b7 Alerts \u00b7 AI Analysis ... Layer 1 Smart Contracts Ethereum Ecosystem Memes Solana Ecosystem Defi Optimism Ecosystem ...",
+        "highlighted_words": [
+            "News",
+            "Ethereum"
+        ],
+        "position": 58,
+        "date": "Dec 9, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.06774772703647614,
+            "neu": 0.869460254907608,
+            "pos": 0.06279202736914158
+        }
+    },
+    {
+        "title": "Top 10 Crypto Smartwatch Apps You Need to Know",
+        "snippet": "You can also track individual assets such as Bitcoin, Ethereum, etc. ... Additionally, the combination of a ticker, news, and videos adds to its value.",
+        "highlighted_words": [
+            "Ethereum",
+            "news"
+        ],
+        "position": 59,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.01126845320686698,
+            "neu": 0.7345827221870422,
+            "pos": 0.25414880365133286
+        }
+    },
+    {
+        "title": "Top RWA Crypto Tokens That Could 50-100x in 2024",
+        "snippet": "Also Read: ETH Price Hits 18-Month High, Ethereum Dencun Hardfork Coming By January 2024 ... news globally and present news as a fact rather than an opinion.",
+        "highlighted_words": [
+            "ETH",
+            "Ethereum",
+            "news",
+            "news"
+        ],
+        "position": 60,
+        "date": "Dec 8, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.008402588544413447,
+            "neu": 0.7117644250392914,
+            "pos": 0.27983296662569046
+        }
+    },
+    {
+        "title": "Ethereum: news dal prezzo | A breve nuova spinta rialzista ...",
+        "snippet": "Ethereum: news dal prezzo | A breve nuova spinta rialzista? Analisi. Ethereum sta oscillando entro i binari tecnici previsti. L'arretramento attuale era ...",
+        "highlighted_words": [
+            "Ethereum",
+            "news"
+        ],
+        "position": 61,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.05911584198474884,
+            "neu": 0.8745528757572174,
+            "pos": 0.06633125990629196
+        }
+    },
+    {
+        "title": "Ultime Ethereum News Oggi | Invezz Notizie",
+        "snippet": "Leggi le ultime Ethereum news e notizie di mercato in tempo reale \u00b7 Il prezzo di Pi Network \u00e8 crollato da 3 dollari a febbraio a 0,67 dollari. \u00b7 Il declino \u00e8 ...",
+        "highlighted_words": [
+            "Ethereum news"
+        ],
+        "position": 62,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.06415258161723614,
+            "neu": 0.8885129988193512,
+            "pos": 0.04733445309102535
+        }
+    },
+    {
+        "title": "Why Is Crypto Going Down? Bitcoin Price Dip Starts, Time ...",
+        "snippet": "Cryptocurrency News \u00b7 Bitcoin News (BTC) \u00b7 Ethereum News (ETH) \u00b7 Ripple News (XRP) \u00b7 Shiba Inu News (SHIB) \u00b7 Cardano News (ADA) \u00b7 Dogecoin News (DOGE) \u00b7 Solana ...",
+        "highlighted_words": [
+            "Ethereum News"
+        ],
+        "position": 63,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.3218956310302019,
+            "neu": 0.6412729471921921,
+            "pos": 0.03683140128850937
+        }
+    },
+    {
+        "title": "2DAI.io Token Price, Charts & Market Insights",
+        "snippet": "Stay updated with the latest 2DAI.io token price, charts, and market trends. Dive deep into comprehensive cryptocurrency news and insights on our platform.",
+        "highlighted_words": [
+            "news"
+        ],
+        "position": 64,
+        "date": "Dec 10, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.021082698833197355,
+            "neu": 0.7822560667991638,
+            "pos": 0.19666121155023575
+        }
+    },
+    {
+        "title": "Harga AirSwap Hari Ini | AST to IDR = 1.192",
+        "snippet": "AirSwap adalah protokol trading terdesentralisasi (DEX) yang memanfaatkan jaringan peer-to-peer (P2P) di atas Ethereum. ... News. BeinCrypto Indonesia \u00b7 25 ...",
+        "highlighted_words": [
+            "Ethereum",
+            "News"
+        ],
+        "position": 65,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.08424135111272335,
+            "neu": 0.8764681816101074,
+            "pos": 0.039290521293878555
+        }
+    },
+    {
+        "title": "Powder Horn Investment Advisory: Wealth Management ...",
+        "snippet": "Latest News. Trump vs. Powell: The High-Stakes Battle Over Fed Independence ...",
+        "highlighted_words": [
+            "News"
+        ],
+        "position": 66,
+        "date": "2 hours ago",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.04784514009952545,
+            "neu": 0.9058868288993835,
+            "pos": 0.04626801796257496
+        }
+    },
+    {
+        "title": "It's Not Just Electricity And Water \u2014 Bitcoin Mines Use A ...",
+        "snippet": "That's what the next biggest cryptocurrency network, Ethereum, accomplished last year. ... Established in 2012, Bitcoin Magazine is the oldest and most ...",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 67,
+        "date": "22 hours ago",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.015340848767664284,
+            "neu": 0.5189534425735474,
+            "pos": 0.4657057225704193
+        }
+    },
+    {
+        "title": "1 oz Gold Bars",
+        "snippet": "... Ethereum. $1,801.12 -2.24 \u00b7 Litecoin. $86.59 -0.10. Dash. $22.57 0.08. XRP ... News. Keith ...",
+        "highlighted_words": [
+            "Ethereum",
+            "News"
+        ],
+        "position": 68,
+        "date": "20 hours ago",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.09029269218444824,
+            "neu": 0.7427416443824768,
+            "pos": 0.16696564853191376
+        }
+    },
+    {
+        "title": "0.6871 CTC USDT Perpetual Swap",
+        "snippet": "Connect Ethereum and X Layer. Institutional. Institutional home. The world's ... Our latest institutional trading research, news, and more \u00b7 Learn. More.",
+        "highlighted_words": [
+            "Ethereum",
+            "news"
+        ],
+        "position": 69,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.03788853110745549,
+            "neu": 0.7917672097682953,
+            "pos": 0.1703442707657814
+        }
+    },
+    {
+        "title": "Paul Scherrer Institut",
+        "snippet": "Es liegt auf dem Gebiet der Gemeinden Villigen und W\u00fcrenlingen im Schweizer Kanton Aargau beidseits der Aare und geh\u00f6rt zum ETH-Bereich der Schweizerischen ...",
+        "highlighted_words": [
+            "ETH"
+        ],
+        "position": 70,
+        "date": "Dec 9, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.11811613664031029,
+            "neu": 0.8289568424224854,
+            "pos": 0.05292701907455921
+        }
+    },
+    {
+        "title": "0.004589 TURBO USDT Perpetual Swap",
+        "snippet": "Connect Ethereum and X Layer. Institutional. Institutional home. The world's ... Our latest institutional trading research, news, and more \u00b7 Learn. More.",
+        "highlighted_words": [
+            "Ethereum",
+            "news"
+        ],
+        "position": 71,
+        "date": "Dec 14, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.03946411097422242,
+            "neu": 0.7894450128078461,
+            "pos": 0.17109092324972153
+        }
+    },
+    {
+        "title": "ADT Inc berichtet \u00fcber die Ergebnisse f\u00fcr das am 31. M\u00e4rz ...",
+        "snippet": "... , um diese News lesen zu k\u00f6nnen. Los gehts. Auf den Supercharts analysieren. Echtzeitnews. Weitere Echtzeitnews. Weitere News von Reuters. Weitere Neuigkeiten.",
+        "highlighted_words": [
+            "News",
+            "News"
+        ],
+        "position": 72,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.08841153234243393,
+            "neu": 0.8651369214057922,
+            "pos": 0.04645155370235443
+        }
+    },
+    {
+        "title": "GTPool.io",
+        "snippet": "UBQ and HYP are GPU only. Feel free to ask any questions in our Telegram chat; Stay in tune and subscribe to official Telegram News channel. \u041a\u0430\u043a \u043d\u0430\u0447\u0430\u0442\u044c. \u0414\u043b\u044f ...",
+        "highlighted_words": [
+            "News"
+        ],
+        "position": 73,
+        "date": "Dec 12, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.07405223045498133,
+            "neu": 0.7027132511138916,
+            "pos": 0.22323454543948174
+        }
+    },
+    {
+        "title": "TROLL zu THB",
+        "snippet": "KuCoin ist eine globale B\u00f6rse f\u00fcr Kryptow\u00e4hrungen, mit der man sicher und einfach B\u00f6rsen wie Bitcoin, Altcoin, Ethereum usw. kaufen, verkaufen und lagern ...",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 74,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.09477556683123112,
+            "neu": 0.7937323749065399,
+            "pos": 0.11149201542139053
+        }
+    },
+    {
+        "title": "CLANKER zu ILS",
+        "snippet": "KuCoin ist eine globale B\u00f6rse f\u00fcr Kryptow\u00e4hrungen, mit der man sicher und einfach B\u00f6rsen wie Bitcoin, Altcoin, Ethereum usw. kaufen, verkaufen und lagern ...",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 75,
+        "date": "Dec 13, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.07905607111752033,
+            "neu": 0.7798138558864594,
+            "pos": 0.14113003015518188
+        }
+    },
+    {
+        "title": "Cara Mendaftar Crypto Exchange Di 2024",
+        "snippet": "Anda harus memilih mata uang atau aset kripto yang ingin Anda deposit ke akun crypto exchange Anda, seperti rupiah, dolar, Bitcoin, Ethereum, atau lainnya. Anda ...",
+        "highlighted_words": [
+            "Ethereum"
+        ],
+        "position": 76,
+        "date": "Dec 10, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.04846534505486488,
+            "neu": 0.9029682278633118,
+            "pos": 0.048566434532403946
+        }
+    },
+    {
+        "title": "Crypto on a Budget: Your Guide to Low-Fee Trading Options",
+        "snippet": "Ethereum Apps To Create New Version Of Technology. Follow Us on ... You can be the first to find out the latest news and tips about trading, markets...",
+        "highlighted_words": [
+            "Ethereum",
+            "news"
+        ],
+        "position": 77,
+        "date": "Dec 11, 2023",
+        "sentiment": "neutral",
+        "probs": {
+            "neg": 0.018499204656109214,
+            "neu": 0.7135678827762604,
+            "pos": 0.2679330036044121
+        }
+    }
+]

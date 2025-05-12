@@ -1,13 +1,4 @@
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.metrics import mean_absolute_error
-
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import LSTM, Dense, Dropout
-from tensorflow.keras.callbacks import EarlyStopping
 
 from coinmetrics.api_client import CoinMetricsClient
 
